@@ -26,12 +26,6 @@
                 "difficulty": "12.5",
                 "combo": "729",
                 "charter": "Barbarianerman vs. NerSAN"
-            },
-            "Legacy": {
-                "level": "11",
-                "difficulty": "--",
-                "combo": "611",
-                "charter": "Arenn Saki"
             }
         }
     },
@@ -152,12 +146,6 @@
                 "difficulty": "13.4",
                 "combo": "433",
                 "charter": "Arenn Saki&Catcats"
-            },
-            "Legacy": {
-                "level": "15",
-                "difficulty": "--",
-                "combo": "564",
-                "charter": "Arenn Saki&Catcats"
             }
         }
     },
@@ -188,12 +176,6 @@
                 "difficulty": "12.8",
                 "combo": "517",
                 "charter": "Catcats & 百九十八"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "532",
-                "charter": "Catcats"
             }
         }
     },
@@ -224,12 +206,6 @@
                 "difficulty": "13.4",
                 "combo": "733",
                 "charter": "百九十八"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "909",
-                "charter": "小鹏"
             }
         }
     },
@@ -260,12 +236,6 @@
                 "difficulty": "14.8",
                 "combo": "978",
                 "charter": "XMT小咩兔"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "753",
-                "charter": "CN_115"
             }
         }
     },
@@ -356,12 +326,6 @@
                 "difficulty": "12.6",
                 "combo": "554",
                 "charter": "CN_115+TangScend"
-            },
-            "Legacy": {
-                "level": "12",
-                "difficulty": "--",
-                "combo": "651",
-                "charter": "阿爽"
             }
         }
     },
@@ -392,12 +356,6 @@
                 "difficulty": "14.9",
                 "combo": "1171",
                 "charter": "晨 vs. 阿爽"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "817",
-                "charter": "阿爽"
             }
         }
     },
@@ -458,12 +416,6 @@
                 "difficulty": "15.2",
                 "combo": "941",
                 "charter": "NerSAN"
-            },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "961",
-                "charter": "阿爽"
             }
         }
     },
@@ -494,12 +446,6 @@
                 "difficulty": "15.8",
                 "combo": "1235",
                 "charter": "分化者"
-            },
-            "Legacy": {
-                "level": "15",
-                "difficulty": "--",
-                "combo": "1028",
-                "charter": "分化者『RageS』"
             }
         }
     },
@@ -620,12 +566,6 @@
                 "difficulty": "14.2",
                 "combo": "689",
                 "charter": "Uvernight fixed by 百九十八"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "762",
-                "charter": "Uvernight"
             }
         }
     },
@@ -656,17 +596,11 @@
                 "difficulty": "14.8",
                 "combo": "750",
                 "charter": "B B M pow"
-            },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "615",
-                "charter": "Ctymax vs 阿爽"
             }
         }
     },
-    "NYA!!!": {
-        "song": "NYA!!!",
+    "NYA!!!(Phigros ver.)": {
+        "song": "NYA!!!(Phigros ver.)",
         "illustration": "https://img.moegirl.org.cn/common/thumb/7/78/Nya_221_Phigros.png/300px-Nya_221_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/7/78/Nya_221_Phigros.png",
         "chapter": "Chapter 5 霓虹灯牌",
@@ -1069,8 +1003,8 @@
     },
     "Clock Paradox": {
         "song": "Clock Paradox",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/8/81/Clock_Paradox_jacket.png/300px-Clock_Paradox_jacket.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/8/81/Clock_Paradox_jacket.png",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/7/71/Clock_Paradox.jpeg/300px-Clock_Paradox.jpeg",
+        "illustration_big": "https://img.moegirl.org.cn/common/7/71/Clock_Paradox.jpeg",
         "chapter": "Chapter 7 时钟链接",
         "bpm": "140",
         "composer": "WyvernP",
@@ -1622,12 +1556,6 @@
                 "difficulty": "13.6",
                 "combo": "564",
                 "charter": "NerSAN"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "549",
-                "charter": "__Additional__(Self)"
             }
         }
     },
@@ -1718,12 +1646,6 @@
                 "difficulty": "14.9",
                 "combo": "1090",
                 "charter": "百九十八"
-            },
-            "Legacy": {
-                "level": "15",
-                "difficulty": "--",
-                "combo": "1293",
-                "charter": "Catcats"
             }
         }
     },
@@ -1752,7 +1674,7 @@
             "IN": {
                 "level": "15",
                 "difficulty": "15.9",
-                "combo": "1156",
+                "combo": "1148",
                 "charter": "Gausbon"
             }
         }
@@ -2654,12 +2576,6 @@
                 "difficulty": "14.8",
                 "combo": "921",
                 "charter": "Gausbon"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "746",
-                "charter": "阿爽"
             }
         }
     },
@@ -2726,12 +2642,6 @@
                 "difficulty": "14.2",
                 "combo": "689",
                 "charter": "百九十八"
-            },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "1368",
-                "charter": "H.C.C"
             }
         }
     },
@@ -2762,12 +2672,6 @@
                 "difficulty": "13.1",
                 "combo": "885",
                 "charter": "阿爽 & 百九十八"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "875",
-                "charter": "阿爽"
             }
         }
     },
@@ -2797,12 +2701,6 @@
                 "level": "13",
                 "difficulty": "13.3",
                 "combo": "781",
-                "charter": "猫の信"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "857",
                 "charter": "猫の信"
             }
         }
@@ -2900,12 +2798,6 @@
                 "difficulty": "11.7",
                 "combo": "346",
                 "charter": "JKy"
-            },
-            "Legacy": {
-                "level": "11",
-                "difficulty": "--",
-                "combo": "296",
-                "charter": "阿爽"
             }
         }
     },
@@ -2936,12 +2828,6 @@
                 "difficulty": "12.6",
                 "combo": "669",
                 "charter": "云正太"
-            },
-            "Legacy": {
-                "level": "12",
-                "difficulty": "--",
-                "combo": "740",
-                "charter": "Cloud Catcats"
             }
         }
     },
@@ -2972,12 +2858,6 @@
                 "difficulty": "14.1",
                 "combo": "1031",
                 "charter": "NerSAN & 百九十八"
-            },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "912",
-                "charter": "Drop Catcats"
             }
         }
     },
@@ -3008,12 +2888,6 @@
                 "difficulty": "15.2",
                 "combo": "1186",
                 "charter": "撕裂者『Alloces vs Shin』"
-            },
-            "Legacy": {
-                "level": "15",
-                "difficulty": "--",
-                "combo": "1093",
-                "charter": "撕裂者『無極』"
             }
         }
     },
@@ -3074,12 +2948,6 @@
                 "difficulty": "14.4",
                 "combo": "840",
                 "charter": "Barbarianerman feat. 晨"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "815",
-                "charter": "阿爽"
             }
         }
     },
@@ -3110,12 +2978,6 @@
                 "difficulty": "14.1",
                 "combo": "520",
                 "charter": "Barbarianerman"
-            },
-            "Legacy": {
-                "level": "13",
-                "difficulty": "--",
-                "combo": "493",
-                "charter": "Gausbon"
             }
         }
     },
@@ -3207,12 +3069,6 @@
                 "combo": "968",
                 "charter": "晨"
             },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "954",
-                "charter": "Catcats aka. 無極 VS H.C.C."
-            },
             "AT": {
                 "level": "16",
                 "difficulty": "16.1",
@@ -3278,12 +3134,6 @@
                 "difficulty": "14.2",
                 "combo": "861",
                 "charter": "StupiGGy fixed by 百九十八"
-            },
-            "Legacy": {
-                "level": "14",
-                "difficulty": "--",
-                "combo": "883",
-                "charter": "StupiGGy"
             }
         }
     },
@@ -4784,6 +4634,66 @@
                 "difficulty": "14.6",
                 "combo": "613",
                 "charter": "TangScend -Err0rederci-"
+            }
+        }
+    },
+    "c.s.q.n.": {
+        "song": "c.s.q.n.",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "174",
+        "composer": "Aoi",
+        "length": "2:01",
+        "illustrator": "Ctymax vs. TNik feat. 出前",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.1",
+                "combo": "330",
+                "charter": "b.b.n.m."
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.6",
+                "combo": "755",
+                "charter": "h.o.m.e.e.e."
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.7",
+                "combo": "1066",
+                "charter": "s.t.p.g."
+            }
+        }
+    },
+    "Brave Notes": {
+        "song": "Brave Notes",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "192",
+        "composer": "Turquoise(DRIVE.+Nota)",
+        "length": "?",
+        "illustrator": "林语",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.6",
+                "combo": "?",
+                "charter": "Brave Eaimo"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.4",
+                "combo": "?",
+                "charter": "Brave Eaimo"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.6",
+                "combo": "768",
+                "charter": "Brave Eaimo"
             }
         }
     },

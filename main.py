@@ -34,7 +34,10 @@ for idx, item in enumerate(ul_data):
         tds = item.find_all('td')
         song = get_stripped_strings(item.th.stripped_strings)
         # print(song)
-        illustration = (tds[0].a.img.get('src'))
+        try:
+            illustration = (tds[0].a.img.get('src'))
+        except:
+            illustration = 'undefined'
         illustration_big = illustration.replace('thumb/','').rsplit('/',1)[0]
         chapter = get_stripped_strings(item.find('td', text="所属章节").find_next("td").stripped_strings)
         bpm = get_stripped_strings(item.find('td', text="BPM").find_next("td").stripped_strings)

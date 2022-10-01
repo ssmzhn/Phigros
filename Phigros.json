@@ -4639,13 +4639,13 @@
     },
     "c.s.q.n.": {
         "song": "c.s.q.n.",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/64/Csqn_Phigros.png/300px-Csqn_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/64/Csqn_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "174",
         "composer": "Aoi",
-        "length": "2:01",
-        "illustrator": "Ctymax vs. TNik feat. 出前",
+        "length": "2:04",
+        "illustrator": "Ctymax vs. TNiK feat. 出前",
         "chart": {
             "EZ": {
                 "level": "5",
@@ -4669,24 +4669,24 @@
     },
     "Brave Notes": {
         "song": "Brave Notes",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/6c/Brave_Notes_Phigros.png/300px-Brave_Notes_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/6c/Brave_Notes_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "192",
         "composer": "Turquoise(DRIVE.+Nota)",
-        "length": "?",
+        "length": "01:58",
         "illustrator": "林语",
         "chart": {
             "EZ": {
                 "level": "5",
                 "difficulty": "5.6",
-                "combo": "?",
+                "combo": "299",
                 "charter": "Brave Eaimo"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.4",
-                "combo": "?",
+                "combo": "442",
                 "charter": "Brave Eaimo"
             },
             "IN": {

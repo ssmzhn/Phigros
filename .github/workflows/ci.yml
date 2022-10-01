@@ -4,6 +4,7 @@ on:
       - cron: '0 22 * * *'
   watch:
       types: [started]
+  workflow_dispatch:
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -15,6 +16,7 @@ jobs:
           python-version: 3.x
       - run: pip3 install -r requirements.txt
       - run: python3 main.py
+      - run: python3 get_version.py
       # - run: mkdocs gh-deploy --force
       - name: commit
         env:

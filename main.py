@@ -11,7 +11,7 @@ def go(st):
         if st:
             return str(st).strip()
         else:
-            return "undefind"
+            return "undefined"
 
 def get_stripped_strings(stripped_strings):
     for x in stripped_strings:
@@ -61,7 +61,7 @@ for idx, item in enumerate(ul_data):
                 "combo": go(ez_combo),
                 "charter": go(ez_charter)
             }
-            print(chart["EZ"])
+            #print(chart["EZ"])
         else:
             ez_level = 0
             ez_difficulty = 0

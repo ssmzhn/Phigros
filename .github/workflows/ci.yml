@@ -17,6 +17,7 @@ jobs:
       - run: pip3 install -r requirements.txt
       - run: python3 main.py
       - run: python3 get_version.py
+      - run: python3 get_tip.py
       # - run: mkdocs gh-deploy --force
       - name: commit
         env:

@@ -7,9 +7,11 @@
 
 ## 使用
 
-`Phigros.json` 为谱面信息，`version_info.json` 为版本号和更新日志信息。
+`Phigros.json` 为谱面信息；  
+`version_info.json` 为版本号和更新日志信息；  
+`tips.json` 为 Phigros tips 信息。
 
-可以通过 [Phigros.json](https://ssmzhn.github.io/Phigros/Phigros.json) 和 [version\_info.json](https://ssmzhn.github.io/Phigros/version_info.json) 进行访问。
+可以通过 [Phigros.json](https://ssmzhn.github.io/Phigros/Phigros.json) 、 [version\_info.json](https://ssmzhn.github.io/Phigros/version_info.json) 、 [tips.json](https://ssmzhn.github.io/Phigros/tips.json) 进行访问。
 
 ## 开源
 Apache 2.0

@@ -32,7 +32,7 @@ for idx, item in enumerate(ul_data):
     # print(item)
     if idx+1:
         tds = item.find_all('td')
-        song = get_stripped_strings(item.th.stripped_strings)
+        song = re.sub(r'\[\d+\]','',item.th.get_text())
         # print(song)
         try:
             illustration = (tds[0].a.img.get('src'))
@@ -43,7 +43,7 @@ for idx, item in enumerate(ul_data):
         bpm = get_stripped_strings(item.find('td', text="BPM").find_next("td").stripped_strings)
         composer = re.sub(r'\[\d+\]','',item.find('td', text="曲师").find_next("td").get_text())
         length = item.find('td', text="长度").find_next("td").string
-        illustrator = get_stripped_strings(item.find('td', text="画师").find_next("td").stripped_strings)
+        illustrator = re.sub(r'\[\d+\]','',item.find('td', text="画师").find_next("td").get_text())
         chart = {}
         if not item.find('td', text="EZ") is None:
             current = item.find('td', text="EZ").find_next('td')
@@ -53,7 +53,7 @@ for idx, item in enumerate(ul_data):
             current = current.find_next("td")
             ez_combo = current.string
             current = current.find_next("td")
-            ez_charter = get_stripped_strings(current.stripped_strings)
+            ez_charter = re.sub(r'\[\d+\]','',current.get_text())
             # raise ValueError
             chart["EZ"] = {
                 "level": go(ez_level),
@@ -76,7 +76,7 @@ for idx, item in enumerate(ul_data):
             current = current.find_next("td")
             hd_combo = current.string
             current = current.find_next("td")
-            hd_charter = get_stripped_strings(current.stripped_strings)
+            hd_charter = re.sub(r'\[\d+\]','',current.get_text())
             chart["HD"] = {
                               "level": go(hd_level),
                               "difficulty": go(hd_difficulty),
@@ -97,7 +97,7 @@ for idx, item in enumerate(ul_data):
             current = current.find_next("td")
             in_combo = current.string
             current = current.find_next("td")
-            in_charter = get_stripped_strings(current.stripped_strings)
+            in_charter = re.sub(r'\[\d+\]','',current.get_text())
             chart["IN"] = {
                               "level": go(in_level),
                               "difficulty": go(in_difficulty),
@@ -115,7 +115,7 @@ for idx, item in enumerate(ul_data):
             lc_level = item.find('td', text="Legacy").find_next("td").string
             lc_difficulty = lc_level.find_next("td").string
             lc_combo = lc_difficulty.find_next("td").string
-            lc_charter = get_stripped_strings(lc_combo.find_next("td").stripped_strings)  # if not lc_charter is None else "15"
+            lc_charter = re.sub(r'\[\d+\]','',lc_combo.find_next("td").get_text())  # if not lc_charter is None else "15"
             chart["Legacy"] = {
                                   "level": go(lc_level),
                                   "difficulty": go(lc_difficulty),
@@ -132,7 +132,7 @@ for idx, item in enumerate(ul_data):
             at_level = item.find('td', text="AT").find_next("td").string
             at_difficulty = at_level.find_next("td").string
             at_combo = at_difficulty.find_next("td").string
-            at_charter = get_stripped_strings(at_combo.find_next("td").stripped_strings)
+            at_charter = re.sub(r'\[\d+\]','',at_combo.find_next("td").get_text())
             chart["AT"] = {
                               "level": go(at_level),
                               "difficulty": go(at_difficulty),

@@ -295,7 +295,7 @@
                 "level": "14",
                 "difficulty": "14.8",
                 "combo": "843",
-                "charter": "AUTO. SHOOTER."
+                "charter": "AUTO. SHOOTER. fixed by Ctymax"
             }
         }
     },
@@ -445,7 +445,7 @@
                 "level": "15",
                 "difficulty": "15.8",
                 "combo": "1235",
-                "charter": "分化者"
+                "charter": "分化者 fixed by Barbarianerman"
             }
         }
     },
@@ -2443,7 +2443,7 @@
                 "level": "15",
                 "difficulty": "15.5",
                 "combo": "1322",
-                "charter": "ST"
+                "charter": "ST AS is XMT"
             },
             "AT": {
                 "level": "16",
@@ -2515,7 +2515,7 @@
                 "level": "13",
                 "difficulty": "13.6",
                 "combo": "713",
-                "charter": "倪"
+                "charter": "倪之所爽"
             }
         }
     },
@@ -2689,19 +2689,19 @@
                 "level": "5",
                 "difficulty": "5.7",
                 "combo": "307",
-                "charter": "猫の信"
+                "charter": "猫の信 & 百九十八"
             },
             "HD": {
                 "level": "9",
                 "difficulty": "9.7",
                 "combo": "648",
-                "charter": "猫の信"
+                "charter": "猫の信 & 百九十八"
             },
             "IN": {
                 "level": "13",
                 "difficulty": "13.3",
                 "combo": "781",
-                "charter": "猫の信"
+                "charter": "猫の信 & 百九十八"
             }
         }
     },
@@ -2771,8 +2771,8 @@
             }
         }
     },
-    "Dash": {
-        "song": "Dash",
+    "Dash from SOUL NOTES": {
+        "song": "Dash from SOUL NOTES",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/80/Dash_Phigros.png/300px-Dash_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/80/Dash_Phigros.png",
         "chapter": "单曲精选集",
@@ -2831,8 +2831,8 @@
             }
         }
     },
-    "Drop It": {
-        "song": "Drop It",
+    "Drop It from SOUL NOTES": {
+        "song": "Drop It from SOUL NOTES",
         "illustration": "https://img.moegirl.org.cn/common/thumb/4/4a/Drop_It_Phigros.png/300px-Drop_It_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/4/4a/Drop_It_Phigros.png",
         "chapter": "单曲精选集",
@@ -3037,7 +3037,7 @@
                 "level": "14",
                 "difficulty": "14.9",
                 "combo": "721",
-                "charter": "A.S.H"
+                "charter": "A.S.H&晨"
             }
         }
     },
@@ -3673,7 +3673,7 @@
                 "level": "14",
                 "difficulty": "14.6",
                 "combo": "852",
-                "charter": "Two skunks (Ctymax and 晨)"
+                "charter": "Two skunks (Ctymax and 晨)in Africa shouting WAHHHHHH!"
             }
         }
     },
@@ -3943,7 +3943,7 @@
                 "level": "15",
                 "difficulty": "15.3",
                 "combo": "616",
-                "charter": "縱連打の信者"
+                "charter": "縱連打の信者☆無極"
             }
         }
     },
@@ -4123,7 +4123,7 @@
                 "level": "15",
                 "difficulty": "15.4",
                 "combo": "833",
-                "charter": "森德雷斯"
+                "charter": "森德雷斯 vs. 百九十八"
             }
         }
     },
@@ -4195,7 +4195,7 @@
         "bpm": "180",
         "composer": "siqlo",
         "length": "2:04",
-        "illustrator": "出前",
+        "illustrator": "出前 x nekomiya",
         "chart": {
             "EZ": {
                 "level": "3",
@@ -4513,7 +4513,7 @@
                 "level": "15",
                 "difficulty": "15.5",
                 "combo": "793",
-                "charter": "Jeitie & CorruptedEntity"
+                "charter": "Jeitie & CorruptedEntity『Hollow』"
             }
         }
     },

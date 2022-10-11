@@ -8,7 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2

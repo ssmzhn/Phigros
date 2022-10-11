@@ -1,5 +1,5 @@
 import json
-
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -41,7 +41,7 @@ for idx, item in enumerate(ul_data):
         illustration_big = illustration.replace('thumb/','').rsplit('/',1)[0]
         chapter = get_stripped_strings(item.find('td', text="所属章节").find_next("td").stripped_strings)
         bpm = get_stripped_strings(item.find('td', text="BPM").find_next("td").stripped_strings)
-        composer = get_stripped_strings(item.find('td', text="曲师").find_next("td").stripped_strings)
+        composer = re.sub(r'\[\d+\]','',item.find('td', text="曲师").find_next("td").get_text())
         length = item.find('td', text="长度").find_next("td").string
         illustrator = get_stripped_strings(item.find('td', text="画师").find_next("td").stripped_strings)
         chart = {}

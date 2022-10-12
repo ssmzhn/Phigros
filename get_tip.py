@@ -23,7 +23,7 @@ ol_list = tip_table.find_all('ol')
 tip_info = {}
 for x in ol_list:
     if not ('class' in x.attrs.keys() and x.attrs['class'] == ['references']):  # 可能会出错
-        group_name = x.find_previous().get_text().strip()
+        group_name = re.sub(r'\[(.*?)\]','',x.find_previous('b').get_text()).strip()
         tips = []
         for y in x:
             if y.name == 'li':

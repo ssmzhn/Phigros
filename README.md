@@ -4,6 +4,13 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
+本仓库 Phigros 版本： <!-- begin Phigros version --> <!-- end Phigros version -->
+
+更新时间： <!-- begin Phigros time --> <!-- end Phigros time -->
+更新日志 / 官方动态：
+<!-- begin Phigros log -->
+<!-- end Phigros log -->
+
 ## 介绍
 
 自动生成萌娘百科 Phigros/谱面信息 json 数据。  

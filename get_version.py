@@ -24,10 +24,13 @@ ver_log = ver_log_beautifulsoup.get_text()
 ver_log = re.sub(r'\[\d+\]?','',ver_log).strip()
 #print('Phi 当前版本:',ver_text.group('version'))
 #print('Phi 更新日期:',ver_text.group('year'))
+year = int(ver_text.group('year'))
+month = int(ver_text.group('month'))
+day = int(ver_text.group('day'))
 date = {
-    'year':int(ver_text.group('year')),
-    'month':int(ver_text.group('month')),
-    'day':int(ver_text.group('day'))
+    'year':year,
+    'month':month,
+    'day':day
 }
 info = {
     'version':ver_text.group('version'),
@@ -36,3 +39,10 @@ info = {
 }
 with open('version_info.json','w') as f:
     f.write(json.dumps(info,indent=4,ensure_ascii=False))
+
+readme = open('README.md').read()
+readme = re.sub(r'<!-- begin Phigros version -->(.*)<!-- end Phigros version -->',r'<!-- begin Phigros version -->{}<!-- end Phigros version -->'.format(ver_text.group('version')),readme)
+readme = re.sub(r'<!-- begin Phigros log -->(.*)<!-- end Phigros log -->',r'<!-- begin Phigros log -->{}<!-- end Phigros log -->'.format(ver_log),readme)
+readme = re.sub(r'<!-- begin Phigros time -->(.*)<!-- end Phigros time -->',r'<!-- begin Phigros time -->\n{}.{}.{}\n<!-- end Phigros time -->'.format(year,month,day),readme)
+with open('README.md','w') as f:
+    f.write(readme)

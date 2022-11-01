@@ -2,7 +2,11 @@ import re
 import requests
 from bs4 import BeautifulSoup
 import json
-
+def str_quoted(s:str) -> str:
+    str_list = []
+    for x in s.splitlines():
+        str_list.append('> '+x+'  ')
+    return '\n'.join(str_list)
 header = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0',
     'Content-Type': 'application/x-www-form-urlencoded',
@@ -42,7 +46,7 @@ with open('version_info.json','w') as f:
 
 readme = open('README.md').read()
 readme = re.sub(r'<!-- begin Phigros version -->(.*)<!-- end Phigros version -->',r'<!-- begin Phigros version --> `{}` <!-- end Phigros version -->'.format(ver_text.group('version')),readme)
-readme = re.sub(r'<!-- begin Phigros log -->(.*)<!-- end Phigros log -->',r'<!-- begin Phigros log -->\n{}\n<!-- end Phigros log -->'.format(ver_log),readme)
+readme = re.sub(r'<!-- begin Phigros log -->(.*)<!-- end Phigros log -->',r'<!-- begin Phigros log -->\n{}\n<!-- end Phigros log -->'.format(str_quoted(ver_log)),readme,flags=16)
 readme = re.sub(r'<!-- begin Phigros time -->(.*)<!-- end Phigros time -->',r'<!-- begin Phigros time --> {}.{}.{} <!-- end Phigros time -->'.format(year,month,day),readme)
 with open('README.md','w') as f:
     f.write(readme)

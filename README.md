@@ -22,7 +22,7 @@
 
 ## 介绍
 
-自动生成萌娘百科 Phigros/谱面信息 json 数据。  
+自动生成萌娘百科 [Phigros/谱面信息](https://mzh.moegirl.org.cn/Phigros/谱面信息) json 数据。  
 通过 Github Actions 每日构建。
 
 ## 使用

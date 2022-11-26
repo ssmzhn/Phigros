@@ -99,11 +99,11 @@ for idx, item in enumerate(ul_data):
             current = current.find_next("td")
             in_charter = re.sub(r'\[\d+\]','',current.get_text())
             chart["IN"] = {
-                              "level": go(in_level),
-                              "difficulty": go(in_difficulty),
-                              "combo": go(in_combo),
-                              "charter": go(in_charter),
-                          }
+                "level": go(in_level),
+                "difficulty": go(in_difficulty),
+                "combo": go(in_combo),
+                "charter": go(in_charter),
+            }
 
         else:
             in_level = 0
@@ -117,11 +117,11 @@ for idx, item in enumerate(ul_data):
             lc_combo = lc_difficulty.find_next("td").string
             lc_charter = re.sub(r'\[\d+\]','',lc_combo.find_next("td").get_text())  # if not lc_charter is None else "15"
             chart["Legacy"] = {
-                                  "level": go(lc_level),
-                                  "difficulty": go(lc_difficulty),
-                                  "combo": go(lc_combo),
-                                  "charter": go(lc_charter),
-                              }
+                "level": go(lc_level),
+                "difficulty": go(lc_difficulty),
+                "combo": go(lc_combo),
+                "charter": go(lc_charter),
+            }
 
         else:
             lc_level = 0
@@ -134,12 +134,11 @@ for idx, item in enumerate(ul_data):
             at_combo = at_difficulty.find_next("td").string
             at_charter = re.sub(r'\[\d+\]','',at_combo.find_next("td").get_text())
             chart["AT"] = {
-                              "level": go(at_level),
-                              "difficulty": go(at_difficulty),
-                              "combo": go(at_combo),
-                              "charter": go(at_charter)
-
-                          }
+                "level": go(at_level),
+                "difficulty": go(at_difficulty),
+                "combo": go(at_combo),
+                "charter": go(at_charter)
+            }
         else:
             at_level = 0
             at_difficulty = 0
@@ -156,15 +155,15 @@ for idx, item in enumerate(ul_data):
         if go(song).find('Cipher') != -1:
             song = 'Cipher: /2&//<|0'
         data_list[go(song)] = {
-                                                       "song": go(song),
-                                                       "illustration": go(illustration),
-                                                       "illustration_big": go(illustration_big),
-                                                       "chapter": go(chapter),
-                                                       "bpm": go(bpm),
-                                                       "composer": go(composer),
-                                                       "length": go(length),
-                                                       "illustrator": go(illustrator),
-                                                       "chart": chart
+            "song": go(song),
+            "illustration": go(illustration),
+            "illustration_big": go(illustration_big),
+            "chapter": go(chapter),
+            "bpm": go(bpm),
+            "composer": go(composer),
+            "length": go(length),
+            "illustrator": go(illustrator),
+            "chart": chart
                                                    }
 data = json.dumps(data_list, indent=4, ensure_ascii=False)
 

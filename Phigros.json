@@ -4674,7 +4674,7 @@
         "chapter": "单曲精选集",
         "bpm": "192",
         "composer": "Turquoise(DRIVE.+Nota)",
-        "length": "01:58",
+        "length": "1:58",
         "illustrator": "林语",
         "chart": {
             "EZ": {
@@ -4694,6 +4694,192 @@
                 "difficulty": "14.6",
                 "combo": "768",
                 "charter": "Brave Eaimo"
+            }
+        }
+    },
+    "盏茗": {
+        "song": "盏茗",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/ec/%E7%9B%8F%E8%8C%97_Phigros.png/300px-%E7%9B%8F%E8%8C%97_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/ec/%E7%9B%8F%E8%8C%97_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "131",
+        "composer": "茶鸣拾贰律",
+        "length": "2:10",
+        "illustrator": "茶鸣拾贰律",
+        "chart": {
+            "EZ": {
+                "level": "2",
+                "difficulty": "2.1",
+                "combo": "83",
+                "charter": "Barbarianerman"
+            },
+            "HD": {
+                "level": "4",
+                "difficulty": "4.3",
+                "combo": "176",
+                "charter": "Barbarianerman"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.3",
+                "combo": "706",
+                "charter": "NerSAN sipping XMTea"
+            }
+        }
+    },
+    "青芽": {
+        "song": "青芽",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/e7/%E9%9D%92%E8%8A%BD_Phigros.png/300px-%E9%9D%92%E8%8A%BD_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/e7/%E9%9D%92%E8%8A%BD_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "216",
+        "composer": "茶鸣拾贰律",
+        "length": "2:28",
+        "illustrator": "茶鸣拾贰律",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.2",
+                "combo": "366",
+                "charter": "生根发芽的小咩兔"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.8",
+                "combo": "520",
+                "charter": "逆流而上的小咩兔"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "1102",
+                "charter": "Hook vs. _铁"
+            }
+        }
+    },
+    "Eternal Snow": {
+        "song": "Eternal Snow",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/f3/Eternal_Snow_Phigros.png/300px-Eternal_Snow_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/f3/Eternal_Snow_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "140",
+        "composer": "Abyss Idols",
+        "length": "2:35",
+        "illustrator": "Sak",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.2",
+                "combo": "288",
+                "charter": "M3d1uM"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.8",
+                "combo": "533",
+                "charter": "M3d1uM"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.5",
+                "combo": "700",
+                "charter": "JKy"
+            }
+        }
+    },
+    "Rainy Season": {
+        "song": "Rainy Season",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/4/43/Rainy_Season_Phigros.png/300px-Rainy_Season_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/4/43/Rainy_Season_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "188",
+        "composer": "Abyss Idols",
+        "length": "1:53",
+        "illustrator": "Robins",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.4",
+                "combo": "304",
+                "charter": "StupiGGy"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.7",
+                "combo": "594",
+                "charter": "StupiGGy"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.4",
+                "combo": "660",
+                "charter": "Raiky Season"
+            }
+        }
+    },
+    "El Condor Pasa (Phigros Edit)": {
+        "song": "El Condor Pasa (Phigros Edit)",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d7/El_Condor_Pasa_Phigros.png/300px-El_Condor_Pasa_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d7/El_Condor_Pasa_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "150",
+        "composer": "Plastic Fruits",
+        "length": "2:12",
+        "illustrator": "青鸟",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.6",
+                "combo": "259",
+                "charter": "TimiTini"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.5",
+                "combo": "585",
+                "charter": "TimiTini"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "1140",
+                "charter": "XMT小咩兔"
+            }
+        }
+    },
+    "Break Over": {
+        "song": "Break Over",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d2/Break_Over_Phigros.png/300px-Break_Over_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d2/Break_Over_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "185",
+        "composer": "K-forest",
+        "length": "2:09",
+        "illustrator": "DoublePian",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.1",
+                "combo": "300",
+                "charter": "Barbarianerman"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.8",
+                "combo": "919",
+                "charter": "Barbarianerman"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.6",
+                "combo": "910",
+                "charter": "百九十八 vs. Barbarianerman"
+            },
+            "AT": {
+                "level": "14",
+                "difficulty": "14.9",
+                "combo": "570",
+                "charter": "百九十八"
             }
         }
     },

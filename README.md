@@ -4,19 +4,19 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `2.4.4` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `2.4.7` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2022.11.25 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2023.1.22 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2022.11.25更新！本次更新将带来音乐厂牌Oshiribeat的两首联动曲目。  
-> 两首新曲目分别是：  
-> 「El Condor Pasa (Phigros Edit)」 by Plastic Fruits  
-> 「Break Over」 by K-forest  
-> Oshiribeat是一个始于日本的音乐创作者团队，创作的音乐包含多种风格，亦或是超出常规的风格。  
-> 想要了解更多的小鸽子们可以移步下列网站咕！  
-> oshiribeats.bandcamp.com  
+> 铛铛铛！Phigros与茶鸣拾贰律的二次联动登场！本次更新已于1月22日（即农历大年初一）零点放出！  
+> 更新的歌曲是：  
+> 「瓷岁」 by 茶鸣拾贰律  
+> 「Feast远东之宴」 by 茶鸣拾贰律  
+> 此外，这两首歌曲将与歌曲「盏茗」和「青芽」一起组成茶鸣拾贰律精选集，游玩这四首歌均有可能获得歌曲对应的特殊头像哦咕！  
+> 最后，在这举家欢庆的节日，鸽游在这里祝各位小鸽子步步高升、事事顺利！  
+> 来年，也请多多关照咕~  
 <!-- end Phigros log -->
 
 ## 介绍

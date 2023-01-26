@@ -1,6 +1,6 @@
 import re
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, TemplateString
 import json
 
 header = {
@@ -23,11 +23,11 @@ ol_list = tip_table.find_all('ol')
 tip_info = {}
 for x in ol_list:
     if not ('class' in x.attrs.keys() and x.attrs['class'] == ['references']):  # 可能会出错
-        group_name = re.sub(r'\[(.*?)\]','',x.find_previous('b').get_text()).strip()
+        group_name = re.sub(r'\[(.*?)\]','',x.find_previous('b').get_text(types=(NavigableString, TemplateString))).strip()
         tips = []
         for y in x:
             if y.name == 'li':
-                single_tip = y.get_text().strip()
+                single_tip = y.get_text(types=(NavigableString, TemplateString)).strip()
                 single_tip = re.sub(r'引用错误：没有找到(.*)标签','',single_tip)
                 single_tip = re.sub(r'\[(.*?)\]','',single_tip)
                 tips.append(single_tip)

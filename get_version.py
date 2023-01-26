@@ -1,6 +1,6 @@
 import re
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, TemplateString
 import json
 def str_quoted(s:str) -> str:
     str_list = []
@@ -15,16 +15,21 @@ header = {
 }
 
 raw_version_html = requests.get('https://mzh.moegirl.org.cn/Phigros/%E8%B0%B1%E9%9D%A2%E4%BF%A1%E6%81%AF',headers=header).text
-raw_log_html = requests.get('https://mzh.moegirl.org.cn/Phigros/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95',headers=header).text
+raw_log_html = requests.get('https://mzh.moegirl.org.cn/Phigros/更新记录',headers=header).text
 
 ver_text = re.search(r'本页面现已更新至(?P<year>\d+)年(?P<month>\d+)月(?P<day>\d+)日更新的(?P<version>.*)版本。',raw_version_html)
 
 ver_log_beautifulsoup = BeautifulSoup(
         raw_log_html, 'html.parser'
-).find(
-        attrs={'class':"mf-section-1 collapsible-block"}
 )
-ver_log = ver_log_beautifulsoup.get_text()
+
+ver_log = ""
+title = ver_log_beautifulsoup.find('h2')
+for sibling in title.next_siblings:
+    if sibling.name == 'h2':
+        break
+    ver_log += sibling.get_text(types=(NavigableString, TemplateString))
+    
 ver_log = re.sub(r'\[\d+\]?','',ver_log).strip()
 #print('Phi 当前版本:',ver_text.group('version'))
 #print('Phi 更新日期:',ver_text.group('year'))

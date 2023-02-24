@@ -10,13 +10,22 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> 铛铛铛！Phigros与茶鸣拾贰律的二次联动登场！本次更新已于1月22日（即农历大年初一）零点放出！  
-> 更新的歌曲是：  
-> 「瓷岁」 by 茶鸣拾贰律  
-> 「Feast远东之宴」 by 茶鸣拾贰律  
-> 此外，这两首歌曲将与歌曲「盏茗」和「青芽」一起组成茶鸣拾贰律精选集，游玩这四首歌均有可能获得歌曲对应的特殊头像哦咕！  
-> 最后，在这举家欢庆的节日，鸽游在这里祝各位小鸽子步步高升、事事顺利！  
-> 来年，也请多多关照咕~  
+> Phigros 2.5.0版本已于2月24日22点更新，包含三首单曲：  
+>   
+> 「Poison AND÷OR Affection」 by LeaF  
+> 「インフェルノシティ」 by Ponchi♪ feat. はぁち  
+> 「Upshift」 by Iriss-Frantzz  
+> 此外，在本次更新中，部分歌曲的谱面以及难度也会进行修改。  
+>   
+>   
+> Phigros主线第八章将于2023年4月更新，包含曲目：  
+>   
+> 「The Chariot ~REVIIVAL~」by Attoclef  
+> 「Luminescence」by 米虾Fomiki & 初云CLoudie  
+> 「Crave Wave」by LandRoot  
+> 「Retribution」by nm-y & Kry.exe  
+>   
+> Phigros宣布Phigros与Rizline将与Paradigm: Reboot展开联动活动。  
 <!-- end Phigros log -->
 
 ## 介绍

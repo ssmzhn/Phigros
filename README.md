@@ -4,9 +4,9 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `2.4.7` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `2.5.0` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2023.1.22 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2023.2.24 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
@@ -25,7 +25,10 @@
 > 「Crave Wave」by LandRoot  
 > 「Retribution」by nm-y & Kry.exe  
 >   
-> Phigros宣布Phigros与Rizline将与Paradigm: Reboot展开联动活动。  
+> Phigros与Paradigm: Reboot的联动即将登场！即将更新的单曲内容有：  
+>   
+> 「零号车辆」 by seatrus  
+> 另外，还有一首单曲即将揭晓，敬请期待！  
 <!-- end Phigros log -->
 
 ## 介绍

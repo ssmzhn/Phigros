@@ -11,13 +11,13 @@
         "chart": {
             "EZ": {
                 "level": "1",
-                "difficulty": "1.1",
+                "difficulty": "1.0",
                 "combo": "66",
                 "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "6",
-                "difficulty": "6.7",
+                "difficulty": "6.5",
                 "combo": "418",
                 "charter": "Arenn Saki"
             },
@@ -54,7 +54,7 @@
             "IN": {
                 "level": "12",
                 "difficulty": "12.7",
-                "combo": "463",
+                "combo": "593",
                 "charter": "阿爽 & Ctymax"
             }
         }
@@ -71,7 +71,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "188",
                 "charter": "Ctymax"
             },
@@ -101,7 +101,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.0",
                 "combo": "279",
                 "charter": "晨"
             },
@@ -114,7 +114,7 @@
             "IN": {
                 "level": "13",
                 "difficulty": "13.7",
-                "combo": "764",
+                "combo": "584",
                 "charter": "晨 vs Barbarianerman"
             }
         }
@@ -131,7 +131,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "126",
                 "charter": "Arenn Saki&Catcats"
             },
@@ -161,7 +161,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.0",
                 "combo": "249",
                 "charter": "Catcats & 百九十八"
             },
@@ -191,7 +191,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.7",
+                "difficulty": "6.5",
                 "combo": "401",
                 "charter": "小鹏 fixed by Barbarianerman"
             },
@@ -221,7 +221,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.3",
+                "difficulty": "5.5",
                 "combo": "290",
                 "charter": "月下樱&115"
             },
@@ -251,7 +251,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "380",
                 "charter": "Gausbon"
             },
@@ -264,7 +264,7 @@
             "IN": {
                 "level": "14",
                 "difficulty": "14.4",
-                "combo": "969",
+                "combo": "1041",
                 "charter": "Gausbon"
             }
         }
@@ -281,7 +281,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.1",
+                "difficulty": "4.0",
                 "combo": "165",
                 "charter": "AUTO. SHOOTER."
             },
@@ -311,7 +311,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "182",
                 "charter": "阿爽"
             },
@@ -341,7 +341,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "419",
                 "charter": "阿爽"
             },
@@ -371,7 +371,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "470",
                 "charter": "StupiGGy"
             },
@@ -431,7 +431,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.8",
+                "difficulty": "5.5",
                 "combo": "221",
                 "charter": "分化者『RageS』"
             },
@@ -460,8 +460,8 @@
         "illustrator": "笔记RE",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.9",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "159",
                 "charter": "百九十八"
             },
@@ -491,7 +491,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "612",
                 "charter": "JKy"
             },
@@ -521,7 +521,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.0",
                 "combo": "302",
                 "charter": "-StupiGGy-"
             },
@@ -551,7 +551,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "190",
                 "charter": "Uvernight fixed by Barbarianerman"
             },
@@ -581,7 +581,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "190",
                 "charter": "Ctymax vs 阿爽"
             },
@@ -610,8 +610,8 @@
         "illustrator": "NEKO&海产",
         "chart": {
             "EZ": {
-                "level": "1",
-                "difficulty": "1.8",
+                "level": "2",
+                "difficulty": "2.0",
                 "combo": "122",
                 "charter": "HCC!!!"
             },
@@ -641,7 +641,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.2",
+                "difficulty": "3.0",
                 "combo": "262",
                 "charter": "鲲&百九十八"
             },
@@ -671,7 +671,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "221",
                 "charter": "Ctymax"
             },
@@ -700,8 +700,8 @@
         "illustrator": "英英英",
         "chart": {
             "EZ": {
-                "level": "6",
-                "difficulty": "6.8",
+                "level": "7",
+                "difficulty": "7.0",
                 "combo": "325",
                 "charter": "百九十八"
             },
@@ -731,7 +731,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "undefined",
+                "difficulty": "6.0",
                 "combo": "180",
                 "charter": "奥術 ~The Empery~"
             },
@@ -761,7 +761,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "undefined",
+                "difficulty": "7.5",
                 "combo": "637",
                 "charter": "無極☆雷鳴~?死の序曲?"
             },
@@ -803,7 +803,7 @@
             },
             "HD": {
                 "level": "6",
-                "difficulty": "6.4",
+                "difficulty": "6.5",
                 "combo": "394",
                 "charter": "亚树见希子 & 百九十八"
             },
@@ -827,13 +827,13 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.6",
+                "difficulty": "4.5",
                 "combo": "156",
                 "charter": "阿?爽"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.1",
+                "difficulty": "7.0",
                 "combo": "186",
                 "charter": "阿?爽"
             },
@@ -857,7 +857,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.2",
+                "difficulty": "6.0",
                 "combo": "196",
                 "charter": "百九十八"
             },
@@ -886,8 +886,8 @@
         "illustrator": "昔璃&TNiK",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.8",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "354",
                 "charter": "Barbarianerman"
             },
@@ -947,7 +947,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.3",
+                "difficulty": "6.5",
                 "combo": "276",
                 "charter": "六回目Traveler Scend"
             },
@@ -977,7 +977,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.7",
+                "difficulty": "7.5",
                 "combo": "414",
                 "charter": "信仰の剣『生』"
             },
@@ -1013,13 +1013,13 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.3",
+                "difficulty": "2.5",
                 "combo": "188",
                 "charter": "Barbarianerman vs. Alloces"
             },
             "HD": {
-                "level": "5",
-                "difficulty": "5.8",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "312",
                 "charter": "Barbarianerman vs. Alloces"
             },
@@ -1043,7 +1043,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.7",
+                "difficulty": "3.5",
                 "combo": "271",
                 "charter": "TimiTini"
             },
@@ -1073,7 +1073,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "328",
                 "charter": "晨 vs. XMT小咩兔"
             },
@@ -1103,7 +1103,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "338",
                 "charter": "Pcat"
             },
@@ -1133,13 +1133,13 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "undefined",
+                "difficulty": "3.0",
                 "combo": "350",
                 "charter": "Pcat『Scatter』"
             },
             "HD": {
-                "level": "10",
-                "difficulty": "10.6",
+                "level": "11",
+                "difficulty": "11.2",
                 "combo": "773",
                 "charter": "阿爽『Destroy』"
             },
@@ -1163,7 +1163,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.2",
+                "difficulty": "7.0",
                 "combo": "446",
                 "charter": "RDRT -p 19:08:31"
             },
@@ -1199,7 +1199,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "533",
                 "charter": "Jαckψ a.k.a JKy"
             },
@@ -1259,7 +1259,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.6",
+                "difficulty": "2.5",
                 "combo": "323",
                 "charter": "奇跡の希"
             },
@@ -1288,8 +1288,8 @@
         "illustrator": "わっふゑ",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "311",
                 "charter": "百九十八"
             },
@@ -1319,7 +1319,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.2",
+                "difficulty": "5.0",
                 "combo": "248",
                 "charter": "Arenn Saki as \"mAze\""
             },
@@ -1355,13 +1355,13 @@
         "chart": {
             "EZ": {
                 "level": "1",
-                "difficulty": "1.4",
+                "difficulty": "1.5",
                 "combo": "100",
                 "charter": "\"Manufacturer\" ~ Rikko"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.4",
+                "difficulty": "7.5",
                 "combo": "445",
                 "charter": "\"Creator\" ~ StupiGGy"
             },
@@ -1385,7 +1385,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.1",
+                "difficulty": "6.0",
                 "combo": "426",
                 "charter": "Alloces"
             },
@@ -1415,7 +1415,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "378",
                 "charter": "NerSAN"
             },
@@ -1445,7 +1445,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "290",
                 "charter": "TimiTini"
             },
@@ -1475,7 +1475,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.2",
+                "difficulty": "4.0",
                 "combo": "194",
                 "charter": "Barbarianerman"
             },
@@ -1541,7 +1541,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "111",
                 "charter": "__Additional__(Self)"
             },
@@ -1571,7 +1571,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.7",
+                "difficulty": "2.5",
                 "combo": "184",
                 "charter": "Ctymax"
             },
@@ -1601,7 +1601,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.6",
+                "difficulty": "6.5",
                 "combo": "567",
                 "charter": "百九十八"
             },
@@ -1631,7 +1631,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "384",
                 "charter": "Catcats"
             },
@@ -1661,7 +1661,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "undefined",
+                "difficulty": "6.5",
                 "combo": "596",
                 "charter": "Gausbon"
             },
@@ -1691,7 +1691,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.3",
+                "difficulty": "3.5",
                 "combo": "164",
                 "charter": "晨 vs 阿爽"
             },
@@ -1721,7 +1721,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.4",
+                "difficulty": "5.5",
                 "combo": "444",
                 "charter": "Gausbon"
             },
@@ -1751,7 +1751,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.7",
+                "difficulty": "7.5",
                 "combo": "517",
                 "charter": "無?極"
             },
@@ -1781,7 +1781,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.4",
+                "difficulty": "5.5",
                 "combo": "295",
                 "charter": "百九十八"
             },
@@ -1811,7 +1811,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "588",
                 "charter": "Gausbounce & 晨"
             },
@@ -1841,7 +1841,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.2",
+                "difficulty": "3.0",
                 "combo": "215",
                 "charter": "阿爽"
             },
@@ -1871,7 +1871,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.3",
+                "difficulty": "7.5",
                 "combo": "455",
                 "charter": "晨"
             },
@@ -1901,13 +1901,13 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.6",
+                "difficulty": "4.5",
                 "combo": "308",
                 "charter": "阿爽"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "undefined",
+                "difficulty": "7.5",
                 "combo": "628",
                 "charter": "阿爽"
             },
@@ -1937,7 +1937,7 @@
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.2",
+                "difficulty": "7.0",
                 "combo": "354",
                 "charter": "NerSAN"
             },
@@ -1961,13 +1961,13 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.6",
+                "difficulty": "3.5",
                 "combo": "292",
                 "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.4",
+                "difficulty": "7.5",
                 "combo": "421",
                 "charter": "Barbarianerman"
             },
@@ -2021,7 +2021,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.3",
+                "difficulty": "7.5",
                 "combo": "1052",
                 "charter": "Barbarianerman"
             },
@@ -2086,8 +2086,8 @@
         "illustrator": "谷地（青鸟modified）",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.9",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "355",
                 "charter": "Barbarianerman"
             },
@@ -2117,7 +2117,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.2",
+                "difficulty": "7.0",
                 "combo": "378",
                 "charter": "Barbarianerman"
             },
@@ -2153,7 +2153,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.7",
+                "difficulty": "2.5",
                 "combo": "165",
                 "charter": "Rikko"
             },
@@ -2183,7 +2183,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.6",
+                "difficulty": "3.5",
                 "combo": "283",
                 "charter": "NerSAN"
             },
@@ -2212,8 +2212,8 @@
         "illustrator": "ZG",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "455",
                 "charter": "Pcat"
             },
@@ -2243,7 +2243,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "308",
                 "charter": "XMT小咩兔"
             },
@@ -2273,7 +2273,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.1",
+                "difficulty": "6.0",
                 "combo": "499",
                 "charter": "其一 呼吸尚存的标志"
             },
@@ -2302,8 +2302,8 @@
         "illustrator": "Lanota ? Noxy Games Inc.",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.8",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "207",
                 "charter": "R."
             },
@@ -2333,7 +2333,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.6",
+                "difficulty": "3.5",
                 "combo": "259",
                 "charter": "Barbarianerman & J.R"
             },
@@ -2392,8 +2392,8 @@
         "illustrator": "Lanota ? Noxy Games Inc.",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.8",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "486",
                 "charter": "M3d1uM"
             },
@@ -2429,7 +2429,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.2",
+                "difficulty": "5.0",
                 "combo": "446",
                 "charter": "空の希"
             },
@@ -2465,7 +2465,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "393",
                 "charter": "晨"
             },
@@ -2501,7 +2501,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "226",
                 "charter": "波之所杂"
             },
@@ -2531,13 +2531,13 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.1",
+                "difficulty": "7.0",
                 "combo": "226",
                 "charter": "Ner, the inferior"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "undefined",
+                "difficulty": "7.5",
                 "combo": "489",
                 "charter": "Ner, the inferior"
             },
@@ -2561,13 +2561,13 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.1",
+                "difficulty": "2.0",
                 "combo": "83",
                 "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "176",
                 "charter": "Barbarianerman"
             },
@@ -2591,7 +2591,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.2",
+                "difficulty": "5.0",
                 "combo": "366",
                 "charter": "生根发芽的小咩兔"
             },
@@ -2605,7 +2605,7 @@
                 "level": "14",
                 "difficulty": "14.7",
                 "combo": "1102",
-                "charter": "Hook vs. _鉄"
+                "charter": "Hook vs._鉄"
             }
         }
     },
@@ -2621,19 +2621,19 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.6",
+                "difficulty": "3.5",
                 "combo": "120",
                 "charter": "「流」年大顺"
             },
             "HD": {
                 "level": "6",
-                "difficulty": "6.6",
+                "difficulty": "6.5",
                 "combo": "309",
                 "charter": "「流」年大顺"
             },
             "IN": {
                 "level": "7",
-                "difficulty": "7.1",
+                "difficulty": "7.0",
                 "combo": "365",
                 "charter": "「兔」年大吉"
             }
@@ -2651,7 +2651,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.6",
+                "difficulty": "6.5",
                 "combo": "600",
                 "charter": "Barbarianerman"
             },
@@ -2680,8 +2680,8 @@
         "illustrator": "海产",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "257",
                 "charter": "阿爽"
             },
@@ -2711,7 +2711,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.4",
+                "difficulty": "3.5",
                 "combo": "125",
                 "charter": "阿爽 fixed by Barbarianerman"
             },
@@ -2746,8 +2746,8 @@
         "illustrator": "喵n葵",
         "chart": {
             "EZ": {
-                "level": "1",
-                "difficulty": "1.9",
+                "level": "2",
+                "difficulty": "2.0",
                 "combo": "95",
                 "charter": "H.C.C fixed by Barbarianerman"
             },
@@ -2777,7 +2777,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "245",
                 "charter": "阿爽 & 百九十八"
             },
@@ -2807,7 +2807,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "307",
                 "charter": "猫の信 & 百九十八"
             },
@@ -2836,8 +2836,8 @@
         "illustrator": "cycats",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.9",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "368",
                 "charter": "Arenn Saki vs Catcats vs 百九十八"
             },
@@ -2867,19 +2867,19 @@
         "chart": {
             "EZ": {
                 "level": "1",
-                "difficulty": "1.3",
+                "difficulty": "1.5",
                 "combo": "60",
                 "charter": "阿爽 fixed by Barbarianerman"
             },
             "HD": {
                 "level": "3",
-                "difficulty": "3.6",
+                "difficulty": "3.5",
                 "combo": "124",
                 "charter": "阿爽 fixed by Barbarianerman"
             },
             "IN": {
                 "level": "6",
-                "difficulty": "6.2",
+                "difficulty": "6.0",
                 "combo": "237",
                 "charter": "阿爽"
             },
@@ -2909,7 +2909,7 @@
             },
             "HD": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "210",
                 "charter": "阿爽 fixed by Barbarianerman"
             },
@@ -2932,8 +2932,8 @@
         "illustrator": "御坂果子",
         "chart": {
             "EZ": {
-                "level": "2",
-                "difficulty": "2.8",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "220",
                 "charter": "Cloud Catcats"
             },
@@ -2962,8 +2962,8 @@
         "illustrator": "TNiK",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.8",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "505",
                 "charter": "Drop Catcats"
             },
@@ -2993,7 +2993,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "undefined",
+                "difficulty": "7.5",
                 "combo": "520",
                 "charter": "撕裂者『無極』 fixed by 晨"
             },
@@ -3023,7 +3023,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.2",
+                "difficulty": "4.0",
                 "combo": "283",
                 "charter": "百九十八"
             },
@@ -3053,7 +3053,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "undefined",
+                "difficulty": "6.0",
                 "combo": "158",
                 "charter": "阿爽"
             },
@@ -3083,7 +3083,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "undefined",
+                "difficulty": "6.0",
                 "combo": "318",
                 "charter": "Gausbon"
             },
@@ -3113,7 +3113,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "465",
                 "charter": "Find_Ctymax"
             },
@@ -3143,7 +3143,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.6",
+                "difficulty": "4.5",
                 "combo": "203",
                 "charter": "A.S.H"
             },
@@ -3172,8 +3172,8 @@
         "illustrator": "DoublePian",
         "chart": {
             "EZ": {
-                "level": "6",
-                "difficulty": "6.8",
+                "level": "7",
+                "difficulty": "7.0",
                 "combo": "472",
                 "charter": "Catcats aka. 無極 VS H.C.C. fixed by 晨"
             },
@@ -3209,7 +3209,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.2",
+                "difficulty": "4.0",
                 "combo": "305",
                 "charter": "Sparkle Ctymax"
             },
@@ -3239,7 +3239,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
+                "difficulty": "5.5",
                 "combo": "394",
                 "charter": "StupiGGy"
             },
@@ -3269,7 +3269,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.1",
+                "difficulty": "5.0",
                 "combo": "236",
                 "charter": "CN_115"
             },
@@ -3282,8 +3282,8 @@
             "IN": {
                 "level": "13",
                 "difficulty": "13.3",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "655",
+                "charter": "VikingNexus"
             }
         }
     },
@@ -3299,7 +3299,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.2",
+                "difficulty": "4.0",
                 "combo": "278",
                 "charter": "Ctymatch Girl"
             },
@@ -3328,8 +3328,8 @@
         "illustrator": "Optie",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "3",
+                "difficulty": "3.5",
                 "combo": "124",
                 "charter": "阿爽 VS Arenn Saki"
             },
@@ -3342,8 +3342,8 @@
             "IN": {
                 "level": "15",
                 "difficulty": "15.7",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "885",
+                "charter": "Clutter"
             }
         }
     },
@@ -3364,8 +3364,8 @@
                 "charter": "Gausbon ~ See you next time ~"
             },
             "HD": {
-                "level": "9",
-                "difficulty": "9.2",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "303",
                 "charter": "Gausbon ~ See you next time ~"
             },
@@ -3389,7 +3389,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.3",
+                "difficulty": "3.5",
                 "combo": "229",
                 "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
             },
@@ -3419,7 +3419,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "273",
                 "charter": "Phigros Charting Team"
             },
@@ -3449,7 +3449,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "262",
                 "charter": "Ctymax VS 百九十八"
             },
@@ -3479,7 +3479,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.3",
+                "difficulty": "6.5",
                 "combo": "334",
                 "charter": "Ctymax VS 晨"
             },
@@ -3509,7 +3509,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.6",
+                "difficulty": "6.5",
                 "combo": "321",
                 "charter": "JKy"
             },
@@ -3539,7 +3539,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "224",
                 "charter": "Jeitie"
             },
@@ -3569,7 +3569,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "210",
                 "charter": "百九十八"
             },
@@ -3599,7 +3599,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "304",
                 "charter": "Uvernight"
             },
@@ -3628,8 +3628,8 @@
         "illustrator": "何呵",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.8",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "217",
                 "charter": "鲲"
             },
@@ -3658,8 +3658,8 @@
         "illustrator": "青鸟",
         "chart": {
             "EZ": {
-                "level": "6",
-                "difficulty": "6.8",
+                "level": "7",
+                "difficulty": "7.0",
                 "combo": "507",
                 "charter": "HaraKuma"
             },
@@ -3689,7 +3689,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "280",
                 "charter": "NerSAN"
             },
@@ -3719,7 +3719,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.7",
+                "difficulty": "3.5",
                 "combo": "219",
                 "charter": "百九十八"
             },
@@ -3748,8 +3748,8 @@
         "illustrator": "塔塔",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "352",
                 "charter": "Barbarianerman.exe"
             },
@@ -3779,7 +3779,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "340",
                 "charter": "One skunk (Ctymax) in Africa"
             },
@@ -3809,7 +3809,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.3",
+                "difficulty": "2.5",
                 "combo": "345",
                 "charter": "Barbarianerman"
             },
@@ -3845,7 +3845,7 @@
             },
             "HD": {
                 "level": "6",
-                "difficulty": "6.7",
+                "difficulty": "6.5",
                 "combo": "420",
                 "charter": "Barbarianerman"
             },
@@ -3869,7 +3869,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "316",
                 "charter": "Merry xmAS"
             },
@@ -3898,8 +3898,8 @@
         "illustrator": "SCTL",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "301",
                 "charter": "Eastern Ailuropoda Gang"
             },
@@ -3929,7 +3929,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.7",
+                "difficulty": "3.5",
                 "combo": "258",
                 "charter": "Cty moyules"
             },
@@ -3959,13 +3959,13 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.4",
+                "difficulty": "4.5",
                 "combo": "470",
                 "charter": "Sillyp"
             },
             "HD": {
-                "level": "6",
-                "difficulty": "6.9",
+                "level": "7",
+                "difficulty": "7.0",
                 "combo": "507",
                 "charter": "Sillyp"
             },
@@ -3989,7 +3989,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "274",
                 "charter": "Eaimo fixed by NerSAN"
             },
@@ -4018,8 +4018,8 @@
         "illustrator": "xperz",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.8",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "391",
                 "charter": "JKy"
             },
@@ -4049,7 +4049,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.4",
+                "difficulty": "6.5",
                 "combo": "178",
                 "charter": "NerSAN"
             },
@@ -4109,7 +4109,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.7",
+                "difficulty": "4.5",
                 "combo": "512",
                 "charter": "Barbarianerman"
             },
@@ -4139,7 +4139,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.2",
+                "difficulty": "3.0",
                 "combo": "282",
                 "charter": "阿爽"
             },
@@ -4168,14 +4168,14 @@
         "illustrator": "CEM",
         "chart": {
             "EZ": {
-                "level": "2",
-                "difficulty": "2.8",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "220",
                 "charter": "野从菠萝"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.7",
+                "difficulty": "7.5",
                 "combo": "444",
                 "charter": "野从菠萝"
             },
@@ -4199,7 +4199,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "252",
                 "charter": "NerSAN"
             },
@@ -4229,7 +4229,7 @@
         "chart": {
             "EZ": {
                 "level": "1",
-                "difficulty": "1.7",
+                "difficulty": "1.5",
                 "combo": "196",
                 "charter": "野从"
             },
@@ -4289,7 +4289,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "262",
                 "charter": "Alloces"
             },
@@ -4319,7 +4319,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.1",
+                "difficulty": "3.0",
                 "combo": "181",
                 "charter": "Rikko"
             },
@@ -4349,7 +4349,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.1",
+                "difficulty": "4.0",
                 "combo": "450",
                 "charter": "J.R"
             },
@@ -4379,13 +4379,13 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.3",
+                "difficulty": "4.5",
                 "combo": "639",
                 "charter": "merry CNrisTimas"
             },
             "HD": {
                 "level": "7",
-                "difficulty": "7.2",
+                "difficulty": "7.0",
                 "combo": "492",
                 "charter": "merry XM AS"
             },
@@ -4409,7 +4409,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.2",
+                "difficulty": "5.0",
                 "combo": "338",
                 "charter": "Bea"
             },
@@ -4439,7 +4439,7 @@
         "chart": {
             "EZ": {
                 "level": "3",
-                "difficulty": "3.2",
+                "difficulty": "3.0",
                 "combo": "136",
                 "charter": "阿爽"
             },
@@ -4468,8 +4468,8 @@
         "illustrator": "笔记RE",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.8",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "392",
                 "charter": "RTH"
             },
@@ -4499,7 +4499,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.3",
+                "difficulty": "5.5",
                 "combo": "365",
                 "charter": "Barbarianerman"
             },
@@ -4529,7 +4529,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "330",
                 "charter": "Uvernight"
             },
@@ -4558,8 +4558,8 @@
         "illustrator": "cycats",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "285",
                 "charter": "M3d1uM & 百九十八"
             },
@@ -4589,7 +4589,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.6",
+                "difficulty": "2.5",
                 "combo": "76",
                 "charter": "Likey"
             },
@@ -4619,7 +4619,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.4",
+                "difficulty": "5.5",
                 "combo": "233",
                 "charter": "BlindForest"
             },
@@ -4649,7 +4649,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.1",
+                "difficulty": "4.0",
                 "combo": "188",
                 "charter": "Clutter & Barbarianerman"
             },
@@ -4678,8 +4678,8 @@
         "illustrator": "TNiK",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "419",
                 "charter": "XMT小咩兔"
             },
@@ -4709,7 +4709,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.1",
+                "difficulty": "5.0",
                 "combo": "195",
                 "charter": "Rikko"
             },
@@ -4739,7 +4739,7 @@
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "6.1",
+                "difficulty": "6.0",
                 "combo": "50",
                 "charter": "[!!12:|<|<ο!!]"
             },
@@ -4769,13 +4769,13 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.1",
+                "difficulty": "5.0",
                 "combo": "330",
                 "charter": "b.b.n.m."
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.6",
+                "difficulty": "12.5",
                 "combo": "755",
                 "charter": "h.o.m.e.e.e."
             },
@@ -4799,7 +4799,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "299",
                 "charter": "Brave Eaimo"
             },
@@ -4829,7 +4829,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.2",
+                "difficulty": "4.0",
                 "combo": "288",
                 "charter": "M3d1uM"
             },
@@ -4859,7 +4859,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.4",
+                "difficulty": "5.5",
                 "combo": "304",
                 "charter": "StupiGGy"
             },
@@ -4889,7 +4889,7 @@
         "chart": {
             "EZ": {
                 "level": "4",
-                "difficulty": "4.6",
+                "difficulty": "4.5",
                 "combo": "259",
                 "charter": "TimiTini"
             },
@@ -4919,7 +4919,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.1",
+                "difficulty": "5.0",
                 "combo": "300",
                 "charter": "Barbarianerman"
             },
@@ -4955,7 +4955,7 @@
         "chart": {
             "EZ": {
                 "level": "2",
-                "difficulty": "2.7",
+                "difficulty": "2.5",
                 "combo": "264",
                 "charter": "Believe Ctymax"
             },
@@ -4985,7 +4985,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.7",
+                "difficulty": "5.5",
                 "combo": "461",
                 "charter": "JKy"
             },
@@ -5015,7 +5015,7 @@
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "5.6",
+                "difficulty": "5.5",
                 "combo": "284",
                 "charter": "Ctymax"
             },
@@ -5033,33 +5033,33 @@
             }
         }
     },
-    "Poison AND÷OR Affection": {
-        "song": "Poison AND÷OR Affection",
+    "インフェルノシティ": {
+        "song": "インフェルノシティ",
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "单曲精选集",
-        "bpm": "120",
-        "composer": "LeaF",
-        "length": "",
-        "illustrator": "",
+        "bpm": "215",
+        "composer": "Ponchi♪ feat. はぁち",
+        "length": "2:04",
+        "illustrator": "LESYEF&藍瀬まなみ",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "undefined",
-                "combo": "undefined",
-                "charter": ""
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "352",
+                "charter": "Su1fuR"
             },
             "HD": {
-                "level": "9",
-                "difficulty": "9.6",
-                "combo": "undefined",
-                "charter": ""
+                "level": "11",
+                "difficulty": "11.2",
+                "combo": "578",
+                "charter": "Alloces feat. Uvernight"
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.5",
-                "combo": "undefined",
-                "charter": "1÷98"
+                "difficulty": "15.7",
+                "combo": "1275",
+                "charter": "Alloces"
             }
         }
     },
@@ -5070,56 +5070,56 @@
         "chapter": "单曲精选集",
         "bpm": "155",
         "composer": "Iriss-Frantzz",
-        "length": "",
-        "illustrator": "",
+        "length": "2:21",
+        "illustrator": "Iriss=Frantzz=s-don",
         "chart": {
             "EZ": {
                 "level": "5",
-                "difficulty": "undefined",
-                "combo": "undefined",
-                "charter": ""
+                "difficulty": "5.5",
+                "combo": "630",
+                "charter": "Lumiere"
             },
             "HD": {
                 "level": "10",
                 "difficulty": "10.8",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "545",
+                "charter": "CorruptedEntity&野从"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.3",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "946",
+                "charter": "_鉄"
             }
         }
     },
-    "インフェルノシティ": {
-        "song": "インフェルノシティ",
+    "Poison AND÷OR Affection": {
+        "song": "Poison AND÷OR Affection",
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "单曲精选集",
-        "bpm": "215",
-        "composer": "Ponchi♪ feat. はぁち",
-        "length": "",
-        "illustrator": "",
+        "bpm": "120",
+        "composer": "LeaF",
+        "length": "2:09",
+        "illustrator": "笔记RE/海产",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "undefined",
-                "combo": "undefined",
-                "charter": ""
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "140",
+                "charter": "R/kko"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.2",
-                "combo": "undefined",
-                "charter": ""
+                "level": "9",
+                "difficulty": "9.6",
+                "combo": "278",
+                "charter": "&ikko"
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.7",
-                "combo": "undefined",
-                "charter": ""
+                "difficulty": "15.5",
+                "combo": "888",
+                "charter": "1÷98"
             }
         }
     },
@@ -5136,7 +5136,7 @@
             "EZ": {
                 "level": "2",
                 "difficulty": "-",
-                "combo": "180",
+                "combo": "42",
                 "charter": "Barbarianerman"
             }
         }

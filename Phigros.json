@@ -1739,10 +1739,10 @@
             }
         }
     },
-    "CROSS?SOUL": {
-        "song": "CROSS?SOUL",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+    "CROSS†SOUL": {
+        "song": "CROSS†SOUL",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/ee/PhigrosCROSS%E2%80%A0SOUL.png/300px-PhigrosCROSS%E2%80%A0SOUL.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/ee/PhigrosCROSS%E2%80%A0SOUL.png",
         "chapter": "Chapter EX-HyuN 精选集",
         "bpm": "200",
         "composer": "HyuN feat. Syepias",
@@ -1753,19 +1753,19 @@
                 "level": "7",
                 "difficulty": "7.5",
                 "combo": "517",
-                "charter": "無?極"
+                "charter": "無†極"
             },
             "HD": {
                 "level": "12",
                 "difficulty": "12.8",
                 "combo": "892",
-                "charter": "無?極 fixed by Rikko"
+                "charter": "無†極 fixed by Rikko"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.9",
                 "combo": "1305",
-                "charter": "無?極"
+                "charter": "無†極"
             }
         }
     },
@@ -3330,13 +3330,13 @@
             "EZ": {
                 "level": "3",
                 "difficulty": "3.5",
-                "combo": "124",
+                "combo": "153",
                 "charter": "Clutter"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.6",
-                "combo": "438",
+                "combo": "531",
                 "charter": "Clutter"
             },
             "IN": {
@@ -4168,8 +4168,8 @@
         "illustrator": "CEM",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.0",
+                "level": "2",
+                "difficulty": "2.8",
                 "combo": "220",
                 "charter": "野从菠萝"
             },

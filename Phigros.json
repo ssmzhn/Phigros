@@ -1187,10 +1187,10 @@
             }
         }
     },
-    "Ποσειδ?ν": {
-        "song": "Ποσειδ?ν",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+    "Ποσειδών": {
+        "song": "Ποσειδών",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/01/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png/300px-%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/01/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png",
         "chapter": "Side Story 1 忘忧宫",
         "bpm": "175",
         "composer": "1112 vs. Star*",
@@ -1213,7 +1213,7 @@
                 "level": "12",
                 "difficulty": "12.8",
                 "combo": "450",
-                "charter": "Jαckψ feat. Βαρβαρο?αντρα?"
+                "charter": "Jαckψ feat. Βαρβαροςαντρας"
             }
         }
     },
@@ -3358,14 +3358,14 @@
         "illustrator": "叶藤",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.8",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "240",
                 "charter": "Gausbon ~ See you next time ~"
             },
             "HD": {
-                "level": "5",
-                "difficulty": "5.0",
+                "level": "9",
+                "difficulty": "9.2",
                 "combo": "303",
                 "charter": "Gausbon ~ See you next time ~"
             },
@@ -5065,8 +5065,8 @@
     },
     "Upshift": {
         "song": "Upshift",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/1/1a/Upshift_Phigros.png/300px-Upshift_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/1/1a/Upshift_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "155",
         "composer": "Iriss-Frantzz",
@@ -5095,8 +5095,8 @@
     },
     "Poison AND÷OR Affection": {
         "song": "Poison AND÷OR Affection",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/8/80/Poison_AND%C3%B7OR_Affection_Phigros.png/300px-Poison_AND%C3%B7OR_Affection_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/8/80/Poison_AND%C3%B7OR_Affection_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "120",
         "composer": "LeaF",

@@ -5035,13 +5035,13 @@
     },
     "インフェルノシティ": {
         "song": "インフェルノシティ",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/33/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png/300px-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/33/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png",
         "chapter": "单曲精选集",
         "bpm": "215",
         "composer": "Ponchi♪ feat. はぁち",
         "length": "2:04",
-        "illustrator": "LESYEF&藍瀬まなみ",
+        "illustrator": "LESYEF & 藍瀬 まなみ",
         "chart": {
             "EZ": {
                 "level": "5",

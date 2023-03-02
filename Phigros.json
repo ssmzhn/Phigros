@@ -755,33 +755,33 @@
         "illustration_big": "https://img.moegirl.org.cn/common/c/ce/Spasmodic.png",
         "chapter": "Chapter 5 霓虹灯牌",
         "bpm": "200",
-        "composer": "姜米條☆颶風~?元力上人?",
+        "composer": "姜米條☆颶風~♫元力上人♫",
         "length": "2:34",
-        "illustrator": "昔璃☆暴雨~?危難聖帝?",
+        "illustrator": "昔璃☆暴雨~♫危難聖帝♫",
         "chart": {
             "EZ": {
                 "level": "7",
                 "difficulty": "7.5",
                 "combo": "637",
-                "charter": "無極☆雷鳴~?死の序曲?"
+                "charter": "無極☆雷鳴~♫死の序曲♫"
             },
             "HD": {
                 "level": "12",
                 "difficulty": "12.6",
                 "combo": "904",
-                "charter": "無極☆雷鳴~?死の序曲?"
+                "charter": "無極☆雷鳴~♫死の序曲♫"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.2",
                 "combo": "1389",
-                "charter": "無極☆雷鳴~?死の序曲?"
+                "charter": "無極☆雷鳴~♫死の序曲♫"
             },
             "AT": {
                 "level": "16",
                 "difficulty": "16.3",
                 "combo": "1671",
-                "charter": "無極☆雷鳴~?死の序曲?"
+                "charter": "無極☆雷鳴~♫死の序曲♫"
             }
         }
     },
@@ -815,8 +815,8 @@
             }
         }
     },
-    "Colorful Days?": {
-        "song": "Colorful Days?",
+    "Colorful Days♪": {
+        "song": "Colorful Days♪",
         "illustration": "https://img.moegirl.org.cn/common/thumb/b/b2/Colorful_Days_Phigros.png/300px-Colorful_Days_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/b/b2/Colorful_Days_Phigros.png",
         "chapter": "Chapter 6 方舟蜃景",
@@ -829,19 +829,19 @@
                 "level": "4",
                 "difficulty": "4.5",
                 "combo": "156",
-                "charter": "阿?爽"
+                "charter": "阿♪爽"
             },
             "HD": {
                 "level": "7",
                 "difficulty": "7.0",
                 "combo": "186",
-                "charter": "阿?爽"
+                "charter": "阿♪爽"
             },
             "IN": {
                 "level": "12",
                 "difficulty": "12.7",
                 "combo": "407",
-                "charter": "阿?爽"
+                "charter": "阿♪爽"
             }
         }
     },
@@ -2299,7 +2299,7 @@
         "bpm": "220",
         "composer": "アリスシャッハと魔法の楽団",
         "length": "2:45",
-        "illustrator": "Lanota ? Noxy Games Inc.",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "chart": {
             "EZ": {
                 "level": "4",
@@ -2329,7 +2329,7 @@
         "bpm": "140",
         "composer": "Silentroom",
         "length": "2:48",
-        "illustrator": "Lanota ? Noxy Games Inc.",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "chart": {
             "EZ": {
                 "level": "3",
@@ -2359,7 +2359,7 @@
         "bpm": "200",
         "composer": "Nothing But Requiem feat. Aikapin & Chiyoko",
         "length": "2:47",
-        "illustrator": "Lanota ? Noxy Games Inc.",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "chart": {
             "EZ": {
                 "level": "6",
@@ -2389,7 +2389,7 @@
         "bpm": "163",
         "composer": "t+pazolite",
         "length": "2:43",
-        "illustrator": "Lanota ? Noxy Games Inc.",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "chart": {
             "EZ": {
                 "level": "6",
@@ -2425,7 +2425,7 @@
         "bpm": "180",
         "composer": "Maozon",
         "length": "2:34",
-        "illustrator": "Lanota ? Noxy Games Inc.",
+        "illustrator": "Lanota © Noxy Games Inc.",
         "chart": {
             "EZ": {
                 "level": "5",
@@ -3797,15 +3797,15 @@
             }
         }
     },
-    "?ventyr": {
-        "song": "?ventyr",
+    "Äventyr": {
+        "song": "Äventyr",
         "illustration": "https://img.moegirl.org.cn/common/thumb/c/c8/Aventyr.png/300px-Aventyr.png",
         "illustration_big": "https://img.moegirl.org.cn/common/c/c8/Aventyr.png",
         "chapter": "单曲精选集",
         "bpm": "114~132",
-        "composer": "Grand Thaw / Rig?l Theatre",
+        "composer": "Grand Thaw / Rigël Theatre",
         "length": "2:40",
-        "illustrator": "Grand Thaw / Rig?l Theatre",
+        "illustrator": "Grand Thaw / Rigël Theatre",
         "chart": {
             "EZ": {
                 "level": "2",
@@ -3827,8 +3827,8 @@
             }
         }
     },
-    "Tr?ne": {
-        "song": "Tr?ne",
+    "Träne": {
+        "song": "Träne",
         "illustration": "https://img.moegirl.org.cn/common/thumb/6/61/Trane_Phigros.png/300px-Trane_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/6/61/Trane_Phigros.png",
         "chapter": "单曲精选集",

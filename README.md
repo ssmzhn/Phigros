@@ -10,14 +10,6 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros 2.5.0版本已于2月24日22点更新，包含三首单曲：  
->   
-> 「Poison AND÷OR Affection」 by LeaF  
-> 「インフェルノシティ」 by Ponchi♪ feat. はぁち  
-> 「Upshift」 by Iriss-Frantzz  
-> 此外，在本次更新中，部分歌曲的谱面以及难度也会进行修改。  
->   
->   
 > Phigros主线第八章将于2023年4月更新，包含曲目：  
 >   
 > 「The Chariot ~REVIIVAL~」by Attoclef  

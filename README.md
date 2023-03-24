@@ -17,7 +17,7 @@
 > 「Crave Wave」by LandRoot  
 > 「Retribution」by nm-y & Kry.exe  
 >   
-> Phigros与Paradigm: Reboot的联动即将登场！即将更新的单曲内容有：  
+> Phigros与Paradigm: Reboot的联动将于2023.3.31更新！即将更新的单曲内容有：  
 >   
 > 「零号车辆」 by seatrus  
 > 另外，还有一首单曲即将揭晓，敬请期待！  

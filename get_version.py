@@ -50,8 +50,8 @@ with open('version_info.json','w') as f:
     f.write(json.dumps(info,indent=4,ensure_ascii=False))
 
 readme = open('README.md').read()
-readme = re.sub(r'<!-- begin Phigros version -->(.*)<!-- end Phigros version -->',r'<!-- begin Phigros version --> `{}` <!-- end Phigros version -->'.format(ver_text.group('version')),readme)
-readme = re.sub(r'<!-- begin Phigros log -->(.*)<!-- end Phigros log -->',r'<!-- begin Phigros log -->\n{}\n<!-- end Phigros log -->'.format(str_quoted(ver_log)),readme,flags=16)
+readme = re.sub(r'<!-- begin Phigros version -->(.*)<!-- end Phigros version -->','<!-- begin Phigros version --> `{}` <!-- end Phigros version -->'.format(ver_text.group('version')),readme)
+readme = re.sub(r'<!-- begin Phigros log -->(.*)<!-- end Phigros log -->','<!-- begin Phigros log -->\n{}\n<!-- end Phigros log -->'.format(str_quoted(ver_log)).replace('\\','\\\\'),readme,flags=16)
 readme = re.sub(r'<!-- begin Phigros time -->(.*)<!-- end Phigros time -->',r'<!-- begin Phigros time --> {}.{}.{} <!-- end Phigros time -->'.format(year,month,day),readme)
 with open('README.md','w') as f:
     f.write(readme)

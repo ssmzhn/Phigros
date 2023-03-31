@@ -10,10 +10,10 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phi\g/os（Phigros）将于2024.4.-365（2023.4.1）更新！  
+> Phigros已于2023.3.31更新！  
 > 本次更新包含：  
 > 「Random」by Sobrem × Silentroom  
-> 另外，我们刚刚通过漂流瓶的方式招到了一位美工，日后的Phi\g/os（Phigros）更新图会有较大的变动，还请承蒙各位关照！  
+> 「零號車輛」 by seatrus  
 >   
 >   
 > Phigros主线第八章将于2023年4月更新，包含曲目：  
@@ -22,10 +22,6 @@
 > 「Luminescence」by 米虾Fomiki & 初云CLoudie  
 > 「Crave Wave」by LandRoot  
 > 「Retribution」by nm-y & Kry.exe  
->   
-> Phigros与Paradigm: Reboot的联动将于2023.3.31更新！即将更新的单曲内容有：  
->   
-> 「零號車輛」 by seatrus  
 <!-- end Phigros log -->
 
 ## 介绍

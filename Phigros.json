@@ -5123,6 +5123,66 @@
             }
         }
     },
+    "Random": {
+        "song": "Random",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "",
+        "composer": "Sobrem × Silentroom",
+        "length": "2:13",
+        "illustrator": "Harkiadel",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "undefined",
+                "combo": "275",
+                "charter": "Barbarianerman"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "undefined",
+                "combo": "568",
+                "charter": "IMD_6"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "732",
+                "charter": "_鉄"
+            }
+        }
+    },
+    "零號車輛": {
+        "song": "零號車輛",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "",
+        "composer": "seatrus",
+        "length": "2:23",
+        "illustrator": "2Al4wU4",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "undefined",
+                "combo": "594",
+                "charter": "零號宇夜"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "undefined",
+                "combo": "1058",
+                "charter": "零號阿爽"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1240",
+                "charter": "Pcat【零】198"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",
@@ -5140,5 +5200,16 @@
                 "charter": "Barbarianerman"
             }
         }
+    },
+    "今年も「雪降り、メリクリ」目指して顽张ります！！": {
+        "song": "今年も「雪降り、メリクリ」目指して顽张ります！！",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "--",
+        "bpm": "",
+        "composer": "AiSS vs. 华牧狸 w/ 夜轮 ft.結月ゆかり",
+        "length": "",
+        "illustrator": "",
+        "chart": {}
     }
 }

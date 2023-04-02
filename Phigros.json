@@ -5128,20 +5128,20 @@
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "单曲精选集",
-        "bpm": "",
+        "bpm": "132",
         "composer": "Sobrem × Silentroom",
-        "length": "2:13",
+        "length": "2:16",
         "illustrator": "Harkiadel",
         "chart": {
             "EZ": {
                 "level": "6",
-                "difficulty": "undefined",
+                "difficulty": "6.0",
                 "combo": "275",
                 "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "11",
-                "difficulty": "undefined",
+                "difficulty": "11.1",
                 "combo": "568",
                 "charter": "IMD_6"
             },
@@ -5158,22 +5158,22 @@
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "单曲精选集",
-        "bpm": "",
+        "bpm": "240",
         "composer": "seatrus",
-        "length": "2:23",
+        "length": "2:24",
         "illustrator": "2Al4wU4",
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "undefined",
+                "difficulty": "7.0",
                 "combo": "594",
                 "charter": "零號宇夜"
             },
             "HD": {
                 "level": "12",
-                "difficulty": "undefined",
+                "difficulty": "12.8",
                 "combo": "1058",
-                "charter": "零號阿爽"
+                "charter": "壹號阿爽"
             },
             "IN": {
                 "level": "15",
@@ -5206,10 +5206,10 @@
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "--",
-        "bpm": "156234",
+        "bpm": "156~234",
         "composer": "AiSS vs. 华牧狸 w/ 夜轮 ft.結月ゆかり",
         "length": "3:45",
-        "illustrator": "Viosgit",
+        "illustrator": "Vios.NoFurry.git",
         "chart": {}
     }
 }

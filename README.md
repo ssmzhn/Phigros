@@ -10,18 +10,13 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2023.3.31更新！  
-> 本次更新包含：  
-> 「Random」by Sobrem × Silentroom  
-> 「零號車輛」 by seatrus  
->   
->   
-> Phigros主线第八章将于2023年4月更新，包含曲目：  
+> Phigros主线第八章将于2023年4月21日更新，包含曲目：  
 >   
 > 「The Chariot ~REVIIVAL~」by Attoclef  
 > 「Luminescence」by 米虾Fomiki & 初云CLoudie  
 > 「Crave Wave」by LandRoot  
 > 「Retribution」by nm-y & Kry.exe  
+> 「???」by ???  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -10,13 +10,18 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros主线第八章将于2023年4月21日更新，包含曲目：  
+> Phigros 3.0.0版本将于2023.04.21更新，新增主线章节八《凌日潮汐》。包含5首歌曲：  
 >   
-> 「The Chariot ~REVIIVAL~」by Attoclef  
+> The Chariot ~REVIIVAL~」by Attoclef  
 > 「Luminescence」by 米虾Fomiki & 初云CLoudie  
 > 「Crave Wave」by LandRoot  
-> 「Retribution」by nm-y & Kry.exe  
-> 「???」by ???  
+> 「Retribution」▇ by nm-y▎  & Kry.exe▋  
+> 「x▎v  kd▇  ▇▇13▇ l#▇Z▇7 Y.▋T 4▇ln  
+>   
+> 全新AT谱面将于2023.04.21更新！  
+>   
+> 「风屿」by 闫东炜  
+> 将追加新AT难度！  
 <!-- end Phigros log -->
 
 ## 介绍

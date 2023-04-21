@@ -4,24 +4,25 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `2.5.1` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `3.0.0` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2023.3.31 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2023.4.21 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros 3.0.0版本将于2023.04.21更新，新增主线章节八《凌日潮汐》。包含5首歌曲：  
+> Phigros 3.0.0版本已于2023.04.21更新，新增主线章节八《凌日潮汐》。包含6首歌曲：  
 >   
-> The Chariot ~REVIIVAL~」by Attoclef  
+> 「The Chariot ~REVIIVAL~」by Attoclef  
 > 「Luminescence」by 米虾Fomiki & 初云CLoudie  
 > 「Crave Wave」by LandRoot  
-> 「Retribution」▇ by nm-y▎  & Kry.exe▋  
-> 「x▎v  kd▇  ▇▇13▇ l#▇Z▇7 Y.▋T 4▇ln  
+> 「Retribution」by nm-y & Kry.exe  
+> 「DESTRUCTION 3,2,1」by Normal1zer vs. Broken Nerdz  
+> 「Distorted Fate」by Sakuzyo  
 >   
-> 全新AT谱面将于2023.04.21更新！  
+> 全新AT谱面已于2023.04.21更新！  
 >   
 > 「风屿」by 闫东炜  
-> 将追加新AT难度！  
+> 已追加新AT难度！  
 <!-- end Phigros log -->
 
 ## 介绍

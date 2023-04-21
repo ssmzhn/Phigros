@@ -453,7 +453,7 @@
         "song": "Sultan Rage",
         "illustration": "https://img.moegirl.org.cn/common/thumb/0/08/Sultan_Rage_Phigros.png/300px-Sultan_Rage_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/0/08/Sultan_Rage_Phigros.png",
-        "chapter": "Chapter 4 管道迷宫",
+        "chapter": "Chapter Legacy 过去的章节",
         "bpm": "155",
         "composer": "MonstDeath",
         "length": "1:56",
@@ -483,7 +483,7 @@
         "song": "Class Memories",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/81/Class_Memories_Phigros.png/300px-Class_Memories_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/81/Class_Memories_Phigros.png",
-        "chapter": "Chapter 4 管道迷宫",
+        "chapter": "Chapter Legacy 过去的章节",
         "bpm": "145",
         "composer": "Antistar feat. Ctymax",
         "length": "2:27",
@@ -513,7 +513,7 @@
         "song": "-SURREALISM-",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/19/SURREALISM_Phigros.png/300px-SURREALISM_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/1/19/SURREALISM_Phigros.png",
-        "chapter": "Chapter 4 管道迷宫",
+        "chapter": "Chapter Legacy 过去的章节",
         "bpm": "180",
         "composer": "Itsuki",
         "length": "2:33",
@@ -543,7 +543,7 @@
         "song": "Bonus Time",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Bonus_Time_Phigros.png/300px-Bonus_Time_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/1/13/Bonus_Time_Phigros.png",
-        "chapter": "Chapter 4 管道迷宫",
+        "chapter": "Chapter Legacy 过去的章节",
         "bpm": "180",
         "composer": "Megalo_PaleWhite",
         "length": "1:55",
@@ -573,7 +573,7 @@
         "song": "ENERGY SYNERGY MATRIX",
         "illustration": "https://img.moegirl.org.cn/common/thumb/d/d9/EnergySynergyMatrix.png/300px-EnergySynergyMatrix.png",
         "illustration_big": "https://img.moegirl.org.cn/common/d/d9/EnergySynergyMatrix.png",
-        "chapter": "Chapter 4 管道迷宫",
+        "chapter": "Chapter Legacy 过去的章节",
         "bpm": "160",
         "composer": "Tanchiky",
         "length": "2:05",
@@ -1184,6 +1184,198 @@
                 "difficulty": "16.8",
                 "combo": "1300",
                 "charter": "RWND -p 16493:62786:92551"
+            }
+        }
+    },
+    "Crave Wave": {
+        "song": "Crave Wave",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "150",
+        "composer": "LandRoot",
+        "length": "",
+        "illustrator": "笔记RE",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "undefined",
+                "charter": "Likey"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.2",
+                "combo": "undefined",
+                "charter": "Likey"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.6",
+                "combo": "816",
+                "charter": "Likey feat. 198"
+            }
+        }
+    },
+    "The Chariot ~REVIIVAL~": {
+        "song": "The Chariot ~REVIIVAL~",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "190",
+        "composer": "Attoclef",
+        "length": "",
+        "illustrator": "翠冷兮",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "undefined",
+                "charter": "M3d1uM"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "undefined",
+                "charter": "Alloces"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.4",
+                "combo": "1009",
+                "charter": "Ctymax drives in BlindForest"
+            }
+        }
+    },
+    "Luminescence": {
+        "song": "Luminescence",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "184",
+        "composer": "米虾Fomiki & 初云CLoudie",
+        "length": "",
+        "illustrator": "子狼",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "undefined",
+                "charter": "XMT小咩兔"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.2",
+                "combo": "undefined",
+                "charter": "XMT小咩兔"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "987",
+                "charter": "Pcat & 百九十八"
+            }
+        }
+    },
+    "Retribution": {
+        "song": "Retribution",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "190",
+        "composer": "nm-y & Kry.exe",
+        "length": "",
+        "illustrator": "NerSAN",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "undefined",
+                "charter": "NerSAN"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.6",
+                "combo": "undefined",
+                "charter": "NerSAN"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1358",
+                "charter": "Ner as SP△DE"
+            }
+        }
+    },
+    "DESTRUCTION 3,2,1": {
+        "song": "DESTRUCTION 3,2,1",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "321.321",
+        "composer": "Normal1zer vs. Broken Nerdz",
+        "length": "",
+        "illustrator": "rN",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "undefined",
+                "charter": "{Demolition,Devastation,Destruction}"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "1250",
+                "charter": "{Devastation,Destruction}"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.9",
+                "combo": "1532",
+                "charter": "{Destruction}"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.6",
+                "combo": "2330",
+                "charter": "∅"
+            }
+        }
+    },
+    "Distorted Fate": {
+        "song": "Distorted Fate",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter 8 凌日潮汐",
+        "bpm": "",
+        "composer": "Sakuzyo",
+        "length": "",
+        "illustrator": "knife美工刀",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "undefined",
+                "charter": "De Fiance"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "970",
+                "charter": "Doubt Ful"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.9",
+                "combo": "1449",
+                "charter": "Divination Fortune"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.7",
+                "combo": "1283",
+                "charter": "unDefined Future"
             }
         }
     },
@@ -2852,6 +3044,12 @@
                 "difficulty": "13.7",
                 "combo": "1156",
                 "charter": "Arenn Saki vs Catcats vs 百九十八"
+            },
+            "AT": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "1236",
+                "charter": "JKy"
             }
         }
     },

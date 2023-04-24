@@ -3241,8 +3241,8 @@
     },
     "开心病": {
         "song": "开心病",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/e/e1/%E5%BC%80%E5%BF%83%E7%97%85_Phigros.png/300px-%E5%BC%80%E5%BF%83%E7%97%85_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/e/e1/%E5%BC%80%E5%BF%83%E7%97%85_Phigros.png",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
         "chapter": "单曲精选集",
         "bpm": "131",
         "composer": "闫东炜",
@@ -5107,8 +5107,8 @@
     },
     "Break Over": {
         "song": "Break Over",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d2/Break_Over_Phigros.png/300px-Break_Over_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/d/d2/Break_Over_Phigros.png",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
         "chapter": "单曲精选集",
         "bpm": "185",
         "composer": "K-forest",

@@ -10,19 +10,11 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros 3.0.0版本已于2023.04.21更新，新增主线章节八《凌日潮汐》。包含6首歌曲：  
+> Phigros将于2023年5月19日更新，本次更新包含两首单曲。  
+> 更新的曲目是：  
 >   
-> 「The Chariot ~REVIIVAL~」by Attoclef  
-> 「Luminescence」by 米虾Fomiki & 初云CLoudie  
-> 「Crave Wave」by LandRoot  
-> 「Retribution」by nm-y & Kry.exe  
-> 「DESTRUCTION 3,2,1」by Normal1zer vs. Broken Nerdz  
-> 「Distorted Fate」by Sakuzyo  
->   
-> 全新AT谱面已于2023.04.21更新！  
->   
-> 「风屿」by 闫东炜  
-> 已追加新AT难度！  
+> 「Bougainvillea」 by Jade  
+> 「Now Is The Time, Do It」 by Roy Mikelate  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2023年5月19日更新，本次更新包含两首单曲。  
+> Phigros已于2023年5月19日更新，本次更新包含两首单曲。  
 > 更新的曲目是：  
 >   
 > 「Bougainvillea」 by Jade  

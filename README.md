@@ -10,11 +10,15 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2023年5月19日更新，本次更新包含两首单曲。  
-> 更新的曲目是：  
->   
-> 「Bougainvillea」 by Jade  
-> 「Now Is The Time, Do It」 by Roy Mikelate  
+> Phigros x OverRapid联动精选集即将于2023/06/09更新。  
+> 更新的曲目分别是：  
+> •「神话」by Pica & M2U  
+> •「El último baile」by Θ  
+> •「Trojan」by litmus*  
+> •「Temporal Shifting」by Lure Rabbit & V!C  
+> •「Ad astra per aspera」by Rabbit House  
+> 一首本次联动的原创曲目也将出现在精选集中：  
+> •「A journey to the moonlight」by Yesod  
 <!-- end Phigros log -->
 
 ## 介绍

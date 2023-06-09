@@ -2861,6 +2861,186 @@
             }
         }
     },
+    "神話": {
+        "song": "神話",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "Pica & M2U",
+        "length": "",
+        "illustrator": "",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.2",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.6",
+                "combo": "undefined",
+                "charter": ""
+            }
+        }
+    },
+    "El último baile": {
+        "song": "El último baile",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "Θ",
+        "length": "",
+        "illustrator": "mology(青鸟&V17AMax Modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.4",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.3",
+                "combo": "610",
+                "charter": "百九十八 feat. Likey"
+            }
+        }
+    },
+    "Trojan": {
+        "song": "Trojan",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "litmus*",
+        "length": "",
+        "illustrator": "",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.8",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "undefined",
+                "charter": ""
+            }
+        }
+    },
+    "Temporal Shifting": {
+        "song": "Temporal Shifting",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "Lure Rabbit & V!C",
+        "length": "",
+        "illustrator": "",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "undefined",
+                "charter": ""
+            }
+        }
+    },
+    "Ad astra per aspera": {
+        "song": "Ad astra per aspera",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "Rabbit House",
+        "length": "",
+        "illustrator": "",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.1",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "undefined",
+                "charter": ""
+            }
+        }
+    },
+    "A journey to the moonlight": {
+        "song": "A journey to the moonlight",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-OverRapid 精选集",
+        "bpm": "",
+        "composer": "Yesod",
+        "length": "",
+        "illustrator": "",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.7",
+                "combo": "undefined",
+                "charter": ""
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "undefined",
+                "charter": ""
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",

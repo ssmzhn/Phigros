@@ -2863,55 +2863,55 @@
     },
     "神話": {
         "song": "神話",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/2/2b/%E7%A5%9E%E8%A9%B1_Phigros.png/300px-%E7%A5%9E%E8%A9%B1_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/2/2b/%E7%A5%9E%E8%A9%B1_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "130",
         "composer": "Pica & M2U",
-        "length": "",
-        "illustrator": "",
+        "length": "2:30",
+        "illustrator": "mology (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
                 "level": "4",
                 "difficulty": "4.0",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "289",
+                "charter": "雑"
             },
             "HD": {
                 "level": "9",
                 "difficulty": "9.2",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "433",
+                "charter": "波"
             },
             "IN": {
                 "level": "13",
                 "difficulty": "13.6",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "735",
+                "charter": "P & U"
             }
         }
     },
     "El último baile": {
         "song": "El último baile",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/a9/El_Phigros.png/300px-El_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/a9/El_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "175",
         "composer": "Θ",
-        "length": "",
-        "illustrator": "mology(青鸟&V17AMax Modified)",
+        "length": "2:08",
+        "illustrator": "mology (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
                 "level": "5",
                 "difficulty": "5.0",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "261",
+                "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "10",
                 "difficulty": "10.4",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "477",
+                "charter": "Barbarianerman"
             },
             "IN": {
                 "level": "14",
@@ -2923,121 +2923,121 @@
     },
     "Trojan": {
         "song": "Trojan",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/68/Trojan_Phigros.png/300px-Trojan_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/68/Trojan_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "128",
         "composer": "litmus*",
-        "length": "",
-        "illustrator": "",
+        "length": "2:43",
+        "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
                 "level": "4",
                 "difficulty": "4.5",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "345",
+                "charter": "M3d1uM"
             },
             "HD": {
                 "level": "10",
                 "difficulty": "10.8",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "741",
+                "charter": "M3d1uM"
             },
             "IN": {
                 "level": "14",
                 "difficulty": "14.8",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "1305",
+                "charter": "Warning: XMT is infected by Trojan!!"
             }
         }
     },
     "Temporal Shifting": {
         "song": "Temporal Shifting",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/5/55/Temporal_Shifting_Phigros.png/300px-Temporal_Shifting_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/5/55/Temporal_Shifting_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "155",
         "composer": "Lure Rabbit & V!C",
-        "length": "",
-        "illustrator": "",
+        "length": "2:30",
+        "illustrator": "mology (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
                 "level": "4",
                 "difficulty": "4.0",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "127",
+                "charter": "Su1fuR"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.5",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "465",
+                "charter": "Su1fuR"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.2",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "959",
+                "charter": "Gausbon vs. 阿爽"
             }
         }
     },
     "Ad astra per aspera": {
         "song": "Ad astra per aspera",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/60/Ad_astra_per_aspera_Phigros.png/300px-Ad_astra_per_aspera_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/60/Ad_astra_per_aspera_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "197",
         "composer": "Rabbit House",
-        "length": "",
-        "illustrator": "",
+        "length": "2:35",
+        "illustrator": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
                 "level": "6",
                 "difficulty": "6.0",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "696",
+                "charter": "Barbarianerman"
             },
             "HD": {
                 "level": "12",
                 "difficulty": "12.1",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "924",
+                "charter": "XMT小咩兔"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.8",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "1454",
+                "charter": "Hara小兔组"
             }
         }
     },
     "A journey to the moonlight": {
         "song": "A journey to the moonlight",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/00/A_journey_to_the_moonlight_Phigros.png/300px-A_journey_to_the_moonlight_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/00/A_journey_to_the_moonlight_Phigros.png",
         "chapter": "Chapter EX-OverRapid 精选集",
-        "bpm": "",
+        "bpm": "174",
         "composer": "Yesod",
-        "length": "",
-        "illustrator": "",
+        "length": "2:35",
+        "illustrator": "汉堡",
         "chart": {
             "EZ": {
                 "level": "4",
                 "difficulty": "4.5",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "242",
+                "charter": "Rikko from 「PHIGROS MOON」"
             },
             "HD": {
                 "level": "10",
                 "difficulty": "10.7",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "555",
+                "charter": "Rikko from 「PHIGROS MOON」"
             },
             "IN": {
                 "level": "14",
                 "difficulty": "14.5",
-                "combo": "undefined",
-                "charter": ""
+                "combo": "1181",
+                "charter": "Ner & 198 from 「PHIGROS MOON」"
             }
         }
     },

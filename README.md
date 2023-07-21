@@ -10,10 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2023年7月7日更新，本次更新包含两首单曲。  
+> Phigros将于2023年7月28日更新！本次更新将带来Vtuber ころねぽち的一首联动单曲！  
 > 更新的曲目是：  
-> •「Rainy Heart」 by BelieverInYou (阿卡姆巫师)  
-> •「Realms」 by Hinkik & A Himitsu  
+> •「ぱぴぷぴぷぴぱ」 by ころねぽち With 立秋  
+> ころねぽち  是一位来自日本的Vtuber/Vsinger。想要了解更多的小鸽子们可以移步下列网站咕！  
+> https://vpochpoch.wixsite.com/pochikorone/profile  
+> Phigros# #Pigeon Games# #鸽游#  
 <!-- end Phigros log -->
 
 ## 介绍

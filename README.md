@@ -4,13 +4,13 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `3.1.0` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `3.1.2` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2023.6.9 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2023.7.28 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2023年7月28日更新！本次更新将带来Vtuber ころねぽち的一首联动单曲！  
+> Phigros已于2023年7月28日更新！本次更新将带来Vtuber ころねぽち的一首联动单曲！  
 > 更新的曲目是：  
 > •「ぱぴぷぴぷぴぱ」 by ころねぽち With 立秋  
 > ころねぽち  是一位来自日本的Vtuber/Vsinger。想要了解更多的小鸽子们可以移步下列网站咕！  

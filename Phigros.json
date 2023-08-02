@@ -3036,7 +3036,7 @@
             "IN": {
                 "level": "14",
                 "difficulty": "14.5",
-                "combo": "1181",
+                "combo": "1199",
                 "charter": "Ner & 198 from 「PHIGROS MOON」"
             }
         }
@@ -5566,7 +5566,7 @@
         "illustration": "https://img.moegirl.org.cn/common/thumb/5/5d/Bougainvillea_Phi.png/285px-Bougainvillea_Phi.png",
         "illustration_big": "https://img.moegirl.org.cn/common/5/5d/Bougainvillea_Phi.png",
         "chapter": "单曲精选集",
-        "bpm": "",
+        "bpm": "120",
         "composer": "Jade",
         "length": "1:56",
         "illustrator": "TNiK",
@@ -5618,6 +5618,96 @@
                 "difficulty": "14.3",
                 "combo": "795",
                 "charter": "Pat Brick Man Mr.N feat. Ner of Time"
+            }
+        }
+    },
+    "Rainy Heart": {
+        "song": "Rainy Heart",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "140",
+        "composer": "BelieverInYou (阿卡姆巫师)",
+        "length": "2:32",
+        "illustrator": "Sodhelium",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "194",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "331",
+                "charter": "Barbarianerman"
+            },
+            "IN": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "440",
+                "charter": "HaraKuma"
+            }
+        }
+    },
+    "Realms": {
+        "song": "Realms",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "174",
+        "composer": "Hinkik & A Himitsu",
+        "length": "2:08",
+        "illustrator": "圆规compasses",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "216",
+                "charter": "Barbarianerman"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.8",
+                "combo": "562",
+                "charter": "Barbarianerman"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.1",
+                "combo": "673",
+                "charter": "NerSAN"
+            }
+        }
+    },
+    "ぱぴぷぴぷぴぱ": {
+        "song": "ぱぴぷぴぷぴぱ",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "100",
+        "composer": "ころねぽち With 立秋",
+        "length": "2:58",
+        "illustrator": "上倉エク",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "637",
+                "charter": "ParParianerman"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.3",
+                "combo": "1290",
+                "charter": "ParParianerman"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "1243",
+                "charter": "さるふるふるさ"
             }
         }
     },

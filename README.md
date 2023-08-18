@@ -10,7 +10,19 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros 8月4日更新放出  
+> Phigros已于2023年8月18日更新，本次更新包含一首单曲。  
+> 更新的曲目是：  
+>   
+> 「Triumph & Regret」 by typeMARS  
+>   
+> Phigros的外传章节：极星卫终于要来啦！此次更新将于2023.8.31放出！  
+> 外传章节的新曲目分别是：  
+>   
+> 「S.A.T.E.L.L.I.T.E.」by かめりあ  
+> 「Dance with Silence」by かめりあ  
+> 「Labyrinth in Kowloon: Walled World」by かめりあ  
+> 「Compute It With Some Devilish Alcoholic Steampunk Engine」by かめりあ  
+> 「+ERABY+E CONNEC+10N」by かめりあ  
 <!-- end Phigros log -->
 
 ## 介绍

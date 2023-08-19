@@ -5711,6 +5711,36 @@
             }
         }
     },
+    "Triumph & Regret": {
+        "song": "Triumph & Regret",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "175",
+        "composer": "typeMARS",
+        "length": "2:04",
+        "illustrator": "何呵",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "423",
+                "charter": "Barbarianerman & Regret"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.4",
+                "combo": "694",
+                "charter": "Barbarianerman & Regret"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "1014",
+                "charter": "TimiTini & HaraKuma"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

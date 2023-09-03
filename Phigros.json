@@ -86,6 +86,12 @@
                 "difficulty": "13.7",
                 "combo": "535",
                 "charter": "Ctymax"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "638",
+                "charter": "_铁 (Isotope 59)"
             }
         }
     },
@@ -3038,6 +3044,168 @@
                 "difficulty": "14.5",
                 "combo": "1199",
                 "charter": "Ner & 198 from 「PHIGROS MOON」"
+            }
+        }
+    },
+    "S.A.T.E.L.L.I.T.E.": {
+        "song": "S.A.T.E.L.L.I.T.E.",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/04/S.A.T.E.L.L.I.T.E_Phigros.png/300px-S.A.T.E.L.L.I.T.E_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/04/S.A.T.E.L.L.I.T.E_Phigros.png",
+        "chapter": "Extra Story Chapter 极星卫",
+        "bpm": "150",
+        "composer": "かめりあ",
+        "length": "3:12",
+        "illustrator": "青鸟",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "345",
+                "charter": "XMT wishing upon a satellite"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.9",
+                "combo": "600",
+                "charter": "B.A.R.B.A.R.I.A.N.E.R.M.A.N."
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.6",
+                "combo": "897",
+                "charter": "L.I.K.E.Y."
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1098",
+                "charter": "N.E.R.1.9.8."
+            }
+        }
+    },
+    "Dance with Silence": {
+        "song": "Dance with Silence",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/b/be/Dance_with_Silence_Phigros.png/300px-Dance_with_Silence_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/b/be/Dance_with_Silence_Phigros.png",
+        "chapter": "Extra Story Chapter 极星卫",
+        "bpm": "128",
+        "composer": "かめりあ",
+        "length": "2:59",
+        "illustrator": "林语",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "170",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.9",
+                "combo": "552",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "1125",
+                "charter": "晨_铁"
+            }
+        }
+    },
+    "Labyrinth in Kowloon: Walled World": {
+        "song": "Labyrinth in Kowloon: Walled World",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/c/cb/Labyrinth_in_Kowloon_Walled_World.png/300px-Labyrinth_in_Kowloon_Walled_World.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/c/cb/Labyrinth_in_Kowloon_Walled_World.png",
+        "chapter": "Extra Story Chapter 极星卫",
+        "bpm": "190",
+        "composer": "かめりあ",
+        "length": "3:00",
+        "illustrator": "鲸弑",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "491",
+                "charter": "VikingNexus"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.6",
+                "combo": "968",
+                "charter": "VikingNexus"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "1150",
+                "charter": "198 in Kowloon"
+            }
+        }
+    },
+    "Compute It With Some Devilish Alcoholic Steampunk Engines": {
+        "song": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d5/Compute_It_With_Some_Devilish_Alcoholic_Steampunk_Engines_Phigros.png/300px-Compute_It_With_Some_Devilish_Alcoholic_Steampunk_Engines_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d5/Compute_It_With_Some_Devilish_Alcoholic_Steampunk_Engines_Phigros.png",
+        "chapter": "Extra Story Chapter 极星卫",
+        "bpm": "165",
+        "composer": "かめりあ",
+        "length": "2:51",
+        "illustrator": "山崎团",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "330",
+                "charter": "Clutter"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.6",
+                "combo": "723",
+                "charter": "Clutter"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1213",
+                "charter": "Gausbon vs. XMT小咩兔"
+            }
+        }
+    },
+    "+ERABY+E CONNEC+10N": {
+        "song": "+ERABY+E CONNEC+10N",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/5/5d/%2BERABY%2BE_CONNEC%2B10N_Phigros.png/300px-%2BERABY%2BE_CONNEC%2B10N_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/5/5d/%2BERABY%2BE_CONNEC%2B10N_Phigros.png",
+        "chapter": "Extra Story Chapter 极星卫",
+        "bpm": "230",
+        "composer": "かめりあ",
+        "length": "2:48",
+        "illustrator": "猫箱Catbox feat. 祈莲",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "492",
+                "charter": "4B314C3042592B45"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "904",
+                "charter": "4D45474142592B45"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1530",
+                "charter": "4731474142592B45"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.5",
+                "combo": "1579",
+                "charter": "2B45524142592B45"
             }
         }
     },

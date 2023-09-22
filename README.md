@@ -10,14 +10,16 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2023年8月31日更新，本次更新包含与曲师かめりあ合作的外传章节：极星卫  
-> 外传章节的新曲目分别是：  
+> Phigros将于2023/09/29更新！本次更新将带来两首曲目。  
+> 两首新曲目分别是：  
 >   
-> 「S.A.T.E.L.L.I.T.E.」by かめりあ  
-> 「Dance with Silence」by かめりあ  
-> 「Labyrinth in Kowloon: Walled World」by かめりあ  
-> 「Compute It With Some Devilish Alcoholic Steampunk Engine」by かめりあ  
-> 「+ERABY+E CONNEC+10N」by かめりあ  
+> 「Diamond Eyes」 by SYNTHETIC  
+> 「Bitterblossom」 by imvi  
+> 其中前者为中国电子音乐厂牌Soul Notes带来的联动曲目。  
+> 移步下列网站即可收听「Diamond Eyes」！  
+>   
+> QQ音乐: https://c6.y.qq.com/base/fcgi-bin/u?__=SZxbCm7bNkOO  
+> Phigros# #鸽游# #Pigeon Games#  
 <!-- end Phigros log -->
 
 ## 介绍

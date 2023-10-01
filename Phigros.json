@@ -5909,6 +5909,66 @@
             }
         }
     },
+    "Diamond Eyes": {
+        "song": "Diamond Eyes",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "",
+        "composer": "SYNTHETIC",
+        "length": "",
+        "illustrator": "彗星 feat. 祈莲",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "340",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.1",
+                "combo": "429",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.4",
+                "combo": "774",
+                "charter": "Clutter"
+            }
+        }
+    },
+    "Bitterblossom": {
+        "song": "Bitterblossom",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "",
+        "composer": "imvi",
+        "length": "",
+        "illustrator": "鲸弑",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "152",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.6",
+                "combo": "581",
+                "charter": "Barbarianerman"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.7",
+                "combo": "597",
+                "charter": "百九十八"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

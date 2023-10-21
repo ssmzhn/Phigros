@@ -10,16 +10,13 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2023/09/29更新！本次更新将带来两首曲目。  
+> Phigros将于2023/10/27更新！本次更新将带来两首来自EGTS比赛的曲目。  
 > 两首新曲目分别是：  
 >   
-> 「Diamond Eyes」 by SYNTHETIC  
-> 「Bitterblossom」 by imvi  
-> 其中前者为中国电子音乐厂牌Soul Notes带来的联动曲目。  
-> 移步下列网站即可收听「Diamond Eyes」！  
->   
-> QQ音乐: https://c6.y.qq.com/base/fcgi-bin/u?__=SZxbCm7bNkOO  
-> Phigros# #鸽游# #Pigeon Games#  
+> 「Silence is Golden, Speech is Golden」 by NIWASHI  
+> 「Fractured Angel」 by DJ Raisei  
+> EGTS是osu!taiko之中迄今为止规模最大的比赛，也是GTS系列比赛的其中之一，每年都会有众多原创曲目、角色以及百余张谱面为此专门制作。  
+> 想要了解更多的小鸽子可以移步比赛官方网站：https://gtsosu.com/  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -5911,8 +5911,8 @@
     },
     "Diamond Eyes": {
         "song": "Diamond Eyes",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/8/88/Diamond_Eyes_Phigros.png/305px-Diamond_Eyes_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/8/88/Diamond_Eyes_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "",
         "composer": "SYNTHETIC",

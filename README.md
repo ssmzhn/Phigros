@@ -10,13 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2023/10/27更新！本次更新将带来两首来自EGTS比赛的曲目。  
-> 两首新曲目分别是：  
+> Phigros x 旋转音律Rotaeno联动精选集即将于2023/11/17更新。  
+> 更新的曲目分别是：  
 >   
-> 「Silence is Golden, Speech is Golden」 by NIWASHI  
-> 「Fractured Angel」 by DJ Raisei  
-> EGTS是osu!taiko之中迄今为止规模最大的比赛，也是GTS系列比赛的其中之一，每年都会有众多原创曲目、角色以及百余张谱面为此专门制作。  
-> 想要了解更多的小鸽子可以移步比赛官方网站：https://gtsosu.com/  
+> 「Journey with You」 by Iris  
+> 「Secret Illumination」 by Yooh  
+> 「Inverted World」 by ARForest  
 <!-- end Phigros log -->
 
 ## 介绍

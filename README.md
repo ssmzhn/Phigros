@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x 旋转音律Rotaeno联动精选集即将于2023/11/17更新。  
+> Phigros x 旋转音律Rotaeno联动精选集已于2023/11/17更新。  
 > 更新的曲目分别是：  
 >   
 > 「Journey with You」 by Iris  

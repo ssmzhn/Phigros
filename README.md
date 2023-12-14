@@ -10,12 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x 旋转音律Rotaeno联动精选集已于2023/11/17更新。  
+> Phigros x CHUNITHM(中二节奏) 联动PV已放出！本章于2023/12/15更新。  
 > 更新的曲目分别是：  
 >   
-> 「Journey with You」 by Iris  
-> 「Secret Illumination」 by Yooh  
-> 「Inverted World」 by ARForest  
+> 「TECHNOPOLIS 2085」 by PRASTIK DANCEFLOOR  
+> 「テリトリーバトル」 by ツユ  
+> 「祈 -我ら神祖と共に歩む者なり-」 by 光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音  
 <!-- end Phigros log -->
 
 ## 介绍

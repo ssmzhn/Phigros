@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x CHUNITHM(中二节奏) 联动PV已放出！本章于2023/12/15更新。  
+> Phigros x CHUNITHM(中二节奏) 联动PV已放出！本章已于2023/12/15更新。  
 > 更新的曲目分别是：  
 >   
 > 「TECHNOPOLIS 2085」 by PRASTIK DANCEFLOOR  

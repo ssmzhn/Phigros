@@ -10,12 +10,11 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x CHUNITHM(中二节奏) 联动PV已放出！本章已于2023/12/15更新。  
-> 更新的曲目分别是：  
+> Phigros将于2023年12月29日更新！本次更新包含两首单曲。  
+> 两首新曲目是：  
 >   
-> 「TECHNOPOLIS 2085」 by PRASTIK DANCEFLOOR  
-> 「テリトリーバトル」 by ツユ  
-> 「祈 -我ら神祖と共に歩む者なり-」 by 光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音  
+> 「bye」 by DingerBox  
+> 「聖夜讃歌」 by A-39/沙包P  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -3209,6 +3209,96 @@
             }
         }
     },
+    "Journey with You": {
+        "song": "Journey with You",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "150",
+        "composer": "Iris",
+        "length": "2:20(?)",
+        "illustrator": "BTKCyber (青鸟 Modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "60",
+                "charter": "jouR.ney with hold"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.1",
+                "combo": "175",
+                "charter": "jouR.ney to the end 【COVERED】"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.8",
+                "combo": "562",
+                "charter": "Su1fuR -All about YOU ＆ ME-"
+            }
+        }
+    },
+    "Secret Illumination": {
+        "song": "Secret Illumination",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "160",
+        "composer": "Yooh",
+        "length": "2:30(?)",
+        "illustrator": "Juice Black (青鸟 Modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "281",
+                "charter": "Likey"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.5",
+                "combo": "863",
+                "charter": "迟戈 vs Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "901",
+                "charter": "NerSAN"
+            }
+        }
+    },
+    "Inverted World": {
+        "song": "Inverted World",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "180",
+        "composer": "ARForest",
+        "length": "2:13(?)",
+        "illustrator": "Mechari (青鸟 Modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "246",
+                "charter": "Clutter"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.2",
+                "combo": "614",
+                "charter": "ɹǝʇʇnlƆ"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "820",
+                "charter": "ɓuɐnɥsⱯ .sʌ uoqsnɐ⅁"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",

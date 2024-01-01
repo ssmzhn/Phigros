@@ -1971,7 +1971,7 @@
         "song": "GOODTEK",
         "illustration": "https://img.moegirl.org.cn/common/thumb/e/e4/GOODTEK.png/300px-GOODTEK.png",
         "illustration_big": "https://img.moegirl.org.cn/common/e/e4/GOODTEK.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "190",
         "composer": "EBIMAYO",
         "length": "2:05",
@@ -2001,7 +2001,7 @@
         "song": "GOODBOUNCE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/e/e5/GOODBOUNCE_Phigros.png/300px-GOODBOUNCE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/e/e5/GOODBOUNCE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "180",
         "composer": "EBIMAYO",
         "length": "2:12",
@@ -2031,7 +2031,7 @@
         "song": "GOODWORLD",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/85/GOODWORLD_Phigros.png/300px-GOODWORLD_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/85/GOODWORLD_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "165",
         "composer": "EBIMAYO",
         "length": "2:11",
@@ -2061,7 +2061,7 @@
         "song": "GOODFORTUNE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/81/GOODFORTUNE_Phigros.png/300px-GOODFORTUNE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/81/GOODFORTUNE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "170",
         "composer": "EBIMAYO",
         "length": "2:13",
@@ -2091,7 +2091,7 @@
         "song": "GOODRAGE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/f/fe/GOODRAGE_Phigros.png/300px-GOODRAGE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/f/fe/GOODRAGE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "222",
         "composer": "EBIMAYO",
         "length": "2:01",
@@ -3211,12 +3211,12 @@
     },
     "Journey with You": {
         "song": "Journey with You",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/c/c8/Journey_with_You_Phigros.png/300px-Journey_with_You_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/c/c8/Journey_with_You_Phigros.png",
         "chapter": "Chapter EX-Rotaeno 精选集",
         "bpm": "150",
         "composer": "Iris",
-        "length": "2:20(?)",
+        "length": "2:11",
         "illustrator": "BTKCyber (青鸟 Modified)",
         "chart": {
             "EZ": {
@@ -3241,12 +3241,12 @@
     },
     "Secret Illumination": {
         "song": "Secret Illumination",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/fd/Secret_Illumination_Phigros.png/300px-Secret_Illumination_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/fd/Secret_Illumination_Phigros.png",
         "chapter": "Chapter EX-Rotaeno 精选集",
         "bpm": "160",
         "composer": "Yooh",
-        "length": "2:30(?)",
+        "length": "2:37",
         "illustrator": "Juice Black (青鸟 Modified)",
         "chart": {
             "EZ": {
@@ -3271,12 +3271,12 @@
     },
     "Inverted World": {
         "song": "Inverted World",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/4/41/Inverted_World_Phigros.png/300px-Inverted_World_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/4/41/Inverted_World_Phigros.png",
         "chapter": "Chapter EX-Rotaeno 精选集",
         "bpm": "180",
         "composer": "ARForest",
-        "length": "2:13(?)",
+        "length": "2:13",
         "illustrator": "Mechari (青鸟 Modified)",
         "chart": {
             "EZ": {
@@ -3296,6 +3296,114 @@
                 "difficulty": "15.4",
                 "combo": "820",
                 "charter": "ɓuɐnɥsⱯ .sʌ uoqsnɐ⅁"
+            }
+        }
+    },
+    "テリトリーバトル": {
+        "song": "テリトリーバトル",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/8/8e/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png/300px-%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/8/8e/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png",
+        "chapter": "Chapter EX-CHUNITHM 精选集",
+        "bpm": "140",
+        "composer": "ツユ",
+        "length": "2:30",
+        "illustrator": "SEGA (V17AMax Modified)",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "172",
+                "charter": "返せ！返せ！ボクのSu1fuRを"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.1",
+                "combo": "589",
+                "charter": "{^-7-^}BATTLE against Su1fuR"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.8",
+                "combo": "974",
+                "charter": "阿爽 and StupiGGy Seizing Territory"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "1417",
+                "charter": "JKy feat. 0419_Guardian"
+            }
+        }
+    },
+    "TECHNOPOLIS 2085": {
+        "song": "TECHNOPOLIS 2085",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/5/54/TECHNOPOLIS_2085_Phigros.png/300px-TECHNOPOLIS_2085_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/5/54/TECHNOPOLIS_2085_Phigros.png",
+        "chapter": "Chapter EX-CHUNITHM 精选集",
+        "bpm": "134",
+        "composer": "PRASTIK DANCEFLOOR",
+        "length": "2:18",
+        "illustrator": "SEGA (V17AMax Modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "141",
+                "charter": "dancing \"L\"ine 2085"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "443",
+                "charter": "迟戈 vs Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.4",
+                "combo": "820",
+                "charter": "CTYMAX ????"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.7",
+                "combo": "824",
+                "charter": "TECHNOXMT vs LATENCYPOLIS"
+            }
+        }
+    },
+    "祈 -我ら神祖と共に歩む者なり-": {
+        "song": "祈 -我ら神祖と共に歩む者なり-",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/ed/%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-_Phigros.png/300px-%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/ed/%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-_Phigros.png",
+        "chapter": "Chapter EX-CHUNITHM 精选集",
+        "bpm": "219",
+        "composer": "光吉猛修 VS 穴山大辅 VS Kai VS 水野健治 VS 大国奏音",
+        "length": "2:58",
+        "illustrator": "SEGA (V17AMax Modified)",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "666",
+                "charter": "Su1FuRikko \"SouRce of the metaveRse\""
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "1111",
+                "charter": "Su1FuRikko × rN \"judgemeNt fRom the cataStRophy\""
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.9",
+                "combo": "2222",
+                "charter": "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.5",
+                "combo": "2222",
+                "charter": "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
             }
         }
     },
@@ -5791,8 +5899,8 @@
     },
     "零號車輛": {
         "song": "零號車輛",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "240",
         "composer": "seatrus",
@@ -6061,8 +6169,8 @@
     },
     "Silence is Golden, Speech is Golden": {
         "song": "Silence is Golden, Speech is Golden",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3d/Silence_is_Golden_Phigros.png/304px-Silence_is_Golden_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3d/Silence_is_Golden_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "177",
         "composer": "NIWASHI",
@@ -6091,8 +6199,8 @@
     },
     "Fractured Angel": {
         "song": "Fractured Angel",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/66/Fractured_Angel_Phigros.png/304px-Fractured_Angel_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/66/Fractured_Angel_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "301",
         "composer": "DJ Raisei",
@@ -6116,6 +6224,66 @@
                 "difficulty": "15.9",
                 "combo": "1084",
                 "charter": "逆天使の惡魔【Likey】"
+            }
+        }
+    },
+    "bye": {
+        "song": "bye",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d9/Bye_Phigros.png/304px-Bye_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d9/Bye_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "160",
+        "composer": "DingerBox",
+        "length": "2:40",
+        "illustrator": "海产",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "186",
+                "charter": "Likey"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.3",
+                "combo": "333",
+                "charter": "Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.9",
+                "combo": "725",
+                "charter": "Ner ~ See you next time ~"
+            }
+        }
+    },
+    "聖夜讃歌": {
+        "song": "聖夜讃歌",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/a4/%E5%9C%A3%E5%A4%9C%E8%B5%9E%E6%AD%8C.png/304px-%E5%9C%A3%E5%A4%9C%E8%B5%9E%E6%AD%8C.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/a4/%E5%9C%A3%E5%A4%9C%E8%B5%9E%E6%AD%8C.png",
+        "chapter": "单曲精选集",
+        "bpm": "178",
+        "composer": "A-39/沙包P",
+        "length": "3:06",
+        "illustrator": "绀屋",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "402",
+                "charter": "爽夜讃歌"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.1",
+                "combo": "593",
+                "charter": "爽夜讃歌"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "1339",
+                "charter": "NerSANTA & Gausbell"
             }
         }
     },

@@ -10,11 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2023年12月29日更新！本次更新包含两首单曲。  
-> 两首新曲目是：  
+> 「Phigros x Rotaeno联动精选集」追加曲目将于2024年1月19日更新。  
+> 更新的曲目分别是：  
 >   
-> 「bye」 by DingerBox  
-> 「聖夜讃歌」 by A-39/沙包P  
+> 「Manifold Hypothesis」 by cybermiso feat. tigerlily  
+> 「ストレイソウル・アラウンド」 by みーに  
+> 「K.Moe (VIP)」 by ZxNX  
 <!-- end Phigros log -->
 
 ## 介绍

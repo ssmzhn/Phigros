@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> 「Phigros x Rotaeno联动精选集」追加曲目将于2024年1月19日更新。  
+> 「Phigros x Rotaeno联动精选集」追加曲目已于2024年1月19日更新。  
 > 更新的曲目分别是：  
 >   
 > 「Manifold Hypothesis」 by cybermiso feat. tigerlily  

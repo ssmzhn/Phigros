@@ -1971,7 +1971,7 @@
         "song": "GOODTEK",
         "illustration": "https://img.moegirl.org.cn/common/thumb/e/e4/GOODTEK.png/300px-GOODTEK.png",
         "illustration_big": "https://img.moegirl.org.cn/common/e/e4/GOODTEK.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "190",
         "composer": "EBIMAYO",
         "length": "2:05",
@@ -2001,7 +2001,7 @@
         "song": "GOODBOUNCE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/e/e5/GOODBOUNCE_Phigros.png/300px-GOODBOUNCE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/e/e5/GOODBOUNCE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "180",
         "composer": "EBIMAYO",
         "length": "2:12",
@@ -2031,7 +2031,7 @@
         "song": "GOODWORLD",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/85/GOODWORLD_Phigros.png/300px-GOODWORLD_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/85/GOODWORLD_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "165",
         "composer": "EBIMAYO",
         "length": "2:11",
@@ -2061,7 +2061,7 @@
         "song": "GOODFORTUNE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/81/GOODFORTUNE_Phigros.png/300px-GOODFORTUNE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/8/81/GOODFORTUNE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "170",
         "composer": "EBIMAYO",
         "length": "2:13",
@@ -2091,7 +2091,7 @@
         "song": "GOODRAGE",
         "illustration": "https://img.moegirl.org.cn/common/thumb/f/fe/GOODRAGE_Phigros.png/300px-GOODRAGE_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/f/fe/GOODRAGE_Phigros.png",
-        "chapter": "Chapter EX-GOOD精选集",
+        "chapter": "Chapter EX-GOOD 精选集",
         "bpm": "222",
         "composer": "EBIMAYO",
         "length": "2:01",
@@ -3109,7 +3109,7 @@
                 "level": "15",
                 "difficulty": "15.2",
                 "combo": "1125",
-                "charter": "晨_铁"
+                "charter": "晨_鉄"
             }
         }
     },
@@ -3296,6 +3296,96 @@
                 "difficulty": "15.4",
                 "combo": "820",
                 "charter": "ɓuɐnɥsⱯ .sʌ uoqsnɐ⅁"
+            }
+        }
+    },
+    "ストレイソウル・アラウンド": {
+        "song": "ストレイソウル・アラウンド",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/fd/%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%82%BD%E3%82%A6%E3%83%AB_%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89_Phigros.png/300px-%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%82%BD%E3%82%A6%E3%83%AB_%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/fd/%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%82%BD%E3%82%A6%E3%83%AB_%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89_Phigros.png",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "150",
+        "composer": "みーに",
+        "length": "2:17",
+        "illustrator": "伊恩 (青鸟 modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "324",
+                "charter": "JKy as \"Stray Cat\""
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.4",
+                "combo": "486",
+                "charter": "Stray Cat Around"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "908",
+                "charter": "クラッ夕·アナザ一·ラウンド"
+            }
+        }
+    },
+    "Manifold Hypothesis": {
+        "song": "Manifold Hypothesis",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/5/5f/Manifold_Hypothesis_Phigros.png/300px-Manifold_Hypothesis_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/5/5f/Manifold_Hypothesis_Phigros.png",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "174",
+        "composer": "cybermiso feat. tigerlily",
+        "length": "2:28",
+        "illustrator": "阿清 (青鸟 modified)",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "187",
+                "charter": "Likey"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.9",
+                "combo": "401",
+                "charter": "Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "895",
+                "charter": "Gausbon feat. 迟戈&野从"
+            }
+        }
+    },
+    "K.Moe (VIP)": {
+        "song": "K.Moe (VIP)",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/fd/K.Moe_%28VIP%29_Phigros.png/300px-K.Moe_%28VIP%29_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/fd/K.Moe_%28VIP%29_Phigros.png",
+        "chapter": "Chapter EX-Rotaeno 精选集",
+        "bpm": "175",
+        "composer": "ZxNX",
+        "length": "2:09",
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "123",
+                "charter": "R:kko(IMD)"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.4",
+                "combo": "432",
+                "charter": "R:kko(IMD)"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1060",
+                "charter": "C.Max(PBM)"
             }
         }
     },
@@ -5899,8 +5989,8 @@
     },
     "零號車輛": {
         "song": "零號車輛",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "240",
         "composer": "seatrus",

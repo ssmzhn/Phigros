@@ -10,12 +10,6 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年2月2日更新！本次更新包含两首单曲。  
-> 两首新曲目是：  
->   
-> 「Crush BETA」 by Shadow_bling  
-> 「G.V.N. (Glitter, Vomitus and Neon) 」 by Salty Salt & Unfold33  
->   
 > Phigros 3.5.0版本将于2024.02.23更新，新增支线章节三《盗乐行》。  
 > 更新的曲目分别是：   
 >   

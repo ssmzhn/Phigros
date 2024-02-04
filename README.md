@@ -4,9 +4,9 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `3.4.2` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `3.4.3` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2024.1.19 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2024.2.2 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->

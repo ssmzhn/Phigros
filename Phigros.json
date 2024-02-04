@@ -6377,6 +6377,66 @@
             }
         }
     },
+    "G.V.N.(Glitter,Vomitus and Neon)": {
+        "song": "G.V.N.(Glitter,Vomitus and Neon)",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "175",
+        "composer": "Salty Salt & Unfold33",
+        "length": "2:41",
+        "illustrator": "祈莲",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "635",
+                "charter": "B.B.M."
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.5",
+                "combo": "900",
+                "charter": "B.B.M."
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1545",
+                "charter": "A.S.H."
+            }
+        }
+    },
+    "Crush BETA": {
+        "song": "Crush BETA",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "200",
+        "composer": "shadow_bling",
+        "length": "2:15",
+        "illustrator": "笔记RE",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "270",
+                "charter": "Clutter BETA"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "666",
+                "charter": "Crush βETA"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "977",
+                "charter": "Timi今天吃神马"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

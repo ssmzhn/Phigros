@@ -1727,6 +1727,162 @@
             }
         }
     },
+    "Khalid": {
+        "song": "Khalid",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 3 盗乐行",
+        "bpm": "128",
+        "composer": "Dolphin",
+        "length": "2:10",
+        "illustrator": "HAZUQU",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "190",
+                "charter": "Barbarialid"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.2",
+                "combo": "356",
+                "charter": "Barbarialid"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.1",
+                "combo": "631",
+                "charter": "Ner<Jazz for your soul .)"
+            }
+        }
+    },
+    "Quantum Hyperspace": {
+        "song": "Quantum Hyperspace",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 3 盗乐行",
+        "bpm": "200",
+        "composer": "D_AAN",
+        "length": "1:58",
+        "illustrator": "sa1t",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "443",
+                "charter": "Bariantum Hyperianerman"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.2",
+                "combo": "790",
+                "charter": "Bariantum Hyperianerman"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "888",
+                "charter": "IMD_0B0110"
+            }
+        }
+    },
+    "Freaky Undulations ~Noble Knights of Tune~": {
+        "song": "Freaky Undulations ~Noble Knights of Tune~",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 3 盗乐行",
+        "bpm": "202",
+        "composer": "Jehezukiel + KURORAK",
+        "length": "2:18",
+        "illustrator": "PEZZ feat. 祈莲 & CattoHato",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "292",
+                "charter": "Ner ~Freaky Cat of Charting~"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.9",
+                "combo": "621",
+                "charter": "ARE YOU JEITIE!!!"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.1",
+                "combo": "1020",
+                "charter": "<= Noblesse Jeitie =>"
+            }
+        }
+    },
+    "PANIC PARADISE": {
+        "song": "PANIC PARADISE",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 3 盗乐行",
+        "bpm": "170",
+        "composer": "DJ SHION.Y",
+        "length": "2:08",
+        "illustrator": "百九十八",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "367",
+                "charter": "Barianic Beradise"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "533",
+                "charter": "Barianic Beradise"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "881",
+                "charter": "Su1fuR -FAISEURS DE PANIQUE-"
+            }
+        }
+    },
+    "Re：End of a Dream": {
+        "song": "Re：End of a Dream",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 3 盗乐行",
+        "bpm": "212",
+        "composer": "uma vs. モリモリあつし",
+        "length": "2:21",
+        "illustrator": "masiro vs. adaptor",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "421",
+                "charter": "Barbarianerman, Overture before the story"
+            },
+            "HD": {
+                "level": "13",
+                "difficulty": "13.1",
+                "combo": "856",
+                "charter": "Barbarianerman, Main theme before the somnium"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1186",
+                "charter": "Latency, Finale of the dream"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1377",
+                "charter": "XMT, Encore after the end"
+            }
+        }
+    },
     "Another Me (Rising Sun Traxx)": {
         "song": "Another Me (Rising Sun Traxx)",
         "illustration": "https://img.moegirl.org.cn/common/thumb/5/5c/Another_Me_%E6%96%B0_Phigros.jpeg/300px-Another_Me_%E6%96%B0_Phigros.jpeg",

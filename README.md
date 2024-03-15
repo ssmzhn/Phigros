@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros即将于2024.03.15更新！本次更新将带来中国电子音乐厂牌Sakura Records为Phigros原创的一首联动曲目。  
+> Phigros已于2024.03.15更新！本次更新将带来中国电子音乐厂牌Sakura Records为Phigros原创的一首联动曲目。  
 > 更新的曲目是：  
 > 「Broken Sky」 by: Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow  
 > Sakura Records成立于2021年，主要收录萌系/日系/清新系的电子、流行音乐。厂牌在成立两年多的时间里不断输出优质作品，作为中国规模较大的日系/萌系厂牌之一，通过多元的方式为国电圈贡献力量。  

@@ -14,6 +14,14 @@
 > 更新的曲目是：  
 > 「BRAIN HACKER」 by: SOMON  
 > 美工鸽的脑袋遭遇神秘黑客袭击？！今天的更新图怎么变得那么奇怪？！ ToT  
+>   
+>   
+> Phigros x Paradigm: Reboot 联动PV已放出！相关曲目将于2024/04/05更新。  
+> 更新的曲目分别是：  
+>   
+> 「Indelible Scar」 by Noah  
+> 「Artificial Existence」by Jun Kuroda  
+> 「Xenolith」 by Tatsh  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -3653,6 +3653,132 @@
             }
         }
     },
+    "Xenolith": {
+        "song": "Xenolith",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Paradigm:Reboot 精选集",
+        "bpm": "170",
+        "composer": "Tatsh",
+        "length": "2:17",
+        "illustrator": "2Al4wU4",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "202",
+                "charter": "RXhuang"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.5",
+                "combo": "533",
+                "charter": "RXhuang"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "789",
+                "charter": "Xlutter guided by three Oaths"
+            }
+        }
+    },
+    "Artificial Existence": {
+        "song": "Artificial Existence",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Paradigm:Reboot 精选集",
+        "bpm": "191",
+        "composer": "Jun Kuroda",
+        "length": "2:16",
+        "illustrator": "2Al4wU4",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "200",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "400",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.9",
+                "combo": "800",
+                "charter": "Salt & _鉄 inspired by 存在証明 [X]"
+            }
+        }
+    },
+    "Indelible Scar": {
+        "song": "Indelible Scar",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Paradigm:Reboot 精选集",
+        "bpm": "223",
+        "composer": "Noah",
+        "length": "2:13",
+        "illustrator": "兜",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "316",
+                "charter": "Clutter & Barbarianerman"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.7",
+                "combo": "733",
+                "charter": "Salt & Barbarianerman"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "844",
+                "charter": "Likey affected by Ancestral Xhronicle"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.2",
+                "combo": "1207",
+                "charter": "上班睡大觉_Sleepyhead"
+            }
+        }
+    },
+    "零號車輛": {
+        "song": "零號車輛",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
+        "chapter": "Chapter EX-Paradigm:Reboot 精选集",
+        "bpm": "240",
+        "composer": "seatrus",
+        "length": "2:24",
+        "illustrator": "2Al4wU4",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "594",
+                "charter": "零號宇夜"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.3",
+                "combo": "1058",
+                "charter": "壹號阿爽"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1240",
+                "charter": "Pcat【零】198"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",
@@ -6140,36 +6266,6 @@
                 "difficulty": "14.7",
                 "combo": "732",
                 "charter": "_鉄"
-            }
-        }
-    },
-    "零號車輛": {
-        "song": "零號車輛",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/9/97/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_New_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "240",
-        "composer": "seatrus",
-        "length": "2:24",
-        "illustrator": "2Al4wU4",
-        "chart": {
-            "EZ": {
-                "level": "7",
-                "difficulty": "7.0",
-                "combo": "594",
-                "charter": "零號宇夜"
-            },
-            "HD": {
-                "level": "12",
-                "difficulty": "12.3",
-                "combo": "1058",
-                "charter": "壹號阿爽"
-            },
-            "IN": {
-                "level": "15",
-                "difficulty": "15.8",
-                "combo": "1240",
-                "charter": "Pcat【零】198"
             }
         }
     },

@@ -359,7 +359,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.2",
+                "difficulty": "15.1",
                 "combo": "1171",
                 "charter": "晨 vs. 阿爽"
             }
@@ -3679,7 +3679,7 @@
                 "level": "14",
                 "difficulty": "14.5",
                 "combo": "789",
-                "charter": "Xlutter guided by three Oaths"
+                "charter": "Xlutter guided by three Oaths-"
             }
         }
     },
@@ -3709,7 +3709,7 @@
                 "level": "14",
                 "difficulty": "14.9",
                 "combo": "800",
-                "charter": "Salt & _鉄 inspired by 存在証明 [X]"
+                "charter": "Salt & _鉄 inspired by 存在証明 [X]-"
             }
         }
     },
@@ -6716,6 +6716,36 @@
                 "difficulty": "13.2",
                 "combo": "459",
                 "charter": "Su1fuR"
+            }
+        }
+    },
+    "BRAIN HACKER": {
+        "song": "BRAIN HACKER",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "158",
+        "composer": "SOMON",
+        "length": "2:02",
+        "illustrator": "SOMON",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "230",
+                "charter": "BLACK CTYMAX"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.5",
+                "combo": "372",
+                "charter": "BLACK CTYMAX"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "780",
+                "charter": "COLORFUL BLACK GAUSBON"
             }
         }
     },

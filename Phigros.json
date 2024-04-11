@@ -1729,12 +1729,12 @@
     },
     "Khalid": {
         "song": "Khalid",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/1/17/Khalid_Phigros.png/300px-Khalid_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/1/17/Khalid_Phigros.png",
         "chapter": "Side Story 3 盗乐行",
         "bpm": "128",
         "composer": "Dolphin",
-        "length": "2:10",
+        "length": "2:11",
         "illustrator": "HAZUQU",
         "chart": {
             "EZ": {
@@ -1759,12 +1759,12 @@
     },
     "Quantum Hyperspace": {
         "song": "Quantum Hyperspace",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d3/Quantum_Hyperspace_Phigros.png/300px-Quantum_Hyperspace_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d3/Quantum_Hyperspace_Phigros.png",
         "chapter": "Side Story 3 盗乐行",
         "bpm": "200",
         "composer": "D_AAN",
-        "length": "1:58",
+        "length": "1:55",
         "illustrator": "sa1t",
         "chart": {
             "EZ": {
@@ -1789,12 +1789,12 @@
     },
     "Freaky Undulations ~Noble Knights of Tune~": {
         "song": "Freaky Undulations ~Noble Knights of Tune~",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/04/Freaky_Undulations_Phigros.png/300px-Freaky_Undulations_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/04/Freaky_Undulations_Phigros.png",
         "chapter": "Side Story 3 盗乐行",
         "bpm": "202",
         "composer": "Jehezukiel + KURORAK",
-        "length": "2:18",
+        "length": "2:16",
         "illustrator": "PEZZ feat. 祈莲 & CattoHato",
         "chart": {
             "EZ": {
@@ -1819,12 +1819,12 @@
     },
     "PANIC PARADISE": {
         "song": "PANIC PARADISE",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/7/76/PANIC_PARADISE_Phigros.png/300px-PANIC_PARADISE_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/7/76/PANIC_PARADISE_Phigros.png",
         "chapter": "Side Story 3 盗乐行",
         "bpm": "170",
         "composer": "DJ SHION.Y",
-        "length": "2:08",
+        "length": "2:09",
         "illustrator": "百九十八",
         "chart": {
             "EZ": {
@@ -1849,8 +1849,8 @@
     },
     "Re：End of a Dream": {
         "song": "Re：End of a Dream",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/c/c5/Re%EF%BC%9AEnd_of_a_Dream_Phigros.png/300px-Re%EF%BC%9AEnd_of_a_Dream_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/c/c5/Re%EF%BC%9AEnd_of_a_Dream_Phigros.png",
         "chapter": "Side Story 3 盗乐行",
         "bpm": "212",
         "composer": "uma vs. モリモリあつし",
@@ -3660,7 +3660,7 @@
         "chapter": "Chapter EX-Paradigm:Reboot 精选集",
         "bpm": "170",
         "composer": "Tatsh",
-        "length": "2:17",
+        "length": "2:18",
         "illustrator": "2Al4wU4",
         "chart": {
             "EZ": {
@@ -3690,7 +3690,7 @@
         "chapter": "Chapter EX-Paradigm:Reboot 精选集",
         "bpm": "191",
         "composer": "Jun Kuroda",
-        "length": "2:16",
+        "length": "2:14",
         "illustrator": "2Al4wU4",
         "chart": {
             "EZ": {
@@ -3720,7 +3720,7 @@
         "chapter": "Chapter EX-Paradigm:Reboot 精选集",
         "bpm": "223",
         "composer": "Noah",
-        "length": "2:13",
+        "length": "2:17",
         "illustrator": "兜",
         "chart": {
             "EZ": {
@@ -6696,7 +6696,7 @@
         "chapter": "单曲精选集",
         "bpm": "130",
         "composer": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
-        "length": "2:35(?)",
+        "length": "2:35",
         "illustrator": "午苔veeee~",
         "chart": {
             "EZ": {
@@ -6726,7 +6726,7 @@
         "chapter": "单曲精选集",
         "bpm": "158",
         "composer": "SOMON",
-        "length": "2:02",
+        "length": "2:01",
         "illustrator": "SOMON",
         "chart": {
             "EZ": {

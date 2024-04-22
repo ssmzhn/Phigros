@@ -10,12 +10,13 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x Paradigm: Reboot 联动精选集已于2024/04/05更新。  
-> 更新的曲目分别是：  
+> Didn't see that one coming?  
+> 一缕和谐的光芒，已在这分崩离析的世界中等候多时……  
+> [Phigros x Arcaea] Crossing Pulse乐曲交换将于2024/04/26更新！本次更新包含两首来自音乐游戏Arcaea的单曲。  
+> 更新的曲目是：  
 >   
-> 「Indelible Scar」 by Noah  
-> 「Artificial Existence」by Jun Kuroda  
-> 「Xenolith」 by Tatsh  
+> 「Antithese」 by: Blacklolita  
+> 「PRAGMATISM -RESURRECTION-」 by: Laur  
 <!-- end Phigros log -->
 
 ## 介绍

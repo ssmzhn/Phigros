@@ -6689,36 +6689,6 @@
             }
         }
     },
-    "Broken Sky": {
-        "song": "Broken Sky",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/b/b0/Broken_Sky_Phigros.png/304px-Broken_Sky_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/b/b0/Broken_Sky_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "130",
-        "composer": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
-        "length": "2:35",
-        "illustrator": "午苔veeee~",
-        "chart": {
-            "EZ": {
-                "level": "4",
-                "difficulty": "4.0",
-                "combo": "169",
-                "charter": "Clutter"
-            },
-            "HD": {
-                "level": "9",
-                "difficulty": "9.3",
-                "combo": "352",
-                "charter": "Clutter"
-            },
-            "IN": {
-                "level": "13",
-                "difficulty": "13.2",
-                "combo": "459",
-                "charter": "Su1fuR"
-            }
-        }
-    },
     "BRAIN HACKER": {
         "song": "BRAIN HACKER",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/88/BRAIN_HACKER_Phigros.png/304px-BRAIN_HACKER_Phigros.png",
@@ -6746,6 +6716,78 @@
                 "difficulty": "14.7",
                 "combo": "780",
                 "charter": "COLORFUL BLACK GAUSBON"
+            }
+        }
+    },
+    "Antithese": {
+        "song": "Antithese",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "172",
+        "composer": "Blacklolita",
+        "length": "2:20",
+        "illustrator": "釜饭轰々丸+jht（Design：祈莲）",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "313",
+                "charter": "SeveredEntity（BlindForest vs rN）feat. Δ"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.8",
+                "combo": "801",
+                "charter": "Δ（M3d1uM vs Salt）"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "1063",
+                "charter": "StupiGGy -The Origin-"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.9",
+                "combo": "1200",
+                "charter": "弧光"
+            }
+        }
+    },
+    "PRAGMATISM -RESURRECTION-": {
+        "song": "PRAGMATISM -RESURRECTION-",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "174",
+        "composer": "Laur",
+        "length": "2:41",
+        "illustrator": "シエラ（Design：祈莲）",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "1057",
+                "charter": "完璧[WARNING: DRAG OVERLOAD]"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "661",
+                "charter": "完壁 × 北星"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "999",
+                "charter": "-Nersan & Su1fuR-"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.3",
+                "combo": "1156",
+                "charter": "THE LAST 198"
             }
         }
     },

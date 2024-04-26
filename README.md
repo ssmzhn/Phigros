@@ -12,7 +12,7 @@
 <!-- begin Phigros log -->
 > Didn't see that one coming?  
 > 一缕和谐的光芒，已在这分崩离析的世界中等候多时……  
-> [Phigros x Arcaea] Crossing Pulse乐曲交换将于2024/04/26更新！本次更新包含两首来自音乐游戏Arcaea的单曲。  
+> [Phigros x Arcaea] Crossing Pulse乐曲交换已于2024/04/26更新！本次更新包含两首来自音乐游戏Arcaea的单曲。  
 > 更新的曲目是：  
 >   
 > 「Antithese」 by: Blacklolita  

@@ -6721,25 +6721,25 @@
     },
     "Antithese": {
         "song": "Antithese",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/f9/Antithese_Phigros.png/304px-Antithese_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/f9/Antithese_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "172",
         "composer": "Blacklolita",
         "length": "2:20",
-        "illustrator": "釜饭轰々丸+jht（Design：祈莲）",
+        "illustrator": "釜饭轰々丸+jht (Design：祈莲)",
         "chart": {
             "EZ": {
                 "level": "5",
                 "difficulty": "5.5",
                 "combo": "313",
-                "charter": "SeveredEntity（BlindForest vs rN）feat. Δ"
+                "charter": "SeveredEntity (BlindForest vs rN) feat. Δ"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.8",
                 "combo": "801",
-                "charter": "Δ（M3d1uM vs Salt）"
+                "charter": "Δ (M3d1uM vs Salt)"
             },
             "IN": {
                 "level": "15",
@@ -6757,13 +6757,13 @@
     },
     "PRAGMATISM -RESURRECTION-": {
         "song": "PRAGMATISM -RESURRECTION-",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/2/26/PRAGMATISM_Phigros.png/304px-PRAGMATISM_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/2/26/PRAGMATISM_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "174",
         "composer": "Laur",
         "length": "2:41",
-        "illustrator": "シエラ（Design：祈莲）",
+        "illustrator": "シエラ (Design：祈莲)",
         "chart": {
             "EZ": {
                 "level": "7",
@@ -6781,7 +6781,7 @@
                 "level": "15",
                 "difficulty": "15.6",
                 "combo": "999",
-                "charter": "-Nersan & Su1fuR-"
+                "charter": "-NerSAN & Su1fuR-"
             },
             "AT": {
                 "level": "16",

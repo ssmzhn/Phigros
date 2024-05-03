@@ -177,6 +177,6 @@ for idx, item in enumerate(ul_data):
                                                    }
 data = json.dumps(data_list, indent=4, ensure_ascii=False)
 
-with open("Phigros.json", 'w+') as f:  # 如果filename不存在会自动创建， 'w'表示写数据，写之前会清空文件中的原有数据！
+with open("Phigros.json", 'w+', encoding='utf-8') as f:  # 如果filename不存在会自动创建， 'w'表示写数据，写之前会清空文件中的原有数据！
     f.write(data)
 

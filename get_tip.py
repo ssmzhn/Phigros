@@ -33,5 +33,5 @@ for x in ol_list:
                 tips.append(single_tip)
         tip_info[group_name]=tips
 
-with open('tips.json','w') as f:
+with open('tips.json','w',encoding='utf-8') as f:
     f.write(json.dumps(tip_info,indent=4,ensure_ascii=False))

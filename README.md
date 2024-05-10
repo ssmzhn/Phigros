@@ -10,13 +10,15 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Didn't see that one coming?  
-> 一缕和谐的光芒，已在这分崩离析的世界中等候多时……  
-> [Phigros x Arcaea] Crossing Pulse乐曲交换已于2024/04/26更新！本次更新包含两首来自音乐游戏Arcaea的单曲。  
-> 更新的曲目是：  
+> Phigros 将于 2024 年 5 月 10 日更新！  
+> 本次更新将带来中国创作者社团 @CITYSOUNDS_城市声音 为我们创作的一首联动原创曲目：  
 >   
-> 「Antithese」 by: Blacklolita  
-> 「PRAGMATISM -RESURRECTION-」 by: Laur  
+> 「Shine After」 by: ADean & JocularACE  
+> 创作者社团「CITY SOUNDS / 城市声音」于 2020 年发起，以 4/4 拍的电子音乐为主要创作载体。  
+> 想要了解更多的小鸽子们可以移步下方网站咕！  
+>   
+> https://dzl.pw/2zjK  
+> https://space.bilibili.com/2116110377?spm_id_from=333.1369.0.0  
 <!-- end Phigros log -->
 
 ## 介绍

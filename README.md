@@ -17,8 +17,8 @@
 > 创作者社团「CITY SOUNDS / 城市声音」于 2020 年发起，以 4/4 拍的电子音乐为主要创作载体。  
 > 想要了解更多的小鸽子们可以移步下方网站咕！  
 >   
-> https://dzl.pw/2zjK  
-> https://space.bilibili.com/2116110377?spm_id_from=333.1369.0.0  
+> CITY SOUNDS - dizzylab  
+> CITYSOUNDS_城市声音的个人空间-CITYSOUNDS_城市声音个人主页-哔哩哔哩视频  
 <!-- end Phigros log -->
 
 ## 介绍

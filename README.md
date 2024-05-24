@@ -10,15 +10,14 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros 将于 2024 年 5 月 10 日更新！  
-> 本次更新将带来中国创作者社团 @CITYSOUNDS_城市声音 为我们创作的一首联动原创曲目：  
+> Phigros将于2024年5月31日更新！  
+> 本次更新将带来中国电子音乐厂牌Dimension维度坍缩的一首联动曲目。  
+> 更新的曲目是：  
 >   
-> 「Shine After」 by: ADean & JocularACE  
-> 创作者社团「CITY SOUNDS / 城市声音」于 2020 年发起，以 4/4 拍的电子音乐为主要创作载体。  
+> 「Bloom」 by: 麻团qwq & targ  
+> 坍缩过去，重塑未来。维度坍缩是于2021年3月12日成立的国内厂牌，致力于发展、推广电子音乐，一切为音乐服务，并拥有完整的审核发行体系和制作人团队。  
 > 想要了解更多的小鸽子们可以移步下方网站咕！  
->   
-> CITY SOUNDS - dizzylab  
-> CITYSOUNDS_城市声音的个人空间-CITYSOUNDS_城市声音个人主页-哔哩哔哩视频  
+> https://music.163.com/#/artist?id=34855688  
 <!-- end Phigros log -->
 
 ## 介绍

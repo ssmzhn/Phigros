@@ -6791,6 +6791,66 @@
             }
         }
     },
+    "Shine After": {
+        "song": "Shine After",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "170",
+        "composer": "ADean & JocularACE",
+        "length": "2:45",
+        "illustrator": "海里狄七 feat. 存艺",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "7.5",
+                "combo": "262",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.9",
+                "combo": "647",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.6",
+                "combo": "800",
+                "charter": "Salt & Uvernight"
+            }
+        }
+    },
+    "Bloom": {
+        "song": "Bloom",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "150",
+        "composer": "targ & 麻团qwq",
+        "length": "2:39",
+        "illustrator": "注射",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "183",
+                "charter": "Su1fuR & Barbarianerman"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.6",
+                "combo": "724",
+                "charter": "Su1fuR & Barbarianerman"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.9",
+                "combo": "1053",
+                "charter": "SPAΔE & 倪尔qwq"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

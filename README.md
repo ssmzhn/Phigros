@@ -10,14 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年5月31日更新！  
-> 本次更新将带来中国电子音乐厂牌Dimension维度坍缩的一首联动曲目。  
-> 更新的曲目是：  
+> Phigros x SHINOBI SLASH 联动PV已放出！相关曲目将于2024/06/28更新。  
+> 更新的曲目分别是：  
 >   
-> 「Bloom」 by: 麻团qwq & targ  
-> 坍缩过去，重塑未来。维度坍缩是于2021年3月12日成立的国内厂牌，致力于发展、推广电子音乐，一切为音乐服务，并拥有完整的审核发行体系和制作人团队。  
-> 想要了解更多的小鸽子们可以移步下方网站咕！  
-> https://music.163.com/#/artist?id=34855688  
+> 「幽世桔梗」by: Capchii feat. まるもこ  
+> 「明镜烈火」by: M-UE vs. Reku Mochizuki  
+> 「千紫万红」by: r0y vs. WABI  
 <!-- end Phigros log -->
 
 ## 介绍

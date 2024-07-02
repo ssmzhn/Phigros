@@ -3545,42 +3545,6 @@
             }
         }
     },
-    "テリトリーバトル": {
-        "song": "テリトリーバトル",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/8/8e/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png/300px-%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/8/8e/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB_Phigros.png",
-        "chapter": "Chapter EX-CHUNITHM 精选集",
-        "bpm": "140",
-        "composer": "ツユ",
-        "length": "2:30",
-        "illustrator": "SEGA (V17AMax Modified)",
-        "chart": {
-            "EZ": {
-                "level": "3",
-                "difficulty": "3.0",
-                "combo": "172",
-                "charter": "返せ！返せ！ボクのSu1fuRを"
-            },
-            "HD": {
-                "level": "9",
-                "difficulty": "9.1",
-                "combo": "589",
-                "charter": "{^-7-^}BATTLE against Su1fuR"
-            },
-            "IN": {
-                "level": "13",
-                "difficulty": "13.8",
-                "combo": "974",
-                "charter": "阿爽 and StupiGGy Seizing Territory"
-            },
-            "AT": {
-                "level": "15",
-                "difficulty": "15.3",
-                "combo": "1417",
-                "charter": "JKy feat. 0419_Guardian"
-            }
-        }
-    },
     "TECHNOPOLIS 2085": {
         "song": "TECHNOPOLIS 2085",
         "illustration": "https://img.moegirl.org.cn/common/thumb/5/54/TECHNOPOLIS_2085_Phigros.png/300px-TECHNOPOLIS_2085_Phigros.png",
@@ -3776,6 +3740,96 @@
                 "difficulty": "15.8",
                 "combo": "1240",
                 "charter": "Pcat【零】198"
+            }
+        }
+    },
+    "幽世桔梗": {
+        "song": "幽世桔梗",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-SHINOBI FLASH 精选集",
+        "bpm": "182",
+        "composer": "Capchii feat. まるもこ",
+        "length": "2:34",
+        "illustrator": "瀬名",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "223",
+                "charter": "RipHall vs. Likey"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.1",
+                "combo": "562",
+                "charter": "RipHall vs. Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "981",
+                "charter": "Su1fuR、快斬！"
+            }
+        }
+    },
+    "千紫万紅": {
+        "song": "千紫万紅",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-SHINOBI FLASH精选集",
+        "bpm": "203",
+        "composer": "r0y vs. WABI",
+        "length": "2:24",
+        "illustrator": "中本ひょうり",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "240",
+                "charter": "Rikko"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.1",
+                "combo": "779",
+                "charter": "実戦 with Rikko"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1200",
+                "charter": "Salt & Barbarianerman"
+            }
+        }
+    },
+    "明鏡烈火": {
+        "song": "明鏡烈火",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-SHINOBI FLASH精选集",
+        "bpm": "200",
+        "composer": "M-UE vs. Reku Mochizuki",
+        "length": "2:12",
+        "illustrator": "中本ひょうり",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.5",
+                "combo": "376",
+                "charter": "COC feat. Su1fuR"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "566",
+                "charter": "COC feat. Su1fuR"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "886",
+                "charter": "Arenn Salty feat. LDA"
             }
         }
     },

@@ -10,12 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x SHINOBI SLASH 联动PV已放出！相关曲目将于2024/06/28更新。  
-> 更新的曲目分别是：  
+> Phigros将于2024/07/12更新！本次更新将带来与次元LAB联动的一首曲目。  
+> 更新的曲目是：  
+> 「今天不是明天」 by PIKASONIC feat. 兰音Reine  
+> 移步下列链接即可欣赏「今天不是明天」！  
 >   
-> 「幽世桔梗」by: Capchii feat. まるもこ  
-> 「明镜烈火」by: M-UE vs. Reku Mochizuki  
-> 「千紫万红」by: r0y vs. WABI  
+> Bilibili: https://www.bilibili.com/video/BV1pi4y1B7oz/  
 <!-- end Phigros log -->
 
 ## 介绍

@@ -10,12 +10,12 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024/07/12更新！本次更新将带来与次元LAB联动的一首曲目。  
-> 更新的曲目是：  
-> 「今天不是明天」 by PIKASONIC feat. 兰音Reine  
-> 移步下列链接即可欣赏「今天不是明天」！  
+> Phigros x TAKUMI³ 联动PV已放出！相关曲目将于2024/07/26更新。  
+> 更新的曲目分别是：  
 >   
-> Bilibili: https://www.bilibili.com/video/BV1pi4y1B7oz/  
+> 「a truth seeker -Communication with Utopia will be lost-」by: kuro  
+> 「Cuvism³」by: Fl00t vs Halv  
+> 「iL-Artifact」by: Link"0  
 <!-- end Phigros log -->
 
 ## 介绍

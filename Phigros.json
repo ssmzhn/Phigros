@@ -6905,6 +6905,36 @@
             }
         }
     },
+    "今天不是明天": {
+        "song": "今天不是明天",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "125",
+        "composer": "PIKASONIC feat. 兰音Reine",
+        "length": "2:53",
+        "illustrator": "KiTA & 一击即溃",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "294",
+                "charter": "扫佛不是嫂夫"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.5",
+                "combo": "546",
+                "charter": "扫佛不是嫂夫"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.5",
+                "combo": "913",
+                "charter": "杂波不是杂啵，野从不是野丛"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

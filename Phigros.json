@@ -3833,6 +3833,102 @@
             }
         }
     },
+    "Cuvism³": {
+        "song": "Cuvism³",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-TAKUMI³精选集",
+        "bpm": "194",
+        "composer": "Fl00t vs Halv",
+        "length": "2:40",
+        "illustrator": "sikkari",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "222",
+                "charter": "Rikko"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.1",
+                "combo": "761",
+                "charter": "Rikko³[Normal]"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.9",
+                "combo": "830",
+                "charter": "Rikko"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1088",
+                "charter": "Jky vs StrayCat"
+            }
+        }
+    },
+    "iL-Artifact": {
+        "song": "iL-Artifact",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-TAKUMI³精选集",
+        "bpm": "184",
+        "composer": "Link\"0",
+        "length": "2:43",
+        "illustrator": "Fl00t",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "482",
+                "charter": "IUIsauce"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.5",
+                "combo": "925",
+                "charter": "IUIsauce"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "1279",
+                "charter": "XMT小咩兔 vs 上班睡大觉_Sleepyhead"
+            }
+        }
+    },
+    "a truth seeker -Communication with Utopia will be lost-": {
+        "song": "a truth seeker -Communication with Utopia will be lost-",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-TAKUMI³精选集",
+        "bpm": "206",
+        "composer": "kuro",
+        "length": "2:02",
+        "illustrator": "rokopon",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "328",
+                "charter": "上班睡大觉_Sleepyhead"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.8",
+                "combo": "555",
+                "charter": "上班睡大觉_Sleepyhead"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "986",
+                "charter": "-Seek A Lnside Truth-"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",
@@ -6932,6 +7028,36 @@
                 "difficulty": "13.5",
                 "combo": "913",
                 "charter": "杂波不是杂啵，野从不是野丛"
+            }
+        }
+    },
+    "Bounded Quietude": {
+        "song": "Bounded Quietude",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "280",
+        "composer": "Finite Spirit vs SiLiS",
+        "length": "2:32",
+        "illustrator": "Hiro vs Zeth",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "1127",
+                "charter": "LonelyKnight"
+            },
+            "HD": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "303",
+                "charter": "LonelyKnight"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.9",
+                "combo": "1286",
+                "charter": "孤独な騎士 Against 魔王、大咩兔"
             }
         }
     },

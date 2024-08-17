@@ -7091,6 +7091,66 @@
             }
         }
     },
+    "君往何处（Quo Vadis）": {
+        "song": "君往何处（Quo Vadis）",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "160",
+        "composer": "M2U",
+        "length": "2:25",
+        "illustrator": "LRAY",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "208",
+                "charter": "Where are Ctymax and 阿爽？"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.6",
+                "combo": "390",
+                "charter": "Where are Ctymax and 阿爽？"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "935",
+                "charter": "Salt"
+            }
+        }
+    },
+    "暗夜苏醒（REANIMATE）": {
+        "song": "暗夜苏醒（REANIMATE）",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "174",
+        "composer": "Warak",
+        "length": "2:36",
+        "illustrator": "MHK",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "236",
+                "charter": "Deep Dark Ctymax"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.8",
+                "combo": "842",
+                "charter": "reanimate_6k_nm.imd"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "1262",
+                "charter": "StupiGGy -The Startline-"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",

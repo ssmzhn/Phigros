@@ -12,8 +12,14 @@
 <!-- begin Phigros log -->
 > Phigros将于2024年8月31日更新！  
 > 更新内容如下：  
-> 新增支线章节四《无相乡》，更多内容将在之后公布。  
+> 支线第四章《无相乡》即将到来，支线第四章的新曲目分别是：  
 >   
+> 「NightTheater」by わかどり  
+> 「Spotlight」by Ardolf  
+> 「ATHAZA」by LeaF  
+> 「心の記憶」by A-39/沙包P  
+> 「Ramification」by rareguy & Reina  
+> 「Der Richter」by Ωμεγα  
 >   
 > 本次更新将带来两首单曲。  
 > 「单曲」中更新的曲目是：  
@@ -21,7 +27,7 @@
 > 「Grimheart」 by Puru  
 > 「Phigros x CHUNITHM 精选集」中更换的曲目是：  
 >   
-> 「月咏に鸣る」 by Feryquitous feat. 蓝月なくる  
+> 「月詠に鳴る」 by Feryquitous feat. 藍月なくる  
 >   
 > 部分曲目的EZ、HD难度谱面进行了重制，对应的成绩将会被清空，部分曲目的IN难度谱面也进行了改动。  
 <!-- end Phigros log -->

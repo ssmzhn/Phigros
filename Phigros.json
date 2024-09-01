@@ -19,7 +19,7 @@
                 "level": "6",
                 "difficulty": "6.5",
                 "combo": "418",
-                "charter": "Arenn Saki"
+                "charter": "阿爽 fixed by Clutter"
             },
             "IN": {
                 "level": "12",
@@ -106,8 +106,8 @@
         "illustrator": "DoublePian",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.0",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "392",
                 "charter": "Su1fuR"
             },
@@ -136,22 +136,22 @@
         "illustrator": "赤芽",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "2",
+                "difficulty": "2.0",
                 "combo": "126",
-                "charter": "Arenn Saki&Catcats"
+                "charter": "Clutter"
             },
             "HD": {
-                "level": "10",
-                "difficulty": "10.5",
+                "level": "8",
+                "difficulty": "8.0",
                 "combo": "262",
-                "charter": "Arenn Saki&Catcats"
+                "charter": "Clutter"
             },
             "IN": {
                 "level": "13",
                 "difficulty": "13.4",
                 "combo": "433",
-                "charter": "Arenn Saki&Catcats"
+                "charter": "阿爽"
             }
         }
     },
@@ -196,16 +196,16 @@
         "illustrator": "翠冷兮",
         "chart": {
             "EZ": {
-                "level": "6",
-                "difficulty": "6.5",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "401",
-                "charter": "小鹏 fixed by Barbarianerman"
+                "charter": "Salt"
             },
             "HD": {
-                "level": "10",
-                "difficulty": "10.7",
+                "level": "8",
+                "difficulty": "8.0",
                 "combo": "696",
-                "charter": "小鹏 fixed by Barbarianerman"
+                "charter": "Salt"
             },
             "IN": {
                 "level": "13",
@@ -226,16 +226,16 @@
         "illustrator": "L-sp4",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.5",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "290",
-                "charter": "月下樱&115"
+                "charter": "StR-1"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.4",
+                "level": "10",
+                "difficulty": "10.0",
                 "combo": "602",
-                "charter": "月下樱&115"
+                "charter": "StR-1"
             },
             "IN": {
                 "level": "14",
@@ -286,16 +286,16 @@
         "illustrator": "ViscerA & Psycholine",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.0",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "165",
-                "charter": "AUTO. SHOOTER."
+                "charter": "Knight"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.3",
+                "level": "9",
+                "difficulty": "9.0",
                 "combo": "537",
-                "charter": "AUTO. SHOOTER."
+                "charter": "Knight"
             },
             "IN": {
                 "level": "14",
@@ -316,16 +316,16 @@
         "illustrator": "CH",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.5",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "182",
-                "charter": "阿爽"
+                "charter": "Clutter"
             },
             "HD": {
                 "level": "8",
-                "difficulty": "8.8",
+                "difficulty": "8.0",
                 "combo": "382",
-                "charter": "阿爽"
+                "charter": "Clutter"
             },
             "IN": {
                 "level": "12",
@@ -346,16 +346,16 @@
         "illustrator": "老张",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "419",
-                "charter": "阿爽"
+                "charter": "Likey"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.8",
+                "level": "10",
+                "difficulty": "10.0",
                 "combo": "692",
-                "charter": "阿爽"
+                "charter": "Likey"
             },
             "IN": {
                 "level": "15",
@@ -409,13 +409,13 @@
                 "level": "4",
                 "difficulty": "4.5",
                 "combo": "250",
-                "charter": "阿爽"
+                "charter": "Knight"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.9",
+                "level": "10",
+                "difficulty": "10.0",
                 "combo": "698",
-                "charter": "阿爽"
+                "charter": "Knight"
             },
             "IN": {
                 "level": "15",
@@ -509,7 +509,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.5",
+                "difficulty": "13.8",
                 "combo": "1194",
                 "charter": "JKy"
             }
@@ -556,16 +556,16 @@
         "illustrator": "笔记RE",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "190",
-                "charter": "Uvernight fixed by Barbarianerman"
+                "charter": "Clutter"
             },
             "HD": {
                 "level": "9",
                 "difficulty": "9.3",
                 "combo": "319",
-                "charter": "Uvernight fixed by Barbarianerman"
+                "charter": "Clutter"
             },
             "IN": {
                 "level": "14",
@@ -599,7 +599,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.4",
                 "combo": "750",
                 "charter": "B B M pow"
             }
@@ -689,9 +689,9 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.8",
                 "combo": "733",
-                "charter": "Ctymax"
+                "charter": "Ctymax but 5 years later"
             }
         }
     },
@@ -875,7 +875,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.6",
                 "combo": "649",
                 "charter": "百九十八"
             }
@@ -905,7 +905,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.5",
                 "combo": "900",
                 "charter": "Barbarianerman"
             }
@@ -995,7 +995,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.6",
+                "difficulty": "15.7",
                 "combo": "1018",
                 "charter": "夜明の剣『靈』"
             },
@@ -1061,7 +1061,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.9",
+                "difficulty": "13.8",
                 "combo": "776",
                 "charter": "Ctymax vs. Barbarianerman"
             }
@@ -1091,7 +1091,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.6",
                 "combo": "745",
                 "charter": "NerSAN"
             }
@@ -1247,7 +1247,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.1",
                 "combo": "1009",
                 "charter": "Ctymax drives in BlindForest"
             }
@@ -1277,7 +1277,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.8",
+                "difficulty": "14.5",
                 "combo": "987",
                 "charter": "Pcat & 百九十八"
             }
@@ -1469,7 +1469,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.1",
                 "combo": "839",
                 "charter": "奇跡の希 feat. 奇跡の従"
             }
@@ -1625,7 +1625,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.3",
                 "combo": "827",
                 "charter": "NerSAN & 百九十八"
             }
@@ -1871,7 +1871,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.8",
+                "difficulty": "15.6",
                 "combo": "1186",
                 "charter": "Latency, Finale of the dream"
             },
@@ -1880,6 +1880,192 @@
                 "difficulty": "16.4",
                 "combo": "1377",
                 "charter": "XMT, Encore after the end"
+            }
+        }
+    },
+    "心の记忆": {
+        "song": "心の记忆",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "150",
+        "composer": "A-39/沙包P",
+        "length": "2:45",
+        "illustrator": "爱39的Konya",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "311",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.9",
+                "combo": "430",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.3",
+                "combo": "777",
+                "charter": "N-23"
+            }
+        }
+    },
+    "Spotlight": {
+        "song": "Spotlight",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "160",
+        "composer": "Ardolf",
+        "length": "2:09",
+        "illustrator": "NerSAN",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "288",
+                "charter": "Debut under spotlights!< Simon_Axis"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.9",
+                "combo": "430",
+                "charter": "Simon_Axis><Likey"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.3",
+                "combo": "777",
+                "charter": "Likey >IT'S SHOWTIME!"
+            }
+        }
+    },
+    "NightTheater": {
+        "song": "NightTheater",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "151",
+        "composer": "わかどり",
+        "length": "2:00",
+        "illustrator": "青鸟",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "256",
+                "charter": "StR-1 watches Ctyfilm"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.6",
+                "combo": "616",
+                "charter": "StR-1 watches Ctyfilm"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.6",
+                "combo": "811",
+                "charter": "LuminousGausbon"
+            }
+        }
+    },
+    "Ramification": {
+        "song": "Ramification",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "175",
+        "composer": "rareguy & Reina",
+        "length": "2:17",
+        "illustrator": "cokenut",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "222",
+                "charter": "inert COC"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.4",
+                "combo": "515",
+                "charter": "totally ramified COC"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "732",
+                "charter": "Simon_Axis·骑士·StR-1"
+            }
+        }
+    },
+    "Der Richter": {
+        "song": "Der Richter",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "192",
+        "composer": "Ωμελα",
+        "length": "2:27",
+        "illustrator": "森灵",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "310",
+                "charter": "Min(C,t,y)"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.4",
+                "combo": "615",
+                "charter": "Max(C,t,y)"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "1149",
+                "charter": "Absolute(6)"
+            }
+        }
+    },
+    "ATHAZA": {
+        "song": "ATHAZA",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Side Story 4 无相乡",
+        "bpm": "240~280",
+        "composer": "LeaF",
+        "length": "2:42",
+        "illustrator": "御坂果子",
+        "chart": {
+            "EZ": {
+                "level": "8",
+                "difficulty": "8.0",
+                "combo": "479",
+                "charter": "LDAJOY&PLEASANT ^V^ LDA"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.9",
+                "combo": "662",
+                "charter": "ANGER&SORROW >^< LDA"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "1137",
+                "charter": "Affection&memories\\\\//Salt&Simon_Axis"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.2",
+                "combo": "1344",
+                "charter": "FORGET::CLUTTER"
             }
         }
     },
@@ -1997,7 +2183,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.7",
+                "difficulty": "14.5",
                 "combo": "1090",
                 "charter": "百九十八"
             }
@@ -2029,7 +2215,7 @@
                 "level": "15",
                 "difficulty": "15.8",
                 "combo": "1148",
-                "charter": "Gausbon"
+                "charter": "Gausbon fixed by XMT"
             }
         }
     },
@@ -2147,7 +2333,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.8",
+                "difficulty": "14.1",
                 "combo": "873",
                 "charter": "百九十八"
             }
@@ -2207,7 +2393,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.7",
                 "combo": "960",
                 "charter": "StupiGGy vs. 阿爽"
             }
@@ -2387,7 +2573,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.8",
+                "difficulty": "14.6",
                 "combo": "1178",
                 "charter": "Ctymax in a volcano,very delicious"
             },
@@ -2609,7 +2795,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.5",
+                "difficulty": "15.4",
                 "combo": "1028",
                 "charter": "XMT小咩兔"
             }
@@ -2759,7 +2945,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.2",
                 "combo": "893",
                 "charter": "We are the Miserable"
             },
@@ -2795,7 +2981,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.4",
+                "difficulty": "15.3",
                 "combo": "1322",
                 "charter": "ST AS is XMT"
             },
@@ -2957,7 +3143,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.7",
+                "difficulty": "14.9",
                 "combo": "1102",
                 "charter": "Hook vs._鉄"
             }
@@ -3419,7 +3605,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.8",
+                "difficulty": "14.6",
                 "combo": "901",
                 "charter": "NerSAN"
             }
@@ -3539,9 +3725,45 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.8",
+                "difficulty": "15.7",
                 "combo": "1060",
                 "charter": "C.Max(PBM)"
+            }
+        }
+    },
+    "月咏に鸣る": {
+        "song": "月咏に鸣る",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-CHUNITHM 精选集",
+        "bpm": "180",
+        "composer": "Freyquitous feat. 蓝月なくる",
+        "length": "2:15",
+        "illustrator": "SEGA(V17AMax Modified)",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "293",
+                "charter": "IUIsauce"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.1",
+                "combo": "544",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "858",
+                "charter": "Myna feat.Sleephead"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "938",
+                "charter": "StupiGGy"
             }
         }
     },
@@ -3671,7 +3893,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.9",
+                "difficulty": "14.7",
                 "combo": "800",
                 "charter": "Salt & _鉄 inspired by 存在証明 [X]-"
             }
@@ -3707,7 +3929,7 @@
             },
             "AT": {
                 "level": "16",
-                "difficulty": "16.2",
+                "difficulty": "16.1",
                 "combo": "1207",
                 "charter": "上班睡大觉_Sleepyhead"
             }
@@ -4109,7 +4331,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.9",
                 "combo": "1156",
                 "charter": "Arenn Saki vs Catcats vs 百九十八"
             },
@@ -4144,8 +4366,8 @@
                 "charter": "阿爽 fixed by Barbarianerman"
             },
             "IN": {
-                "level": "6",
-                "difficulty": "6.0",
+                "level": "8",
+                "difficulty": "8.0",
                 "combo": "237",
                 "charter": "阿爽"
             },
@@ -4180,8 +4402,8 @@
                 "charter": "阿爽 fixed by Barbarianerman"
             },
             "IN": {
-                "level": "11",
-                "difficulty": "11.7",
+                "level": "9",
+                "difficulty": "9.7",
                 "combo": "346",
                 "charter": "JKy"
             }
@@ -4241,7 +4463,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.1",
+                "difficulty": "14.3",
                 "combo": "1031",
                 "charter": "NerSAN & 百九十八"
             }
@@ -4487,7 +4709,7 @@
             },
             "IN": {
                 "level": "12",
-                "difficulty": "12.4",
+                "difficulty": "12.8",
                 "combo": "684",
                 "charter": "Sparkle Ctymax fixed by 百九十八"
             }
@@ -4847,7 +5069,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.6",
                 "combo": "697",
                 "charter": "百九十八"
             }
@@ -4867,19 +5089,19 @@
                 "level": "4",
                 "difficulty": "4.5",
                 "combo": "304",
-                "charter": "Uvernight"
+                "charter": "StR-1"
             },
             "HD": {
-                "level": "11",
-                "difficulty": "11.1",
+                "level": "10",
+                "difficulty": "10.1",
                 "combo": "627",
-                "charter": "Uvernight"
+                "charter": "StR-1"
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.3",
-                "combo": "962",
-                "charter": "Uvernight"
+                "difficulty": "14.1",
+                "combo": "963",
+                "charter": "Uvernight fixed by StR-1"
             }
         }
     },
@@ -5117,7 +5339,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.2",
                 "combo": "661",
                 "charter": "Barbarianerman"
             }
@@ -5237,7 +5459,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.8",
+                "difficulty": "13.9",
                 "combo": "866",
                 "charter": "百九十八 vs. Barbarianerman"
             }
@@ -5297,7 +5519,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.7",
                 "combo": "855",
                 "charter": "BarbariaNERman vs. JKy"
             }
@@ -5777,7 +5999,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.4",
                 "combo": "866",
                 "charter": "Future BarbarXMT"
             }
@@ -6167,7 +6389,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.5",
+                "difficulty": "15.4",
                 "combo": "1140",
                 "charter": "XMT小咩兔"
             }
@@ -6197,7 +6419,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.1",
                 "combo": "910",
                 "charter": "百九十八 vs. Barbarianerman"
             },
@@ -6323,7 +6545,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.6",
+                "difficulty": "15.5",
                 "combo": "1275",
                 "charter": "Alloces"
             }
@@ -6443,7 +6665,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.4",
+                "difficulty": "13.2",
                 "combo": "662",
                 "charter": "Barbarvillea"
             }
@@ -6653,7 +6875,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.5",
                 "combo": "597",
                 "charter": "百九十八"
             }
@@ -6833,7 +7055,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.3",
+                "difficulty": "15.1",
                 "combo": "977",
                 "charter": "Timi今天吃神马"
             }
@@ -7148,6 +7370,36 @@
                 "difficulty": "15.4",
                 "combo": "1262",
                 "charter": "StupiGGy -The Startline-"
+            }
+        }
+    },
+    "Grimheart": {
+        "song": "Grimheart",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "170",
+        "composer": "Puru",
+        "length": "2:30",
+        "illustrator": "临时工&倪尔",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "132",
+                "charter": "SimonAxis"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.8",
+                "combo": "349",
+                "charter": "SimonAxis"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.8",
+                "combo": "577",
+                "charter": "WhiteCat."
             }
         }
     },

@@ -1883,8 +1883,8 @@
             }
         }
     },
-    "心の记忆": {
-        "song": "心の记忆",
+    "心の記憶": {
+        "song": "心の記憶",
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "Side Story 4 无相乡",
@@ -3731,8 +3731,8 @@
             }
         }
     },
-    "月咏に鸣る": {
-        "song": "月咏に鸣る",
+    "月詠に鳴る": {
+        "song": "月詠に鳴る",
         "illustration": "undefined",
         "illustration_big": "undefined",
         "chapter": "Chapter EX-CHUNITHM 精选集",
@@ -7255,8 +7255,8 @@
     },
     "今天不是明天": {
         "song": "今天不是明天",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3b/Jtbsmt_Phigros.png/304px-Jtbsmt_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3b/Jtbsmt_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "125",
         "composer": "PIKASONIC feat. 兰音Reine",
@@ -7285,8 +7285,8 @@
     },
     "Bounded Quietude": {
         "song": "Bounded Quietude",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/b/b0/Bounded_Quietude_Phigros.png/304px-Bounded_Quietude_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/b/b0/Bounded_Quietude_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "280",
         "composer": "Finite Spirit vs SiLiS",
@@ -7400,6 +7400,66 @@
                 "difficulty": "13.8",
                 "combo": "577",
                 "charter": "WhiteCat."
+            }
+        }
+    },
+    "Originally": {
+        "song": "Originally",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "200",
+        "composer": "SNKS & Mizku",
+        "length": "2:24",
+        "illustrator": "Keiby.comics",
+        "chart": {
+            "EZ": {
+                "level": "1",
+                "difficulty": "1.0",
+                "combo": "136",
+                "charter": "StR-1"
+            },
+            "HD": {
+                "level": "6",
+                "difficulty": "9.3",
+                "combo": "453",
+                "charter": "StR-9"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "951",
+                "charter": "StrayCat"
+            }
+        }
+    },
+    "Thrash force": {
+        "song": "Thrash force",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "190",
+        "composer": "KAH vs. E0ri4",
+        "length": "2:28",
+        "illustrator": "自動車 原付 vs. GAMEBAKA",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "219",
+                "charter": "thrAsh forSe"
+            },
+            "HD": {
+                "level": "6",
+                "difficulty": "9.3",
+                "combo": "453",
+                "charter": "thrAsh forSe"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "884",
+                "charter": "Uvernight & Su1fuR"
             }
         }
     },

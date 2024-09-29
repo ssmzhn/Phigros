@@ -2027,7 +2027,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.5",
+                "difficulty": "15.6",
                 "combo": "1149",
                 "charter": "Absolute(6)"
             }
@@ -2057,7 +2057,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.4",
+                "difficulty": "15.5",
                 "combo": "1137",
                 "charter": "Affection&memories\\\\//Salt&Simon_Axis"
             },
@@ -7420,7 +7420,7 @@
                 "charter": "StR-1"
             },
             "HD": {
-                "level": "6",
+                "level": "9",
                 "difficulty": "9.3",
                 "combo": "453",
                 "charter": "StR-9"
@@ -7450,9 +7450,9 @@
                 "charter": "thrAsh forSe"
             },
             "HD": {
-                "level": "6",
-                "difficulty": "9.3",
-                "combo": "453",
+                "level": "10",
+                "difficulty": "10.7",
+                "combo": "673",
                 "charter": "thrAsh forSe"
             },
             "IN": {

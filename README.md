@@ -10,11 +10,16 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年9月20日更新！本次更新包含两首单曲。  
-> 两首新曲目是：  
+> Phigros x 节奏大师联动追加曲目将于2024年10月18日更新！  
+> 更新的曲目分别是：  
 >   
-> 「Thrash Force」by KAH vs. E0ri4  
-> 「Originally」by SNKS & Mizku  
+> 「黄金之城 (GOLD TOWN)」 by: MEMME  
+> 「双重间谍 (Double Agent)」 by: Wav.AV  
+> 「幻影鬼魅 (PLEASE)」 by: R300K  
+> 下列曲目将从「单曲」移至「节奏大师精选集」：  
+>   
+> 「君往何处 (Quo Vadis)」 by: M2U  
+> 「暗夜苏醒 (REANIMATE)」 by: Warak  
 <!-- end Phigros log -->
 
 ## 介绍

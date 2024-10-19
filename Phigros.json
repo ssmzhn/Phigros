@@ -4151,6 +4151,162 @@
             }
         }
     },
+    "君往何处（Quo Vadis）": {
+        "song": "君往何处（Quo Vadis）",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/e4/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png/304px-%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/e4/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png",
+        "chapter": "节奏大师精选集",
+        "bpm": "160",
+        "composer": "M2U",
+        "length": "2:25",
+        "illustrator": "LRAY",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "208",
+                "charter": "Where are Ctymax and 阿爽？"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.6",
+                "combo": "390",
+                "charter": "Where are Ctymax and 阿爽？"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "935",
+                "charter": "Salt"
+            }
+        }
+    },
+    "暗夜苏醒（REANIMATE）": {
+        "song": "暗夜苏醒（REANIMATE）",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/ab/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png/304px-%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/ab/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png",
+        "chapter": "节奏大师精选集",
+        "bpm": "174",
+        "composer": "Warak",
+        "length": "2:36",
+        "illustrator": "MHK",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "236",
+                "charter": "Deep Dark Ctymax"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.8",
+                "combo": "842",
+                "charter": "reanimate_6k_nm.imd"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "1262",
+                "charter": "StupiGGy -The Startline-"
+            }
+        }
+    },
+    "黄金之城（GOLD TOWN）": {
+        "song": "黄金之城（GOLD TOWN）",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "节奏大师精选集",
+        "bpm": "160",
+        "composer": "MEMME",
+        "length": "2:03",
+        "illustrator": "RM Design Team（青鸟 modified）",
+        "chart": {
+            "EZ": {
+                "level": "2",
+                "difficulty": "2.0",
+                "combo": "90",
+                "charter": "Passport:Visiter"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "408",
+                "charter": "Passport:Constructer"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "857",
+                "charter": "Passport:Governor"
+            }
+        }
+    },
+    "双重间谍（Double Agent)": {
+        "song": "双重间谍（Double Agent)",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "节奏大师精选集",
+        "bpm": "160",
+        "composer": "Wav.AV",
+        "length": "2:26",
+        "illustrator": "RM Design Team（青鸟 modified）",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "346",
+                "charter": "穿山甲-1"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.8",
+                "combo": "738",
+                "charter": "StupiGGy"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "1353",
+                "charter": "Spy-Simon_Axis｜Spy-骑士"
+            }
+        }
+    },
+    "幻影鬼魅（PLEASE）": {
+        "song": "幻影鬼魅（PLEASE）",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "节奏大师精选集",
+        "bpm": "161",
+        "composer": "R300K",
+        "length": "2:04",
+        "illustrator": "RM Design Team（青鸟 modified）",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.5",
+                "combo": "283",
+                "charter": "COC"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.6",
+                "combo": "639",
+                "charter": "COC"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.1",
+                "combo": "1080",
+                "charter": "M3d1uM"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1145",
+                "charter": "imd visual charter \"Rikko\" since 2014"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",
@@ -7310,66 +7466,6 @@
                 "difficulty": "15.9",
                 "combo": "1286",
                 "charter": "孤独な騎士 Against 魔王、大咩兔"
-            }
-        }
-    },
-    "君往何处（Quo Vadis）": {
-        "song": "君往何处（Quo Vadis）",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/e/e4/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png/304px-%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/e/e4/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84%EF%BC%88Quo_Vadis%EF%BC%89_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "160",
-        "composer": "M2U",
-        "length": "2:25",
-        "illustrator": "LRAY",
-        "chart": {
-            "EZ": {
-                "level": "4",
-                "difficulty": "4.0",
-                "combo": "208",
-                "charter": "Where are Ctymax and 阿爽？"
-            },
-            "HD": {
-                "level": "8",
-                "difficulty": "8.6",
-                "combo": "390",
-                "charter": "Where are Ctymax and 阿爽？"
-            },
-            "IN": {
-                "level": "14",
-                "difficulty": "14.5",
-                "combo": "935",
-                "charter": "Salt"
-            }
-        }
-    },
-    "暗夜苏醒（REANIMATE）": {
-        "song": "暗夜苏醒（REANIMATE）",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/a/ab/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png/304px-%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/a/ab/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92%EF%BC%88REANIMATE%EF%BC%89_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "174",
-        "composer": "Warak",
-        "length": "2:36",
-        "illustrator": "MHK",
-        "chart": {
-            "EZ": {
-                "level": "5",
-                "difficulty": "5.0",
-                "combo": "236",
-                "charter": "Deep Dark Ctymax"
-            },
-            "HD": {
-                "level": "12",
-                "difficulty": "12.8",
-                "combo": "842",
-                "charter": "reanimate_6k_nm.imd"
-            },
-            "IN": {
-                "level": "15",
-                "difficulty": "15.4",
-                "combo": "1262",
-                "charter": "StupiGGy -The Startline-"
             }
         }
     },

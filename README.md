@@ -10,16 +10,10 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros x 节奏大师联动追加曲目将于2024年10月18日更新！  
-> 更新的曲目分别是：  
->   
-> 「黄金之城 (GOLD TOWN)」 by: MEMME  
-> 「双重间谍 (Double Agent)」 by: Wav.AV  
-> 「幻影鬼魅 (PLEASE)」 by: R300K  
-> 下列曲目将从「单曲」移至「节奏大师精选集」：  
->   
-> 「君往何处 (Quo Vadis)」 by: M2U  
-> 「暗夜苏醒 (REANIMATE)」 by: Warak  
+> Phigros将于2024年11月8日更新！本次更新包含两首单曲。  
+> 两首新曲目是：  
+> •「Schadenfreude」 by: ZxNX  
+> •「Le temps perdu」 by: Daison  
 <!-- end Phigros log -->
 
 ## 介绍

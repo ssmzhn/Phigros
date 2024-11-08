@@ -4159,7 +4159,7 @@
         "bpm": "160",
         "composer": "M2U",
         "length": "2:25",
-        "illustrator": "LRAY",
+        "illustrator": "LRAY（青鸟 modified）",
         "chart": {
             "EZ": {
                 "level": "4",
@@ -4189,7 +4189,7 @@
         "bpm": "174",
         "composer": "Warak",
         "length": "2:36",
-        "illustrator": "MHK",
+        "illustrator": "MHK（青鸟 modified）",
         "chart": {
             "EZ": {
                 "level": "5",
@@ -4213,8 +4213,8 @@
     },
     "黄金之城（GOLD TOWN）": {
         "song": "黄金之城（GOLD TOWN）",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/7/7c/%E9%BB%84%E9%87%91%E4%B9%8B%E5%9F%8E_%28GOLD_TOWN%29_Phigros.png/304px-%E9%BB%84%E9%87%91%E4%B9%8B%E5%9F%8E_%28GOLD_TOWN%29_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/7/7c/%E9%BB%84%E9%87%91%E4%B9%8B%E5%9F%8E_%28GOLD_TOWN%29_Phigros.png",
         "chapter": "节奏大师精选集",
         "bpm": "160",
         "composer": "MEMME",
@@ -4243,8 +4243,8 @@
     },
     "双重间谍（Double Agent)": {
         "song": "双重间谍（Double Agent)",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/dd/%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D_%28Double_Agent%29_Phigros.png/304px-%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D_%28Double_Agent%29_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/dd/%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D_%28Double_Agent%29_Phigros.png",
         "chapter": "节奏大师精选集",
         "bpm": "160",
         "composer": "Wav.AV",
@@ -4267,14 +4267,14 @@
                 "level": "15",
                 "difficulty": "15.5",
                 "combo": "1353",
-                "charter": "Spy-Simon_Axis｜Spy-骑士"
+                "charter": "Spy-Simon_Axis｜Spy-騎士"
             }
         }
     },
     "幻影鬼魅（PLEASE）": {
         "song": "幻影鬼魅（PLEASE）",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/1/1a/%E5%B9%BB%E5%BD%B1%E9%AC%BC%E9%AD%85_%28PLEASE%29_Phigros.png/304px-%E5%B9%BB%E5%BD%B1%E9%AC%BC%E9%AD%85_%28PLEASE%29_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/1/1a/%E5%B9%BB%E5%BD%B1%E9%AC%BC%E9%AD%85_%28PLEASE%29_Phigros.png",
         "chapter": "节奏大师精选集",
         "bpm": "161",
         "composer": "R300K",
@@ -7556,6 +7556,66 @@
                 "difficulty": "15.2",
                 "combo": "884",
                 "charter": "Uvernight & Su1fuR"
+            }
+        }
+    },
+    "Schadenfreude": {
+        "song": "Schadenfreude",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "198",
+        "composer": "ZxNX",
+        "length": "2:32",
+        "illustrator": "验光蒸鱼",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "351",
+                "charter": "StuRmwind"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.1",
+                "combo": "600",
+                "charter": "StuRmfeuer"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "1257",
+                "charter": "\"-1\""
+            }
+        }
+    },
+    "Le temps perdu": {
+        "song": "Le temps perdu",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "188",
+        "composer": "Daison",
+        "length": "2:27",
+        "illustrator": "子狼",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "262",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.3",
+                "combo": "588",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "12",
+                "difficulty": "12.5",
+                "combo": "698",
+                "charter": "Likey -For an old friend-"
             }
         }
     },

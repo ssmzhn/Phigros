@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年11月8日更新！本次更新包含两首单曲。  
+> Phigros已于2024年11月8日更新！更新包含两首单曲。  
 > 两首新曲目是：  
 > •「Schadenfreude」 by: ZxNX  
 > •「Le temps perdu」 by: Daison  

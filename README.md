@@ -10,10 +10,11 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros已于2024年11月8日更新！更新包含两首单曲。  
-> 两首新曲目是：  
-> •「Schadenfreude」 by: ZxNX  
-> •「Le temps perdu」 by: Daison  
+> Phigros将于2024年11月29日更新！本次更新包含与音波狂潮II萤光宇宙联动的一首曲目和与音乐游戏「vivid/stasis」联动的两首曲目。  
+> 更新的曲目是：  
+> •「Comet」 by: CNHKSS feat.符白牙  
+> •「Fixations Toward the Stars」 by：Foodbot  
+> •「valor/starcross」 by：Lundy vs. Wyvren  
 <!-- end Phigros log -->
 
 ## 介绍

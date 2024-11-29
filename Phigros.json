@@ -7619,6 +7619,96 @@
             }
         }
     },
+    "Fixations Toward the Stars": {
+        "song": "Fixations Toward the Stars",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "150",
+        "composer": "Foodbot",
+        "length": "2:49",
+        "illustrator": "AriaL [edited by Stelli]",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "193",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.8",
+                "combo": "491",
+                "charter": "OPENING/Level R"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "835",
+                "charter": "Salt"
+            }
+        }
+    },
+    "valor/starcross": {
+        "song": "valor/starcross",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "175",
+        "composer": "Lundy vs. Wyvren",
+        "length": "2:39",
+        "illustrator": "AriaL & 57_dayo [edited by Stelli]",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.5",
+                "combo": "479",
+                "charter": "vacant/stupiggy"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.6",
+                "combo": "835",
+                "charter": "vacant/stupiggy"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1083",
+                "charter": "vesper/straycat"
+            }
+        }
+    },
+    "Comet": {
+        "song": "Comet",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "180",
+        "composer": "CNHKSS feat. 符白牙",
+        "length": "2:31",
+        "illustrator": "小黄鸡叽叽叽叽叽叽修复中",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "138",
+                "charter": "StaR-1"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.5",
+                "combo": "752",
+                "charter": "無彩色"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.7",
+                "combo": "874",
+                "charter": "Likey & Barbarianerman"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/304px-Introduction.png",

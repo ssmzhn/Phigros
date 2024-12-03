@@ -7621,8 +7621,8 @@
     },
     "Fixations Toward the Stars": {
         "song": "Fixations Toward the Stars",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/4/40/Fixations_Toward_the_Stars_Phigros.png/304px-Fixations_Toward_the_Stars_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/4/40/Fixations_Toward_the_Stars_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "150",
         "composer": "Foodbot",
@@ -7651,8 +7651,8 @@
     },
     "valor/starcross": {
         "song": "valor/starcross",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/9/94/Valor-starcross_Phigros.png/304px-Valor-starcross_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/9/94/Valor-starcross_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "175",
         "composer": "Lundy vs. Wyvren",
@@ -7681,8 +7681,8 @@
     },
     "Comet": {
         "song": "Comet",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d6/Comet_Phigros.png/304px-Comet_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d6/Comet_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "180",
         "composer": "CNHKSS feat. 符白牙",

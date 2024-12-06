@@ -10,7 +10,7 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年11月29日更新！本次更新包含与音波狂潮II萤光宇宙联动的一首曲目和与音乐游戏「vivid/stasis」联动的两首曲目。  
+> Phigros已于2024年11月29日更新！本次更新包含与音波狂潮II萤光宇宙联动的一首曲目和与音乐游戏「vivid/stasis」联动的两首曲目。  
 > 更新的曲目是：  
 > •「Comet」 by: CNHKSS feat.符白牙  
 > •「Fixations Toward the Stars」 by：Foodbot  

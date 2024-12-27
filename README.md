@@ -17,7 +17,7 @@
 > 联动更新的曲目是：  
 >   
 > 「Devotion」 by Connexio  
-> 「白と黑のバケモノ」 by テヅカ  
+> 「白と黒のバケモノ」 by テヅカ  
 <!-- end Phigros log -->
 
 ## 介绍

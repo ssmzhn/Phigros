@@ -7709,6 +7709,96 @@
             }
         }
     },
+    "白と黑のバケモノ": {
+        "song": "白と黑のバケモノ",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "205",
+        "composer": "テヅカ",
+        "length": "2:20",
+        "illustrator": "久世",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "231",
+                "charter": "白"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.4",
+                "combo": "914",
+                "charter": "monochrome ILLUSION"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.7",
+                "combo": "1197",
+                "charter": "Simon_Axis"
+            }
+        }
+    },
+    "Devotion": {
+        "song": "Devotion",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "167",
+        "composer": "Connexio",
+        "length": "2:38",
+        "illustrator": "Shimoruchiko",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "317",
+                "charter": "StupiGGy"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.8",
+                "combo": "657",
+                "charter": "StupiGGy"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.9",
+                "combo": "793",
+                "charter": "Salt"
+            }
+        }
+    },
+    "Kirakira Noel Story!!": {
+        "song": "Kirakira Noel Story!!",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "180",
+        "composer": "Reku Mochizuki",
+        "length": "2:17",
+        "illustrator": "ナナシ",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "268",
+                "charter": "村头村头 CTY Story!!"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "626",
+                "charter": "头鱼头鱼 MAX Story!!"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.2",
+                "combo": "935",
+                "charter": "N\\erry Xmas 2024"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/304px-Introduction.png",

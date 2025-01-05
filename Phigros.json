@@ -7711,8 +7711,8 @@
     },
     "白と黑のバケモノ": {
         "song": "白と黑のバケモノ",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/6a/BlackWhiteMonster_Phigros.png/304px-BlackWhiteMonster_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/6a/BlackWhiteMonster_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "205",
         "composer": "テヅカ",
@@ -7741,8 +7741,8 @@
     },
     "Devotion": {
         "song": "Devotion",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3e/Devotion_Phigros.png/304px-Devotion_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3e/Devotion_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "167",
         "composer": "Connexio",
@@ -7771,8 +7771,8 @@
     },
     "Kirakira Noel Story!!": {
         "song": "Kirakira Noel Story!!",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/c/cc/Kirakira_Noel_Story_Phigros.png/304px-Kirakira_Noel_Story_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/c/cc/Kirakira_Noel_Story_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "180",
         "composer": "Reku Mochizuki",

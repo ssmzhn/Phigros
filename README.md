@@ -10,14 +10,11 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2024年12月27日更新！本次更新包含一首单曲以及与音乐游戏「Berry Melody」联动的两首曲目。  
-> 更新的单曲是：  
+> Phigros将于2025年1月17日更新！本次更新包含两首单曲。  
+> 更新的曲目是：  
 >   
-> 「Kirakira Noel Story!!」 by Reku Mochizuki  
-> 联动更新的曲目是：  
->   
-> 「Devotion」 by Connexio  
-> 「白と黒のバケモノ」 by テヅカ  
+> 「Shelter」 by MeatyRabbit & NceS  
+> 「蝎虎天体 -Lacertid-」 by Cream vs. Daily天利  
 <!-- end Phigros log -->
 
 ## 介绍

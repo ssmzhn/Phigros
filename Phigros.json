@@ -7799,6 +7799,66 @@
             }
         }
     },
+    "Shelter": {
+        "song": "Shelter",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "170",
+        "composer": "MeatyRabbit & NceS",
+        "length": "2:18",
+        "illustrator": "诡异童话",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "265",
+                "charter": "Clutter with ShelteR"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.3",
+                "combo": "388",
+                "charter": "Clutter with ShelteR"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.1",
+                "combo": "696",
+                "charter": "人外侵略地球计划"
+            }
+        }
+    },
+    "蝎虎天体 -Lacertid-": {
+        "song": "蝎虎天体 -Lacertid-",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "220",
+        "composer": "Cream vs. Daily天利",
+        "length": "2:24",
+        "illustrator": "白 & 小鹏xpeng",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "273",
+                "charter": "StR-1"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.7",
+                "combo": "596",
+                "charter": "StR-1"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "1238",
+                "charter": "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/304px-Introduction.png",

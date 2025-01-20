@@ -1141,19 +1141,19 @@
                 "level": "3",
                 "difficulty": "3.0",
                 "combo": "350",
-                "charter": "Pcat『Scatter』"
+                "charter": "Pcat‘Scatter’"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.5",
                 "combo": "773",
-                "charter": "阿爽『Destroy』"
+                "charter": "阿爽‘Destroy’"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.9",
                 "combo": "1500",
-                "charter": "NerSAN vs. 阿爽『Collapse』"
+                "charter": "NerSAN vs. 阿爽‘Collapse’"
             }
         }
     },
@@ -3163,19 +3163,19 @@
                 "level": "3",
                 "difficulty": "3.5",
                 "combo": "120",
-                "charter": "「流」年大顺"
+                "charter": "“流”年大顺"
             },
             "HD": {
                 "level": "6",
                 "difficulty": "6.5",
                 "combo": "309",
-                "charter": "「流」年大顺"
+                "charter": "“流”年大顺"
             },
             "IN": {
                 "level": "7",
                 "difficulty": "7.0",
                 "combo": "365",
-                "charter": "「兔」年大吉"
+                "charter": "“兔”年大吉"
             }
         }
     },
@@ -3373,19 +3373,19 @@
                 "level": "4",
                 "difficulty": "4.5",
                 "combo": "242",
-                "charter": "Rikko from 「PHIGROS MOON」"
+                "charter": "Rikko from “PHIGROS MOON”"
             },
             "HD": {
                 "level": "10",
                 "difficulty": "10.7",
                 "combo": "555",
-                "charter": "Rikko from 「PHIGROS MOON」"
+                "charter": "Rikko from “PHIGROS MOON”"
             },
             "IN": {
                 "level": "14",
                 "difficulty": "14.5",
                 "combo": "1199",
-                "charter": "Ner & 198 from 「PHIGROS MOON」"
+                "charter": "Ner & 198 from “PHIGROS MOON”"
             }
         }
     },
@@ -4639,19 +4639,19 @@
                 "level": "7",
                 "difficulty": "7.5",
                 "combo": "520",
-                "charter": "撕裂者『無極』 fixed by 晨"
+                "charter": "撕裂者‘無極’ fixed by 晨"
             },
             "HD": {
                 "level": "11",
                 "difficulty": "11.2",
                 "combo": "704",
-                "charter": "撕裂者『無極』 fixed by 晨"
+                "charter": "撕裂者‘無極’ fixed by 晨"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.2",
                 "combo": "1186",
-                "charter": "撕裂者『Alloces vs Shin』"
+                "charter": "撕裂者‘Alloces vs Shin’"
             }
         }
     },
@@ -6271,13 +6271,13 @@
                 "level": "11",
                 "difficulty": "11.6",
                 "combo": "548",
-                "charter": "BlindForest『Observing』"
+                "charter": "BlindForest‘Observing’"
             },
             "IN": {
                 "level": "15",
                 "difficulty": "15.5",
                 "combo": "793",
-                "charter": "Jeitie & CorruptedEntity 『Hollow』"
+                "charter": "Jeitie & CorruptedEntity ‘Hollow’"
             }
         }
     },
@@ -7709,8 +7709,8 @@
             }
         }
     },
-    "白と黑のバケモノ": {
-        "song": "白と黑のバケモノ",
+    "白と黒のバケモノ": {
+        "song": "白と黒のバケモノ",
         "illustration": "https://img.moegirl.org.cn/common/thumb/6/6a/BlackWhiteMonster_Phigros.png/304px-BlackWhiteMonster_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/6/6a/BlackWhiteMonster_Phigros.png",
         "chapter": "单曲精选集",

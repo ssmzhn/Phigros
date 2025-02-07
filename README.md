@@ -13,8 +13,8 @@
 > Phigros将于2025年1月17日更新！本次更新包含两首单曲。  
 > 更新的曲目是：  
 >   
-> “Shelter” by MeatyRabbit & NceS  
-> “蝎虎天体 -Lacertid-” by Cream vs. Daily天利  
+> 「Shelter」 by MeatyRabbit & NceS  
+> 「蝎虎天体 -Lacertid-」 by Cream vs. Daily天利  
 <!-- end Phigros log -->
 
 ## 介绍

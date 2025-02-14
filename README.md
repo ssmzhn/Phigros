@@ -10,11 +10,20 @@
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2025年1月17日更新！本次更新包含两首单曲。  
-> 更新的曲目是：  
+> Phigros已于2025年2月14日更新！更新内容如下：  
+> 1.本次更新带来了两首单曲：  
 >   
-> 「Shelter」 by MeatyRabbit & NceS  
-> 「蝎虎天体 -Lacertid-」 by Cream vs. Daily天利  
+> 「インマイマインド」 by レシオP  
+> 「ニライカナイ (NiraicA_nai Mix)」 by roop from STR  
+> 2.本次更新还包含一首中国大陆限定的单曲，更新的曲目是：  
+>   
+> 「贝多芬祝福 (Beethoven Blessing) 」 by Nauts  
+> 3.本次更新追加了AT谱面的曲目为：  
+>   
+> 「Ποσειδών」 by: 1112 vs. Star＊  
+> 「Ark」 by: kanoryo  
+> 4.本次更新还会调整谱面难度，更新后部分谱面的难度和玩家的Ranking Score将会变动。  
+> 5.日后的更新中，将有两首特殊曲目常驻；同时其他包括支线章节在内的曲包热门曲将会逐步追加AT难度。  
 <!-- end Phigros log -->
 
 ## 介绍

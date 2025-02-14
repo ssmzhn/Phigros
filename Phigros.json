@@ -5149,7 +5149,7 @@
         "bpm": "128",
         "composer": "CAP3",
         "length": "2:24",
-        "illustrator": "TiNK",
+        "illustrator": "TNiK",
         "chart": {
             "EZ": {
                 "level": "6",
@@ -6055,13 +6055,13 @@
                 "level": "6",
                 "difficulty": "6.0",
                 "combo": "338",
-                "charter": "Bea"
+                "charter": "Bear"
             },
             "HD": {
                 "level": "9",
                 "difficulty": "9.8",
                 "combo": "476",
-                "charter": "Bea"
+                "charter": "Bear"
             },
             "IN": {
                 "level": "13",
@@ -6289,7 +6289,7 @@
         "bpm": "188",
         "composer": "U-ske feat. 棗いつき",
         "length": "1:42",
-        "illustrator": "绿风マルト",
+        "illustrator": "緑風マルト",
         "chart": {
             "EZ": {
                 "level": "4",
@@ -7445,7 +7445,7 @@
         "illustration_big": "https://img.moegirl.org.cn/common/b/b0/Bounded_Quietude_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "280",
-        "composer": "Finite Spirit vs SiLiS",
+        "composer": "Finite Limit vs SiLiS",
         "length": "2:32",
         "illustrator": "Hiro vs Zeth",
         "chart": {
@@ -7709,8 +7709,8 @@
             }
         }
     },
-    "白と黑のバケモノ": {
-        "song": "白と黑のバケモノ",
+    "白と黒のバケモノ": {
+        "song": "白と黒のバケモノ",
         "illustration": "https://img.moegirl.org.cn/common/thumb/6/6a/BlackWhiteMonster_Phigros.png/304px-BlackWhiteMonster_Phigros.png",
         "illustration_big": "https://img.moegirl.org.cn/common/6/6a/BlackWhiteMonster_Phigros.png",
         "chapter": "单曲精选集",
@@ -7801,8 +7801,8 @@
     },
     "Shelter": {
         "song": "Shelter",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/f/f8/Shelter_Phigros.png/304px-Shelter_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/f/f8/Shelter_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "170",
         "composer": "MeatyRabbit & NceS",

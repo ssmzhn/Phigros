@@ -7961,6 +7961,66 @@
             }
         }
     },
+    "Swing Skip Drop": {
+        "song": "Swing Skip Drop",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "210",
+        "composer": "ミハイル",
+        "length": "2:04",
+        "illustrator": "ディン",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "219",
+                "charter": "Helabot"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.1",
+                "combo": "327",
+                "charter": "Helabot"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "977",
+                "charter": "Swing Salt ♪"
+            }
+        }
+    },
+    "宇宙残骸少女（Cosmic Dusty Girl）": {
+        "song": "宇宙残骸少女（Cosmic Dusty Girl）",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "140",
+        "composer": "辻原一郎",
+        "length": "2:15",
+        "illustrator": "TOTOTO",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "70",
+                "charter": "不喜欢键的COC"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "322",
+                "charter": "不喜欢线的COC"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.7",
+                "combo": "691",
+                "charter": "~漂泊者~凹酱"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/304px-Introduction.png",

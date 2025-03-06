@@ -419,7 +419,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.1",
+                "difficulty": "15.3",
                 "combo": "941",
                 "charter": "NerSAN"
             }
@@ -7843,8 +7843,8 @@
     },
     "蝎虎天体 -Lacertid-": {
         "song": "蝎虎天体 -Lacertid-",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d4/Lacertid_Phigros.png/304px-Lacertid_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d4/Lacertid_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "220",
         "composer": "Cream vs. Daily天利",
@@ -7873,8 +7873,8 @@
     },
     "インマイマインド": {
         "song": "インマイマインド",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/db/%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_Phigros.png/304px-%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/db/%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "155",
         "composer": "レシオP",
@@ -7903,8 +7903,8 @@
     },
     "ニライカナイ(NiraicA_ nai Mix)": {
         "song": "ニライカナイ(NiraicA_ nai Mix)",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3d/%E3%83%8B%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%A4_Phigros.png/304px-%E3%83%8B%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%A4_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3d/%E3%83%8B%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%A4_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "130",
         "composer": "roop from STR",
@@ -7933,8 +7933,8 @@
     },
     "贝多芬祝福(Beethoven Blessing)": {
         "song": "贝多芬祝福(Beethoven Blessing)",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/2/2c/Beethoven_Blessing_Phigros.png/304px-Beethoven_Blessing_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/2/2c/Beethoven_Blessing_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "170",
         "composer": "Nauts",
@@ -7963,8 +7963,8 @@
     },
     "Swing Skip Drop": {
         "song": "Swing Skip Drop",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/c/ce/Swing_Skip_Drop_Phigros.png/304px-Swing_Skip_Drop_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/c/ce/Swing_Skip_Drop_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "210",
         "composer": "ミハイル",
@@ -7993,8 +7993,8 @@
     },
     "宇宙残骸少女（Cosmic Dusty Girl）": {
         "song": "宇宙残骸少女（Cosmic Dusty Girl）",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/ac/Cosmic_Dusty_Girl_Phigros.png/304px-Cosmic_Dusty_Girl_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/ac/Cosmic_Dusty_Girl_Phigros.png",
         "chapter": "单曲精选集",
         "bpm": "140",
         "composer": "辻原一郎",
